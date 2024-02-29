@@ -1,5 +1,6 @@
 {
   "accentColor": "",
   "theme": "obsidian",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "cssTheme": "Tokyo Night"
 }

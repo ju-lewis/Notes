@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CRIM20007/Week 1.md",
+                "file": "COMP20007/Week 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "810f95506c44441e",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CRIM20007/Week 1.md",
+                "file": "COMP20007/Week 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CRIM20007/Week 1.md",
+                "file": "COMP20007/Week 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CRIM20007/Week 1.md"
+                "file": "COMP20007/Week 1.md"
               }
             }
           }
@@ -146,12 +147,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc39776746fa5a5f",
+  "active": "2dc6831b1d2a9c63",
   "lastOpenFiles": [
+    "COMP20007/Subject Overview.md",
+    "COMP20007/Week 1.md",
+    "CRIM20007/Week 1.md",
     "CRIM20007/Subject Overview.md",
     "CRIM20007/Required Readings.md",
-    "CRIM20007/Week 1.md",
-    "COMP20007/Subject Overview.md",
     "Untitled",
     "COMP20007",
     "SWEN20003/Subject Overview.md",
