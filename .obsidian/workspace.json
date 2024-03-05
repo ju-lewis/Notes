@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP20007/Week 1.md",
+                "file": "COMP20007/Lectures.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "810f95506c44441e",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP20007/Week 1.md",
+                "file": "COMP20007/Lectures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP20007/Week 1.md",
+                "file": "COMP20007/Lectures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMP20007/Week 1.md"
+                "file": "COMP20007/Lectures.md"
               }
             }
           }
@@ -147,11 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2dc6831b1d2a9c63",
+  "active": "dc39776746fa5a5f",
   "lastOpenFiles": [
+    "CRIM20007/Lectures.md",
+    "SWEN20003/Lectures.md",
+    "SWEN20003/Assignments.md",
+    "COMP20007/Lectures.md",
     "COMP20007/Subject Overview.md",
-    "COMP20007/Week 1.md",
-    "CRIM20007/Week 1.md",
     "CRIM20007/Subject Overview.md",
     "CRIM20007/Required Readings.md",
     "Untitled",
