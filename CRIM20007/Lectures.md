@@ -1,5 +1,5 @@
 
-# What is digital criminology?
+# Week 1
 Digital Criminology refers to the rapidly developing field of scholarship that applies criminological, social, and cultural technical theory to the study of crime, deviance, and justice in a digital society - Stratton et al., 2017:27 
 
 ### Cyber-enabled Crimes (old wine in new bottle theory):
@@ -93,4 +93,26 @@ Interesting materialists posit that things can steal and imitate life, but never
 		- ***But what if the object can generate a need that has nothing to do with the intentions of the 'producer' of the object?***
 			- Is the object liable? Is the agent liable?
 			- This links back to the internet/algorithms - is the internet capable of having agency? Can you be pulled into the network, having it induce needs within you?
+
+
+# Week 2
+
+## First, Second, and third-order technologies
+**First Order:**
+- The technology is in-between 
+
+**Second Order:**
+
+**Third Order:**
+- The 'Technology-as-user'
+- The technology is in between one technology and another
+- Examples: Information and communication technology, AGI
+
+## Actor Network Theory
+**Botnets as hybrid criminal actor-networks** (Van der Wagen and Pieter (2015: 593))
+
+### The criminology of Hybrids
+Draw's on Bruno Latour's (1993) notion of technosocial hybrids to examine networks of crime and control
+
+Brown (2006) argues that criminologists often preserve hierarchical binary divisions between *nature and culture* and *beings and things*.
 
