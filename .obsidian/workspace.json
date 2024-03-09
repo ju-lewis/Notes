@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CRIM20007/Lectures.md",
+                "file": "COMP20007/Lectures.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CRIM20007/Lectures.md",
+                "file": "COMP20007/Lectures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CRIM20007/Lectures.md",
+                "file": "COMP20007/Lectures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CRIM20007/Lectures.md"
+                "file": "COMP20007/Lectures.md"
               }
             }
           }
@@ -150,9 +150,8 @@
   "lastOpenFiles": [
     "CRIM20007/Workshops.md",
     "CRIM20007/Lectures.md",
-    "COMP20007/Lectures.md",
-    "test.md",
     "SWEN20003/Lectures.md",
+    "COMP20007/Lectures.md",
     "SWEN20003/Assignments.md",
     "COMP20007/Subject Overview.md",
     "CRIM20007/Subject Overview.md",
@@ -161,6 +160,7 @@
     "COMP20007",
     "SWEN20003/Subject Overview.md",
     "CRIM20007",
-    "SWEN20003"
+    "SWEN20003",
+    "Untitled.md"
   ]
 }
