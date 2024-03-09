@@ -57,3 +57,30 @@ We want to assess efficiency as a function of input size:
 If *c* is the cost of a *basic operation* and g(n) is the number of times the operation is performed for input of size n,
 <div style="text-align: center;">running time t(n) ≈ c*g(n)</div>
 
+
+### Asymptotic Analysis
+We are interested in *growth rate* of functions:
+- ignore constant factors
+- Ignore small input sizes
+
+$$ f(n) \prec g(n) \iff \lim_{n->\infty}\frac{f(n)}{g(n)}=0$$
+
+
+### Big-Oh Notation
+
+We write $t(n)\in O(g(n))$ when, for some $c$ and $n_0$,
+
+$$n > n_0 \implies t(n) < c \cdot g(n)$$
+*For any constant $n$, there is a multiple of $g(n)$ that is greater than $t(n)$*
+
+For example,
+$$ 1 + 2 + ... + n = \frac{(n+1)n}{2} \in O(n^2) $$
+
+
+### Big-Omega and Big-Theta
+
+$\Omega(g(n))$ denotes the set of functions that grow **no slower than $g$**, so $\Omega$ is for *lower* bounds. (So the big-omega notation of a function means the algorithm will always take longer to execute than $g(n)$  )
+
+
+$\Theta(g(n))$ is for *exact* order growth.
+
