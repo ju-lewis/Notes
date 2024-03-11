@@ -123,3 +123,130 @@ Circle.numCircles;
 
 ## Static Methods
 Static methods are also called directly from the class
+
+## Static Summary:
+
+**Static Members:** Methods and attributes that are not specific to any object of the class.
+**Static Variable:** A variable that is shared among all objects of the class; a single instance is shared among all objects of the class.
+**Static Method:** A method that does not access or modify any instance variables of the class.
+
+# Week 3
+## Standard Methods
+
+Some useful standard methods:
+- `equals()`
+- `toString()`
+	- Called by `System.out.println()` by default
+- `copy()`
+	- Performs a deep copy of an object
+	- Takes the form of a constructor
+
+### copy() method:
+
+```java
+public class Circle {
+	public double x, y, radius;
+	public Circle (double x, double y, double radius) {
+		this.x = x;
+		this.y = y;
+		this.radius = radius;
+	}
+	
+	public Circle (Circle aCircle) {
+		// This is now a copy method
+		if (aCircle == null) {
+			System.exit(0);
+		}
+		this.x = aCircle.x;
+		this.y = aCircle.y;
+		this.radius = aCircle.radius;
+	}
+}
+
+// Example call:
+Circle c1 = new Circle(0.0, 0.0, 1.0);
+// Now copy the data of c1 into c2
+Circle c2 = new Circle(c1);
+```
+
+
+## Packages in Java
+
+A **package** is a group of classes and interfaces in a bundle, that can then be handled together using an accepted naming convention.
+
+Works similar to libraries in C; can be developed, packaged, imported and used by other Java programs/classes
+
+It is another level of *encapsulation*.
+
+### Creating Packages
+```java
+package <directory_name>;
+```
+
+### The Default Package
+All the classes in the current directory belong to an unnamed package called the `default` package - no package statement is needed.
+
+As long as the current directory is part of the CLASSPATH variable, all the classes in the current default package are automatically available to the program.
+
+
+## Information Hiding
+The ability to hide the details of a class from the 'outside world'.
+
+### Visibility Modifiers:
+- Public
+	- Method/attribute is visible everywhere
+- Private
+	- Only visible within the class, not visible within subclasses or package
+- Protected
+	- Only visible within class / subclasses / package
+
+The default is visible within the class AND package.
+
+### Mutability
+- **Mutable:** A class that contains a public mutator method, any instances are called mutable object
+- **Immutable:** A class that contains no methods (other than constructors) that can change any of the instance variables
+
+## Delegation through Association
+A class can delegate its responsibilities to other classes
+An object can invoke methods in other objects through *containership*
+This is an *Association* relationship between the classes
+
+For example, for the `Circle` class, we could *delegate* the coordinates to another class:
+```java
+public class Point {
+	private double x, y;
+	
+	public Point(double x, double y) {
+		this.x = x;
+		this.y = y;
+	}
+
+	public double getX() {
+		return this.x;
+	}
+	public double getY() {
+		return this.y;
+	}
+}
+```
+
+Now the `Circle`'s position is defined by a `Point` instead of 2 separate doubles.
+
+
+## Wrapper Classes
+
+Wrapper classes provide *utility methods* to handle the corresponding primitive type.
+
+| Primitive | Wrapper Class |
+| --------- | ------------- |
+| boolean   | Boolean       |
+| char      | Character     |
+| int       | Integer       |
+| float     | Float         |
+| double    | Double        |
+|           |               |
+
+## Automatic Boxing/Unboxing
+
+- **Boxing** is converting a primitive to its corresponding wrapper class
+- **Unboxing** is getting the primitive value from a wrapper class
