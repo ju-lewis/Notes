@@ -129,6 +129,8 @@ $\lim_{n\to\infty}{\frac{t(n)}{g(n)}} = c \implies t$ and $g$ have the same orde
 
 $\lim_{n\to\infty}{\frac{t(n)}{g(n)}} = \infty \implies t$ grows faster than $g$
 
+L'Hopital's rule is incredibly useful for this
+
 ---
 #### Example -  Show $1000n \in O(n^2)$
 
@@ -167,7 +169,8 @@ When `i` reaches the end of the array, it will be sorted
 **Computing time complexity**
 (Keep in mind, the below expressions describe the number of basic operations performed - where we define the basic operation to be the swap)
 $$t(n) = \sum^{n-2}_{i=0}{\sum^{n-1}_{j=i+1}{1}}$$
-$$t(n)=\sum^{n-2}_{i=0}{(n-1-i-1)} = \sum^{n-2}_{i=0}{(n-i-2)}$$
+$$t(n)=\sum^{n-2}_{i=0}{(n-1-i)} = (n-1)^2 - \sum^{n-2}_{i=0}{(i)}$$
+*Note that we can perform the above step as $n-1$ is a constant with respect to $i$*
 $$t(n) = (n-2) + (n-3) + ... + ((n-2)-(n-2)) $$
 $$t(n) = \frac{n(n-1)}{2} = \Theta(n^2)$$
 
