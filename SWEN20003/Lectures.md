@@ -250,3 +250,44 @@ Wrapper classes provide *utility methods* to handle the corresponding primitive 
 
 - **Boxing** is converting a primitive to its corresponding wrapper class
 - **Unboxing** is getting the primitive value from a wrapper class
+
+
+## Software Tools 
+
+### Version Control with Git
+![[Git.PNG]]
+
+### Unimelb GitLab Server:
+https://swen20003.eng.unimelb./edu.au/
+
+#### We are using *Maven* for build management
+
+### IntelliJ Debugger
+
+
+
+## Bagel Framework
+
+A simple bagel program is as follows:
+
+```java
+import bagel.*;
+
+public class BagelTest extends AbstractGame {
+	// Define entry point
+	public static void main(String[] args) {
+		BagelTest game = new BagelTest();
+		game.run();
+	}
+}
+```
+
+
+**The update method:**
+
+```java
+@Override
+public void update(Input input) {
+	// Your code goes here
+}
+```

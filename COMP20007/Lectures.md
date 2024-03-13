@@ -208,3 +208,71 @@ $$\sum^{n}_{i=0}{(2i+1)} = (n+1)^2$$
 $$\sum^{n}_{i=1}{\frac{1}{i}} = O(\log n)$$
 
 # Week 3
+
+## Brute Force Algorithms
+Usually based directly on the problem's statement.
+
+### Properties of Sorting Algorithms
+A sorting algorithm is:
+- **in-place** if it does not require additional memory (aside from variables)
+- **stable** if it preserves the relative order of elements that have identical keys.
+- **input-insensitive** if its running time is fairly independent of input properties other than size
+
+*Selection Sort* has an $\Theta(n^2)$ running time, but only makes about $n$ *exchanges*. So, it's good for small collections of large records.
+
+### Brute Force (Naïve) *String Matching*:
+
+Let P be the pattern (needle) to search for
+Let T be the text (haystack) to search in
+
+```psuedocode
+Let n be length of T
+Let m be length of P
+
+for i <- 0 to m-n do
+	
+	j <- 0
+	while j < m do
+		if T[i+j] = P[j] then
+			j <- j + 1
+			
+			if j = m then
+				return i
+		else
+			break
+
+```
+
+
+### Brute Force Geometric Algorithms: Closest Pair
+
+***Problem:*** Given *n* points in *k-dimensional* space, find a pair of points with minimal separating Euclidean distance.
+
+If we were to consider *all possible* pairs as a brute force approach, we can already see that the running time will be undesirable:
+
+1. Iterate through all points
+2. Iterate though all other points for each point
+3. Calculate distance at each pair, keep track of minimum
+
+It is trivial to see that is algorithm is $\Theta(n^2)$
+
+Note that we can speed up the algorithm *considerably* by utilising the monotonicity of the square root function. A clever divide-and-conquer solution yields a $\Theta(n log(n))$
+
+
+
+## Exhaustive Search
+#### Problem Type:
+- Combinatorial decision or optimisation problems
+- Search for an element with a given property
+- Domain grows exponentially, for example all permutations
+
+### Examples:
+- Travelling Salesperson
+- Knapsack
+- Hamiltonian Tours
+	- Given an undirected graph, is there a *simple tour*? (A path that visits each node once and returns to the start)
+- Eulerian Tours
+	- Given an undirected graph, is there a path which visits each *edge* exactly once?
+
+
+For many optimisation problems, we do not know of solutions that are essentially better of exhaustive search.

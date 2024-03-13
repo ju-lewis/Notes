@@ -116,3 +116,43 @@ Draw's on Bruno Latour's (1993) notion of technosocial hybrids to examine networ
 
 Brown (2006) argues that criminologists often preserve hierarchical binary divisions between *nature and culture* and *beings and things*.
 
+- Hybrid victims
+- Hybrid criminals
+
+# Week 3
+
+## Algorithms, Race, and Power
+
+### Critical Race Theory
+- *Classical* gender theory begins with the assumption that 'Man is not the human', one is a man because he is political, artistic, etc. One becomes a 'man' by living a certain kind of life. Women, children, and slaves are not 'man'. They have animal life.
+- This is similar to *classical* race theory - based on the assumption that 'darker people are dark of mind'.
+
+**Critical race theory, in short, means a rejection of the idea that the world is healed when everybody is the same.**
+
+- Equality is now a white weapon. It is said: Women and non-whites have won their war, those who are behind 
+- Afrofuturism
+- Autonomist Marxism
+
+### Neutrality is not the answer
+
+- The internet is not neutral
+
+#### The Brock Thesis:
+- White users will register data that looks *subjectively* 'normal' as being neutral. They will fail to register that 'normal' is largely white.
+
+- *Reification*: Any technology can be emancipatory or repressive, depending on the intentions of the user.
+
+
+### Conclusions from determinism
+### Conclusions from a technological neutrality standpoint
+
+- Hardt and Negri lean into the concept of fully embracing technology for the purpose of emancipation
+- Canella warns that if technology is neutral, then it can be used against you by the state as you use it against the state. As you use technology, the state is potentially reading and watching, and putting you on a monitoring list.
+
+#### Actor Network Theory:
+If the internet is racist, the state-police-internet-smartphone hybrid may have a distinct advantage
+
+Various Australian states have enacted *anti-consorting* laws.
+- The ostensible purpose is to outlaw criminal gangs.
+
+Technology can change users by creating technicity harms, i.e., needs and desires that can be said to come from a thing that is agentic, or at least more than a thing.
