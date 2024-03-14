@@ -116,7 +116,7 @@ $\Theta(g(n))$ is for *exact* order growth.
 | Notation      | $O(f(n))$                              | $\Omega(f(n))$                         | $\Theta(f(n))$     |
 | ------------- | -------------------------------------- | -------------------------------------- | ------------------ |
 | Set           | Functions that grow no faster than $f$ | Functions that grow no slower than $f$ | Exact order growth |
-| Runtime Bound | Upper                                  | Lower                                  | Exact              |
+| Runtime Bound | Upper (Worst)                          | Lower (Best)                           | Exact              |
 
 
 ### Establishing Growth Rate
@@ -170,6 +170,9 @@ When `i` reaches the end of the array, it will be sorted
 (Keep in mind, the below expressions describe the number of basic operations performed - where we define the basic operation to be the swap)
 $$t(n) = \sum^{n-2}_{i=0}{\sum^{n-1}_{j=i+1}{1}}$$
 $$t(n)=\sum^{n-2}_{i=0}{(n-1-i)} = (n-1)^2 - \sum^{n-2}_{i=0}{(i)}$$
+
+The reason the inner sum = $(n-1-i)$ instead of $(n-2-i)$ is the inclusivity of sums. $(n-2-i)$ is a fence-post error.'
+
 *Note that we can perform the above step as $n-1$ is a constant with respect to $i$*
 $$t(n) = (n-2) + (n-3) + ... + ((n-2)-(n-2)) $$
 $$t(n) = \frac{n(n-1)}{2} = \Theta(n^2)$$
