@@ -196,6 +196,13 @@ We can keep going
 $M(n) = M(n-1)+1 = M(n-2)+2 = M(n-3)+3 = M(n-n)+n = M(0) + n = n$
 Using the base case, $M(0) = 0$ to finish.
 
+#### Keep the *Smoothness Rule* in mind
+
+
+*All logarithmic functions have the same asymptotic rate of growth:*
+$$log_a{x} = (log_a{b})(log_b{x})$$
+So we can rewrite any logarithmic function as a constant multiple of another.
+
 
 ### Some Useful Formulae:
 
@@ -218,7 +225,9 @@ A sorting algorithm is:
 - **stable** if it preserves the relative order of elements that have identical keys.
 - **input-insensitive** if its running time is fairly independent of input properties other than size
 
-*Selection Sort* has an $\Theta(n^2)$ running time, but only makes about $n$ *exchanges*. So, it's good for small collections of large records.
+
+
+*Selection Sort* is a brute force algorithm as we iterate over the entire set to find the absolute minimum until the array is sorted. It has an $\Theta(n^2)$ running time, but only makes about $n$ *exchanges*. So, it's good for small collections of large records.
 
 ### Brute Force (Naïve) *String Matching*:
 
@@ -276,3 +285,42 @@ Note that we can speed up the algorithm *considerably* by utilising the monotoni
 
 
 For many optimisation problems, we do not know of solutions that are essentially better of exhaustive search.
+
+
+## Graph Problems
+
+One instance of the *exhaustive search* paradigm is *graph traversal*.
+
+We'll begin by looking at 2 ways of visiting every node of a graph:
+**Depth-first search** and **breadth-first search**
+
+### Graphs, mathematically:
+
+$G = \langle V, E \rangle$ 
+V: Set of nodes
+E: Set of edges (a binary relation on V)
+
+![[Graph_1.png]]
+
+![[Graph_concepts.png]]
+
+### Some graph concepts:
+
+#### Classification:
+- Undirected / Directed
+	- No indication of direction of traversal / Direction indicated
+- Connected / Not connected
+- Unweighted / Weighted
+- Dense / Sparse
+- Cyclic / Acyclic (actually, a *tree*)
+- Directed cyclic, Directed acyclic (a *dag*)
+
+#### Degrees of Nodes
+
+If $(u, v) \in E$ then $u$ and $v$ are *adjacent*, or *neighbours*.
+
+$(u,v)$ connects $u$ and $v$,      $u$ and $v$ are *incident* to $(u,v)$.
+
+The *degree* of node $v$ is the umber of edges incident to v
+
+For directed graphs, we talk about v's *in-degree* (number of edges going *to* v) and its *out-degree* (number of edges going *from* v)
