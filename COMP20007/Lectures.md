@@ -327,3 +327,23 @@ $(u,v)$ connects $u$ and $v$,      $u$ and $v$ are *incident* to $(u,v)$.
 The *degree* of node $v$ is the umber of edges incident to v
 
 For directed graphs, we talk about v's *in-degree* (number of edges going *to* v) and its *out-degree* (number of edges going *from* v)
+
+#### Paths
+A *path* in $\langle V, E \rangle$ is a sequence of nodes $v_0, v_1, ..., v_k$ from $V$, so that $(v_i, v_i+1)\in E$
+
+A *simple path* is one that has no repeated nodes.
+A *cycle* is a simple path, except that $v_0 = v_k$, that is, the last node is the same as the first node.
+
+#### Rooted Trees
+A (free) tree is a connected acyclic graph.
+
+A rooted tree is a tree with one node identified as special. Every other node is reachable from the root node.
+
+When the root is removed, a set of rooted sub-trees remain.
+
+#### Graph Representations
+- Adjacency Matrix
+	- $k\times k$  matrix containing the number of direct paths between each node
+- Adjacency List
+	- A vertical list of all nodes with "->" delimited lists containing all of the immediately reachable nodes.
+
