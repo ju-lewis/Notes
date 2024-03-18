@@ -291,3 +291,40 @@ public void update(Input input) {
 	// Your code goes here
 }
 ```
+
+
+# Week 4
+
+## Arrays
+- **A sequence of elements of the *same* type arranged in order in memory**
+
+### Declaring arrays:
+```java
+int arr1[] = {0,1,2,3};
+
+int arr2[] = new int[4];
+```
+
+Multi-Dimensional Arrays
+```java
+int[][] nums = new int[10][10];
+
+
+// Initialising:
+for(int i = 0; i<nums.length; i++) {
+	nums[i] = new int[/*length of subarray*/];
+}
+```
+
+Arrays can also be used to store references to objects
+
+Indexing beyond the length of the array throws an *out-of-bounds error*.
+
+### Array methods:
+Indexing
+Length
+- `a1.length`
+Equality:
+- `Arrays.equals(a1, a2)`
+
+## Strings

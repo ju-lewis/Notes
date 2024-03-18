@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CRIM20007/Assignments.md",
+                "file": "SWEN20003/Lectures.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CRIM20007/Assignments.md",
+                "file": "SWEN20003/Lectures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CRIM20007/Assignments.md",
+                "file": "SWEN20003/Lectures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CRIM20007/Assignments.md"
+                "file": "SWEN20003/Lectures.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "dc39776746fa5a5f",
   "lastOpenFiles": [
+    "SWEN20003/Assignments.md",
+    "CRIM20007/Assignments.md",
     "COMP20007/Lectures.md",
     "CRIM20007/Lectures.md",
     "SWEN20003/Lectures.md",
-    "CRIM20007/Assignments.md",
     "CRIM20007/Workshops.md",
     "SWEN20003/Git.PNG",
     "COMP20007/Graph_concepts.png",
     "COMP20007/Graph_1.png",
-    "SWEN20003/Assignments.md",
     "COMP20007/Subject Overview.md",
     "CRIM20007/Subject Overview.md",
     "CRIM20007/Required Readings.md",
