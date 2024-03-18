@@ -113,10 +113,10 @@ $\Theta(g(n))$ is for *exact* order growth.
 
 ### Runtime notation summary:
 
-| Notation      | $O(f(n))$                              | $\Omega(f(n))$                         | $\Theta(f(n))$     |
-| ------------- | -------------------------------------- | -------------------------------------- | ------------------ |
-| Set           | Functions that grow no faster than $f$ | Functions that grow no slower than $f$ | Exact order growth |
-| Runtime Bound | Upper (Worst)                          | Lower (Best)                           | Exact              |
+| Notation      | $O(f(n))$                                       | $\Omega(f(n))$                                  | $\Theta(f(n))$     |
+| ------------- | ----------------------------------------------- | ----------------------------------------------- | ------------------ |
+| Set           | Functions that grow slower (or the same as) $f$ | Functions that grow faster (or the same as) $f$ | Exact order growth |
+| Runtime Bound | Upper (Worst)                                   | Lower (Best)                                    | Exact              |
 
 
 ### Establishing Growth Rate
