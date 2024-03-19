@@ -322,9 +322,57 @@ Indexing beyond the length of the array throws an *out-of-bounds error*.
 
 ### Array methods:
 Indexing
+- `a1[i];`
 Length
-- `a1.length`
+- `a1.length;`
 Equality:
-- `Arrays.equals(a1, a2)`
+- `Arrays.equals(a1, a2);`
+Sorting:
+- `Arrays.sort(a1);`
+Printing:
+- `System.out.println(a1.toString());`
+
+Java supports `for-each` loops:
+```java
+for(/*Variable Type*/ element : array) {
+
+}
+```
+
+### Resizing Arrays:
+As array size is constant, resizing requires creating a new array:
+```java
+int[] a1 = new int[4];
+// We now want to store 6 more integers
+a1 = new int[a1.length + 6];
+```
 
 ## Strings
+
+#### Java strings behave similarly to Python strings, except double quotes *must* be used
+
+Appending strings can be done with `+` and `+=`. Like Python, classes like strings in Java have custom implementations of the addition operator, so using `+` to append to a string implicitly converts the types of any non-string operands.
+
+### Some useful String methods:
+```java
+String str = "Hello, world!";
+
+// .split() tokenises the string by a given delimiter
+System.out.println(str.split(" ").toString());
+
+// Case conversions
+System.out.prinln(str.toUpperCase());
+System.out.prinln(str.toLowerCase());
+
+// Substring searching
+str.contains("Hell"); // Boolean indicating prescence
+str.indexOf("lo"); // Substring location
+str.substring(2,7); // String slicing
+
+// Modifying
+str.replace("world", "there");
+```
+
+As strings are actually objects (i.e. a reference to a location in the Heap), we can't use standard equality comparison and are required to use:
+`str1.equals(str2)`
+For equality checks.
