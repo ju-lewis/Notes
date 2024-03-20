@@ -35,6 +35,17 @@ Example: https://taxpolicy.crawford.anu.edu.au/sites/default/files/uploads/taxst
 
 Current Regulations: https://www.austrac.gov.au/business/your-industry/digital-currency-cryptocurrency/digital-currency-exchange-providers
 
+
+### Main Policy Suggestion:
+We should adopt a harm-reduction methodology:
+**Why?:**
+- By design cryptocurrency purchases are incredibly hard to track
+	- It would be reasonably ineffective to attempt to enact preventative measures
+- Even if we do manage to prevent the purchases of illicit substances via cryptocurrencies, whether through harsh scrutiny of crypto exchanges or systematically hunting down cryptomarkets, what would this do to acquisition methods of the substances?
+	- The anonymity of cryptocurrencies and cryptomarkets can be said to make what were previously understood as simple tools to be agentic, in that they influence those with access to them in a form of **Actor-network Theory**.
+- It is extremely unlikely it would result in a reduction in purchasing, it would simply transfer means to in-person sales or other, harder to find and consequently potentially less 'reputable' cryptomarkets.
+- If we concede that illicit substances will be purchased regardless, we can shift our focus to educate and providing help avenues for those who purchase and take these substances.
+
 ### Layout
 *Executive Summary:*
 *Introduction:*

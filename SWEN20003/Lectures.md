@@ -376,3 +376,123 @@ str.replace("world", "there");
 As strings are actually objects (i.e. a reference to a location in the Heap), we can't use standard equality comparison and are required to use:
 `str1.equals(str2)`
 For equality checks.
+
+
+## Input and Output
+
+### Command Line Arguments
+`args` is an array of strings containing the command line arguments passed to the Java program
+
+***NOTE:*** `args[0]` points to the first argument *after* the program name.
+
+#### Command Line Arguments in IntelliJ
+Because IDEs like IntelliJ do a lot behind the scenes before running the program, command line arguments are input slightly differently.
+
+In IntelliJ you have to set the "run configuration" to pass CLI flags
+
+
+### Input Using Scanner:
+
+To use the `Scanner` class in a program:
+```java
+import java.util.Scanner;
+
+Scanner scanner = new Scanner(System.in);
+```
+
+#### ONLY EVER CREATE 1 SCANNER PER PROGRAM!
+
+Useful Scanner methods:
+`.nextLine()` Reads until a newline is received (as a String)
+**Alternatively you can use:**
+`.nextBoolean()` For Boolean values
+`.nextInt()` For Integers
+and
+`.nextDouble` for Doubles
+
+Note that the scanner does *not* automatically downcast types (e.g. float to int).
+Make sure your input matches what is expected by the code!
+
+Also note:
+`.nextLine()` is the **only** method that consumes a newline character from the input, so it may need to be used following other `.nextXXX()` methods
+
+
+We can use `.hasNext()` to check if there is *any* input to be read, or `.hasNextXXX()` to check if we can read tokens of type `XXX` 
+
+
+### Reading Files:
+We can import the file reader classes:
+```java
+import java.io.FileReader;
+import java.io.BufferedReader;
+import java.io.IOException;
+
+public class ReadFile1 {
+	// Example program that reads every line from 'test.txt' and prints it
+	public static void main(String args[]) {
+		try (BufferedReader br = 
+			new BufferedReader(new FileReader("test.txt"))) {
+			
+			String line = null;
+			while((text = br.readLine()) != null) {
+				System.out.println(line);
+			}
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+}
+```
+
+`FileReader()` is a 'low level' file reader for simple character reading
+`BufferedReader` is a higher-level wrapper that permits reading Strings
+
+These should be used in `try/catch` statements
+
+
+
+#### We can also use Scanner to read files
+However, `Scanner` has a smaller internal buffer and is slower than `BufferReader`.
+
+Example program that counts the number of main headings in an HTML file:
+```java
+public class HeadingParser {
+	public static void main(String args[]) {
+		if(args.length < 2) {
+			System.out.println("File name not provided.");
+			return;
+		}
+		int headingLines = 0;
+		
+		try (BufferedReader br = 
+			new BufferedReader(new FileReader(arg[0]))) {
+			String line = null;
+			while((text = br.readLine()) != null) {
+				// Check if an <h1> tag is present in the line
+				if(line.contains("<h1>")) {
+					headingLines++;
+				}
+			}
+			System.out.println("Number of lines with headings: " + headingLines);
+		} catch (Exception e) {
+			e.printStackTrace();
+		}	
+	}
+}
+```
+
+### Writing To Files:
+We can do something similar to write to files with the imports:
+`java.io.FileWriter;`
+`java.io.PrintWriter;`
+
+The writer is created in the same manner as the BufferReader:
+```java
+PrintWriter pw = new PrintWriter(new FileWriter("text.txt"));
+```
+
+We can then use the methods:
+`pw.println()` and `pw.format()`
+
+Note that the .format() method prints to the file as well as formatting the String!
+

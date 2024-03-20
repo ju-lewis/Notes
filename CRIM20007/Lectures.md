@@ -156,3 +156,94 @@ Various Australian states have enacted *anti-consorting* laws.
 - The ostensible purpose is to outlaw criminal gangs.
 
 Technology can change users by creating technicity harms, i.e., needs and desires that can be said to come from a thing that is agentic, or at least more than a thing.
+
+#### Summary
+- Classical and critical race theory
+- The 'hidden' whiteness of the internet
+- Various responses: fighting bias with bias, decolonising the internet
+- Indeterminate conclusion. Both approaches have merit and problems.
+# Week 4
+
+Brown's Technosocial:
+- We have never been modern ...
+- This means: the distinctions between people, things, and animals have always been false. The Enlightenment is *more* mythological than prior cultures. It sees firm distinctions where it should see hybridity
+- Most relevant myths:
+	- Only human beings have agency
+	- Human beings use tools
+	- A virtual world is just a new tool for humans to use.
+	- Even an agentic thing (AI) is just another tool.
+- Agency can exist in things and networks
+- Tools and users can become units
+
+As a result of this technological hybridity, questions of criminal liability become difficult. However, 'keeping it simple' perhaps becomes unjust.
+
+## Metaverse:
+3 Narratives:
+
+Libertarian:
+- Case study: *autonomy* in drug use and markets
+Neoliberal:
+- Keep out the law and let people look after themselves
+Revanche criminology and law approaches:
+- The virtual world needs to be 'cleaned up'
+- The same law and order that keeps criminals in check IRL needs to be moved into virtual space
+- Argument for RICO type laws.
+
+## Cryptomarkets:
+- Anonymizing Software - Onion Router, or TOR
+- Cryptocurrencies - Bitcoin, Ethereum, Monero
+
+Vendors: Why do they do it?
+- *Social Learning?* Vendors often entered the trade when a friend introduced them to it.
+- *Strain?* Several vendors began selling to pay for student loans
+- *Seductions of crime?* (Katz, 1987) 
+
+Cryptomarkets and harm reduction:
+*Safer Scoring?*
+Cryptomarket vendors need a different skill-set to traditional drug dealers
+Only 3% of cryptomarket buyers reported threats to their personal safety, compared to 14.2% who purchased from friends
+
+*A Case for Decriminalisation?*
+
+
+## Drug Policy Models:
+**Zero-tolerance Model:**
+- Deterrence-based
+- 'War on drugs'
+- Reducing the demand for drugs
+**Harm reduction model:**
+- Public health approach
+- Reducing the harms associated with drug use
+**Decriminalisation:**
+- The Portugal Model
+- Decriminalisation $\ne$  legalisation
+
+
+### Albridge, Steven & Barratt
+- Will growth in cryptomarket drug buying increase the harms of illicit drugs? (Albridge et al., 2018)
+- "Most policy responses \[to drug cryptomarkets\] are based generally on the assumption that their rise will only increase drug harms". Aldridge et al. (2018: 789)
+
+Cryptomarkets might reduce the harms associated with the drug trade though:
+- Leading to *increases in the quality of drugs* purchased by users
+- Decreasing the risks associated with purchasing drugs in person
+
+As Buxton and Bingam (2015: 2) argue, "official responses \[to drug cryptomarkets\] should give primary to understanding how 'ethical' hidden drug markets that are regulated by their user communities and market forces might reduce the harms and violence of the 'tradition' drug trade and networks" 
+
+***Are cryptomarkets a more ethical infrastructure for purchasing drugs?***
+
+Some libertarian theses support 'organic' appearances of harm reduction approaches to drugs, potentially more ethics, potentially more safety.
+
+State responses: Shut it down! Refusal to see any difference between online and offline drug selling.
+
+### Crypto Scams
+**Giveaway scams:**
+**Pump and dump:**
+**Cry for help scams:**
+
+**Market exit scams:**
+
+## Conclusion
+- If we're entering the metaverse, there are conflicting views
+1. Making the virtual world unregulated makes it a more free space, which will: a) work better/be fair/safe or b) be dangerous as hell, but still better because it's 'free'
+2. Lack of regulation creates nothing but a criminal playground
+- If we are merging with this world this question matters.
