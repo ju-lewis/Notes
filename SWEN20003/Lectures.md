@@ -496,3 +496,24 @@ We can then use the methods:
 
 Note that the .format() method prints to the file as well as formatting the String!
 
+
+# Week 5
+
+## Inheritance
+A form of abstraction that generalises behaviours to parent classes, allowing child classes to *inherit* the behaviour.
+
+**Superclass:** The parent or base class.
+**Subclass:** The child or derived class
+
+Define common attributes and methods in the Superclass
+Subclass automatically contains all (public/protected) instance variables and methods in the superclass.
+
+Subclasses should be 'more specific' versions of the superclass
+
+
+### Example (Chess):
+We can define a 'Piece' superclass that contains common information like position, isAlive, etc.
+
+We can *extend* this piece definition to each kind of piece as a subclass, provided specific functionality and information unique to that piece.
+
+This allows us to avoid rewriting basic functions like getters and setters for common information.
