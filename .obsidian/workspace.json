@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "203cea3225cf3bc2",
+    "id": "92e6fb008dde2dc7",
     "type": "split",
     "children": [
       {
-        "id": "13476a279fb7c91d",
+        "id": "06e4b6904b2b23b8",
         "type": "tabs",
         "children": [
           {
-            "id": "a707ca53e7bc591a",
+            "id": "dc39776746fa5a5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b09cb2a307a6d1fd",
+    "id": "602d7ba6836aceac",
     "type": "split",
     "children": [
       {
-        "id": "3f3f8bf377e4d29d",
+        "id": "487b0ca5dfd22bdc",
         "type": "tabs",
         "children": [
           {
-            "id": "49748ed52356b2f7",
+            "id": "2dc6831b1d2a9c63",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "d4a0df9a0f4d260b",
+            "id": "5109b06c58331451",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "55c5cc2355fd372e",
+            "id": "6139a79235f9f4af",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,15 +72,15 @@
     "width": 300
   },
   "right": {
-    "id": "57b8c0289f528be4",
+    "id": "810f95506c44441e",
     "type": "split",
     "children": [
       {
-        "id": "3c4bf03a71fad5e8",
+        "id": "36f061623f4c6631",
         "type": "tabs",
         "children": [
           {
-            "id": "68b65f912d884c34",
+            "id": "7fd69a55a31de020",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -97,7 +97,7 @@
             }
           },
           {
-            "id": "be770d951b5defb9",
+            "id": "6358757026677a43",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -109,7 +109,7 @@
             }
           },
           {
-            "id": "4d2719c4a96e4041",
+            "id": "7b8e2a191049e715",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,7 +120,7 @@
             }
           },
           {
-            "id": "108ab2b2b2598e5a",
+            "id": "7376c577de7a4cbc",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -146,10 +146,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a707ca53e7bc591a",
+  "active": "dc39776746fa5a5f",
   "lastOpenFiles": [
-    "COMP20007/Lectures.md",
+    "COMP20007/Exams.md",
+    "SWEN20003/Assignments.md",
+    "CRIM20007/Assignments.md",
     "CRIM20007/Lectures.md",
-    "SWEN20003/Lectures.md"
+    "SWEN20003/Lectures.md",
+    "COMP20007/Lectures.md",
+    "CRIM20007/Workshops.md",
+    "SWEN20003/Git.PNG",
+    "COMP20007/Graph_concepts.png",
+    "COMP20007/Graph_1.png",
+    "COMP20007/Subject Overview.md",
+    "CRIM20007/Subject Overview.md",
+    "CRIM20007/Required Readings.md",
+    "Untitled",
+    "COMP20007",
+    "SWEN20003/Subject Overview.md",
+    "CRIM20007",
+    "SWEN20003",
+    "Untitled.md"
   ]
 }
