@@ -421,3 +421,38 @@ This works because of the stack discipline. if `(u,v)` is an edge then it is pos
 Taking the "reverse popping order" ensures that `u` is listed before `v`.
 
 
+# Week 5
+
+## Greedy Algorithms
+
+A *Greedy* algorithm is *locally optimal*.
+
+For example, suppose we want to pay for something exactly with 50, 20, 10, and 5 cent coins. A *greedy* strategy would entail using as many 50 cent coins as possible before going on to 20 cents.
+
+
+In general, we cannot expect *locally best* algorithms to yield a *globally optimal* result.
+
+
+### Priority Queues
+Priority queues are an abstract data structure that allow for the accessing the element of the highest priority.
+
+This is very useful for greedy algorithms.
+
+#### PQ Operations:
+`inject(e)` 
+`eject(e)`
+
+
+### Spanning Trees
+
+Recall that a *tree* is a connected graph with no cycles
+
+A *spanning tree* of a graph is a tree where all of the edges are a subset of the edges in the original graph.
+
+#### Minimum Spanning Trees of Weighted Graphs
+If we have weighted edges, we can find the 'cheapest' path between 2 nodes by finding the minimum spanning tree.
+
+Given a weighted graph, a sub-graph which is a tree with *minimum* weight is a *minimum spanning tree* for the graph
+
+### Prim's Algorithm *(Greedy)*
+![[Prims.png]]

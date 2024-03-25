@@ -247,3 +247,5 @@ State responses: Shut it down! Refusal to see any difference between online and 
 1. Making the virtual world unregulated makes it a more free space, which will: a) work better/be fair/safe or b) be dangerous as hell, but still better because it's 'free'
 2. Lack of regulation creates nothing but a criminal playground
 - If we are merging with this world this question matters.
+
+
