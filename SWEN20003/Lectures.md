@@ -21,7 +21,7 @@ public class Circle {
 	public double centreX;
 	public double centreY;
 	public double radius;
-
+	
 	public double computeArea() {
 		double area = Math.PI * radius * radius;
 		return area;
@@ -517,3 +517,106 @@ We can define a 'Piece' superclass that contains common information like positio
 We can *extend* this piece definition to each kind of piece as a subclass, provided specific functionality and information unique to that piece.
 
 This allows us to avoid rewriting basic functions like getters and setters for common information.
+
+#### Inheritance Example:
+```java
+public class InherinanceTester {
+	public static void main(String args[]) {
+		// This trivially works, a Rook is a Rook
+		Rook rook1 = new Rook();
+		
+		// This works as a Rook "is a" Piece
+		Piece rook2 = new Rook();
+		
+		// This DOESN'T WORK!!! A Piece "is not a" Rook
+		Rook rook3 = new Piece();
+	}
+}
+```
+
+### Initializing with Constructors
+
+We DON'T copy and paste parents constructors into subclass constructors.
+
+The keyword `super` can be used to invoke (call) the constructor of the super class.
+
+```java
+
+public class Piece {  
+	
+	// Here we define common behaviour across ALL pieces
+	
+	private int currentRow;  
+	private int currentColumn;  
+	
+	public Piece(int currentRow, int currentColumn) {  
+		this.currentRow = currentRow;  
+		this.currentColumn = currentColumn;  
+	}  
+	
+	public int getCurrentRow() {..}  
+	public void setCurrentRow(int currentRow) {..}  
+	public int getCurrentColumn() {..}  
+	public void setCurrentColumn(int currentColumn) {..}  
+}
+
+public class Rook extends Piece {
+	
+	// Here we provide Rook-specific implementations
+	
+	public Rook(int currentRow, int currentColumn) {
+		// We can call the Piece constructor with super
+		super(currentRowm, currentColumn);
+	}
+	
+	public void move(int toRow, int toColumn) {..}
+	public boolean isValidMove(int toRow, int toColumn) {..}
+}
+ ```
+
+The `super` keyword must be the first statement in the subclass constructor if it's used.
+
+
+### Inheriting and Overriding Methods
+
+Consider the methods: `move` and `isValidMove`
+
+With the `isValidMove()` method, all pieces must have this behaviour, with the same signature.
+
+Additionally, some of the behaviour across pieces for check move validity is common, e.g. checking the move is within the board bounds (not outside)
+
+
+#### Overriding Methods
+
+When a method is defined only in the parent class (and has the correct visibility), it gets called *regardless* of the type of object created.
+
+When a method is defined with the *same signature* in both the parent and child classes, the method that executes depends entirely on the *type of object* as opposed to the type of reference. (e.g. `isValidMove()` method)
+
+In the second case, the child class **overrides** the method in the parent class.
+
+Annotating `@Override` can indicate that the method is overriding a method in the parent class.
+
+### Extension Through Overriding
+
+If we know there is common behaviour between the parent and child classes, we can move the common logic to the parent class (to avoid needlessly rewriting)
+
+In this case, we can use the `super` keyword to call the parent class (superclass) method.
+
+```java
+public class Rook extends Piece {
+	public boolean isValidMove(int toRow, int toColumn) {
+		if(!super.isValidMove(toRow, toColumn)) {
+			// Generic move validity checks failed
+			return false;
+		}
+		
+		// Now we can do Rook-specific move validation
+	}
+	
+}
+```
+
+
+#### NOTE: Overriding CANNOT change return type, unless changing to a *subclass* of the original.
+
+
