@@ -51,3 +51,13 @@ Could, for example, Facebook be deterred if we give them a massive enough fine?
 *Facebook data privacy violation fines*
 
 How should the digital public be protected from harm?
+
+
+# Critical Race Theory
+## The problem with neutrality
+Anything considered 'neutral' is inherently biased towards some dominant social value.
+
+The internet is not neutral.
+- "Simple, quick, and useful" **to who?**
+- "Unified and unfiltered" **to who?**
+ta

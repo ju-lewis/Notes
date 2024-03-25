@@ -408,7 +408,8 @@ Useful Scanner methods:
 `.nextBoolean()` For Boolean values
 `.nextInt()` For Integers
 and
-`.nextDouble` for Doubles
+`.nextDouble()` for Doubles
+`.next()` Reads any characters up to a delimiter (whitespace)
 
 Note that the scanner does *not* automatically downcast types (e.g. float to int).
 Make sure your input matches what is expected by the code!

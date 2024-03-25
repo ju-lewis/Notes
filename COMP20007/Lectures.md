@@ -344,6 +344,80 @@ When the root is removed, a set of rooted sub-trees remain.
 #### Graph Representations
 - Adjacency Matrix
 	- $k\times k$  matrix containing the number of direct paths between each node
+	- Good for dense graphs
 - Adjacency List
 	- A vertical list of all nodes with "->" delimited lists containing all of the immediately reachable nodes.
+	- Good for sparse graphs
+
+# Week 4
+### Depth-First Search
+
+DFS corresponds to using a *stack discipline* for keeping track of where we are in the overall process
+
+Levitin uses a more compact notation for the stack's history:
+
+$$
+a_{x,y}
+$$
+The first subscript (`x`) represents the order at which the node (`a`) is *pushed* onto the stack
+The second subscript (`y`) represents the order at which the node is *popped* off the stack.
+
+#### The Depth-First Search Forest
+DFS trees
+
+#### The Algorithm
+
+#### Applications of DFS
+
+
+### Breadth-First Search
+
+BFS uses a *queue discipline* for keeping track of pending tasks
+
+Example of how the queue develops (In essence, when a node is reached and dequeued, queue any of its immediate children):
+
+```
+(b) <- (a) -> (c) -> (d)
+```
+
+Queue:
+$a_1$ Start by visiting first node
+$b_2 \ c_3$ Queue the immediate 'children'
+$c_3$ Visit immediate 'children'
+$d_4$ If any further nodes are found, queue them
+
+#### The Breadth-First Search Forest
+We rewrite the graph to more clearly show the breath-first approach to searching, where cross-edges (edges that don't impact the search as they connect 2 nodes of equals depths) are dashed lines
+
+#### The Algorithm
+
+
+BFS has the same complexity as DFS.
+
+Again, the same algorithm works for directed graphs as well.
+
+Certain problems are more easily solved by adapting BFS
+
+
+
+### Topological Sorting
+Assume a directed edge from `a` to `b` means that `a` task must be completed before `b` can be started.
+
+Then the graph has to be a DAG.
+
+Assume the tasks are carried out by a single person, unable to multi-task
+
+Then we should try to *linearise* the graph.
+
+We first choose the *source* node (one that has no incoming edges)
+
+#### We can solve the topological sorting problem with DFS:
+<p style="text-align: center; color: red; font-weight: bold;">Only works when the graph is a DAG</p>
+1. Perform DFS and note the order in which nodes are popped off the stack
+2. List the nodes in the *reverse* of that order
+
+This works because of the stack discipline. if `(u,v)` is an edge then it is possible to arrive at a DFS stack with `u` sitting below `v`.
+
+Taking the "reverse popping order" ensures that `u` is listed before `v`.
+
 
