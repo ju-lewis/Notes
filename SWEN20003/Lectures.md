@@ -621,3 +621,75 @@ public class Rook extends Piece {
 #### NOTE: Overriding CANNOT change return type, unless changing to a *subclass* of the original.
 
 
+
+### Pitfall: Method Overriding
+`private` methods cannot be overridden as they can't "see" the private method
+
+
+### Restricting Inheritance
+The `final` keyword can be used to prevent overriding of a method/attribute
+
+For example, with Chess pieces, we don't want child classes to override the parent's `move` method, as all pieces simply move to the target coordinates, so we can use the `final` keyword to prevent it from being overridden
+
+
+### Privacy Leaks
+Defining attributes as `protected` allows updating them directly from child classes.
+
+However, this should be avoided because it results in *privacy leaks*. The attributes of the parent classes should be access via `public` or `protected` methods in the parent class.
+
+### Access Control
+Methods in the parent class that are only used by subclasses should be defined as `protected`
+
+
+### Shadowing
+Shadowing occurs when a child class has the same attribute names (instance variables) as the parent class.
+
+
+### Object Class
+
+All classes implicitly inherit from the `Object` class
+
+`toString()`
+`equals()`
+
+To override the `equals` method:
+
+```java
+@Override
+public boolean equals(Object o) {
+	if (this == o) return true;
+	if (o == null) return false;
+	if (getClass() != o.getClass()) return false
+	
+	// Now we can safely downcast and compared attributes, etc.
+	Piece piece = (Piece) o;
+}
+```
+
+Note that the argument signature must only take a base `Object` class object for overriding to occur.
+
+## Polymorphism
+
+### Overloading
+Ad-hoc polymorphism
+### Overriding
+
+### Substitution
+
+### Generics
+
+
+
+
+### Abstract Classes
+A class that represents common attributes and methods for objects, but *cannot* be instantiated.
+
+An abstract class is an *incomplete* class.
+
+#### Abstract Methods:
+The `abstract` keyword defines a superclass method that is common to *all* subclasses but has not implementation. Each subclass provides their own implementation through overriding.
+
+Back to the Chess example, we could have:
+```java
+public abstract boolean isValidMove(int toRow, int toColumn);
+```

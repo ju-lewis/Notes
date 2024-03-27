@@ -249,3 +249,12 @@ State responses: Shut it down! Refusal to see any difference between online and 
 - If we are merging with this world this question matters.
 
 
+# Week 5
+
+## Doxxing - Harms
+### Deanonymisation
+### Delegitimising
+- Shaming
+### Targeting
+- 
+### Disadvantaging
