@@ -30,10 +30,20 @@
 
 ### Basic Plans
 
-Example: https://taxpolicy.crawford.anu.edu.au/sites/default/files/uploads/taxstudies_crawford_anu_edu_au/2024-02/final_pb_breunig_vanek_feb_2024.pdf
+Example
+https://taxpolicy.crawford.anu.edu.au/sites/default/files/uploads/taxstudies_crawford_anu_edu_au/2024-02/final_pb_breunig_vanek_feb_2024.pdf
 
 
-Current Regulations: https://www.austrac.gov.au/business/your-industry/digital-currency-cryptocurrency/digital-currency-exchange-providers
+Current Regulations
+https://www.austrac.gov.au/business/your-industry/digital-currency-cryptocurrency/digital-currency-exchange-providers
+
+
+Will growth in cryptomarkets *increase* the harms of illicit drugs?
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5947707/
+
+
+How and why vendors sell on cryptomarkets
+https://www.aic.gov.au/sites/default/files/2020-10/ti608_how_and_why_vendors_sell_on_cryptomarkets.pdf
 
 
 ### Main Policy Suggestion:
@@ -60,8 +70,6 @@ I think Actor Network Theory can be introduced by stating that the very concept 
 
 *Research and evidence:*
 *Policy Recommendations:*
-***I want to discuss regulation/reporting on behalf of exchanges, as that's the point of contact between $AUD and cryptocurrencies (with the exception of Monero????)***
 *Conclusions:*
-
 
 ### Response

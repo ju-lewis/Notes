@@ -31,6 +31,8 @@ Consider whether any of these elements involve 'onlineness':
 
 
 ## Actor-network Theory
+Viewing harm as a product of a *network*. It asks us to analyse harm as an outcome of user, technology, and designer influencing each other.
+
 - **Agency**
 	- Human and non-human actors are assigned agency and are both complicit
 	- Objects have a crucial function, but they also interact with humans and with other non-humans. Things are more than 'commodities'
@@ -60,4 +62,3 @@ Anything considered 'neutral' is inherently biased towards some dominant social 
 The internet is not neutral.
 - "Simple, quick, and useful" **to who?**
 - "Unified and unfiltered" **to who?**
-ta
