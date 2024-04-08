@@ -693,3 +693,102 @@ Back to the Chess example, we could have:
 ```java
 public abstract boolean isValidMove(int toRow, int toColumn);
 ```
+
+
+# Week 6
+
+## Interfaces
+
+Interfaces are *vague, distant* relatives of abstract class:
+- Defines an abstract entity - can't be instantiated
+- Can only contain constants and abstract methods
+- Defines behaviours/actions that are common across a number of classes
+
+All interfaces represent a *"Can do"* relationship.
+
+They provide a behavioural contract for objects.
+
+
+Interface names are generally called `<...>able` and relate to an action.
+
+For example, objects with the `Driveable` interface have a callable `drive()` method.
+
+
+### Defining Interfaces
+
+```java
+public interface Printable {
+	int MAXIMUM_PIXEL_DENSITY = 1000;
+	
+	void print();
+}
+```
+
+Like when a class `extends` an abstract class, a class can `implement` an interface:
+
+```java
+public class Image implements Printable {
+	
+	void print() {
+		// We need to implement EVERY method in the interface
+	}
+	
+}
+```
+
+
+### Default Methods
+
+Classes can be "forced" to have an implementation of a method, that can then be overridden.
+
+```java
+public interface Printable {
+	default void print() {
+		System.out.println(this.toString());
+	}
+}
+```
+
+
+### Why use interfaces?
+
+Even though `Clothing` and `Seatbelt` can both be "worn", there is no logical relationship between them; they should not be represented through inheritance! 
+
+
+**Implementing a `makeNoise` method**:
+
+A `Dog` *is an* animal, a `Cat` *is an* animal, so it makes sense to use an abstract class with a `makeNoise()` method.
+
+A `Dog` *can* make a noise, a `Vehicle` *can* make a noise, but it doesn't make sense to use inheritance as they're not related at all (what would we even call the superclass???) - so we use an `interface`
+
+## Sorting
+
+Java sorts using:
+```java
+Array.sort(obj);
+```
+
+But how does Java sort or compare any items? **Using interfaces.**
+
+### Comparable Interface:
+A class that implements `Comparable<ClassName>`
+- Can be compared with objects of the same class
+- Must implement `public int compareTo(<className> obj)`
+
+#### compareTo
+- Defines a method allowing us to *order* objects
+- Compares *exactly 2* objects, A and B
+- Returns a negative integer, zero, or positive integer if object `A` (this) is <, \==, > than object `B`
+
+### Next Level Abstraction
+Classes can only inherit from 1 class, but can implement multiple interfaces.
+
+### Subtype Polymorphism
+```java
+// Inheritance
+Robot robot = new WingedRobot();
+
+// Interfaces
+
+```
+
