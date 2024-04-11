@@ -456,3 +456,136 @@ Given a weighted graph, a sub-graph which is a tree with *minimum* weight is a *
 
 ### Prim's Algorithm *(Greedy)*
 ![[Prims.png]]
+
+
+# Week 6
+
+## Binary Trees
+
+
+## Binary Tree Traversal
+### Pre-order Traversal
+1. Print current node
+2. Recurse on child nodes
+
+We can implement pre-order traversal explicitly using a stack
+```
+while stack not empty:
+	curr <- pop(T)
+	visit(curr)
+	
+	push(curr_right)
+	push(curr_left)
+```
+
+### Level-order Traversal
+
+We can implement level-order traversal explicitly using a queue
+```
+while queue not empty:
+	curr <- dequeue(T)
+	
+	
+```
+### Post-order Traversal
+1. Recurse on both child nodes
+2. Print current node
+
+Note: the starting node will always be printed last
+### In-order Traversal
+1. Recurse on left node
+2. Print current node
+3. Recurse on right node
+
+
+
+## Closest Pair Problem - Revisited
+
+The brute-force method had complexity $\Theta(n^2)$, we can achieve $\Theta(nlog(n))$ with a divide-and-conquer approach.
+
+
+```
+minsq <- d^2
+
+copy all point of byY with |x-m| < d to array S
+
+k <- |S|
+for i <- 0 to k-2 do
+	j <- i + 1
+	
+	while j <= k - 1 and (S[j].y - S[i].y)^2 < minsq do
+		minsq <- min(minsq, (S[j].x - S[i].x)^2 + (S[j].y - S[i].y)^2)
+```
+
+It can be shown that the while loop can execute *at most 5 times for each i value*
+
+
+
+## Master Theorem
+
+What is the time required to solve a problem size n by divide-and-conquer
+
+For the general case, assume we split the problem into *b* instances (of size *n/b*), of which *a* need to be solved:
+
+$T(n) = aT(n/b) + f(n)$
+
+For integer constants `a >= 1, b > 1`  and function $f$ with $f(n) \in \Theta(n^b)$ time complexity and $T(1) = c$
+
+$$ T(n) = \ \  \Theta(n^d) \ if \ a < b^d$$
+$$T(n) = \ \ \Theta(n^d log(n)) \ if \ a=b^d$$
+$$T(n) = \ \ \Theta(n^{(log_b(a))}) \ if \ a > b^d$$
+## String Searching
+### Brute Force
+- $O(mn)$ complexity
+
+
+### BMH
+- Pre-process pattern to log the leftmost occurrence of each character
+- Searches pattern right to left
+- If a character in the text is found that is NOT in the pattern, shift by the length of the pattern
+
+#### Case 1:
+- The last character isn't in the pattern. *Shift by pattern length*
+
+#### Case 2:
+- The last character does not match but it's in the pattern. *Shift the pattern until the last occurrence of the character*
+#### Case 3:
+- The last character matches but one of the $m-1$ characters does not match and the last character is unique. *Shift by pattern length*
+#### Case 4:
+- The last character matches but one of the $m-1$ character does not match and the last character is not unique. *Shift pattern until the 2nd last occurrence of the character*
+
+#### Pre-processing 
+
+a is the size of the alphabet
+```
+function FindShifts(P[0..m-1])
+	for i <- 0 to a - 1 do
+		Shift[i] <- m
+	
+	for j <- 0 to m - 2 do
+		Shift[P[j]] <- m - (j+1)
+	return Shift
+```
+
+First initialise Shift array with the length of the pattern
+
+
+
+```
+function Horspool(P[0..m-1], T[0..n-1])
+	
+	Shift <- FindShifts(P)
+	i <- m - 1
+	while i<= n-1 do
+		k <- 0
+		
+		// Scan through pattern backwards
+		while k <= m-1 and P[m-1-k] = T[i-k] do
+			k <- k + 1
+		if k = m then
+			return i - m + 1
+		else
+			i <- i + Shift[T[i]]
+	
+	return -1
+```
