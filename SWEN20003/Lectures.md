@@ -23,7 +23,7 @@ public class Circle {
 	public double radius;
 	
 	public double computeArea() {
-		double area = Math.PI * radius * radius;
+		double area = Math.PI g* radius * radius;
 		return area;
 	}
 }
