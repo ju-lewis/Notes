@@ -589,3 +589,80 @@ function Horspool(P[0..m-1], T[0..n-1])
 	
 	return -1
 ```
+
+# Week 7
+
+## Dynamic Programming - Part 1
+
+***In dynamic programming, often solutions to a problem overlap***
+
+### Fibonacci Sequence
+0,1,1,2,3,5,8,13,...
+```
+F(n) = F(n-1) + F(n-2)
+F(0) = 1, F(1) = 1
+```
+
+If you examine element `i`, we know the solution is the sum of elements `i-1` and `i-2`
+
+```
+function Fibonacci(n):
+	if n = 0 or n = 1 then
+		return 1
+	return Fibonacci(n-1) + Fibonacci(n-2)
+```
+
+
+If we computed, for example, `Fibonacci(6)`, we would end up re-computing multiple numbers, as the first step would involve computing `Fibonacci(5)` and `Fibonacci(4)` (And we know that `Fibonacci(4)` is IN `Fibonacci(5)`)
+
+This re-computation can become incredibly expensive, so we can store intermediate solutions.
+
+First allocate and array of size `n` to store previous solutions
+```
+function DynamicFibonacci(n):
+	F[0] <- 1
+	F[1] <- 1
+	for i = 2 to n do
+		F[i] = F[i-1] + F[i-2]
+	return F[n]
+```
+
+From exponential to linear time complexity.
+
+### Knapsack Problem
+
+Given $n$ items with:
+- Weights: $w_1, w_2, ..., w_n$
+- Values: $v_1, v_2, ..., v_n$
+- Knapsack of capacity $W$
+
+We want to find:
+$$max \sum^{n}_{i=0}{v_i}$$
+
+#### Brute-force solution
+- Try all possible subset of items, return the most valuable that fits in the backpack
+- $\Theta(2^n)$
+
+
+#### Greedy Algorithm
+- Assume items have an arbitrary order
+- Add items one-by-one, in order. When an item does not fit, skip it.
+- *Not optimal*
+
+#### Optimal:
+- Define $F(i, j)$ as the optimal solution for a subset of items $1..i$ and capacity $j$.
+- *Case 1*: if item $i$ is not in the optimal solution, then $F(i-1, j)$ 
+- *Case 2*: if item $i$ is in the optimal solution, then we need to take into account its weight.
+	- The subproblem is the optimal solution for a knapsack of capacity $j-w_i$
+	- $F(i,j) = F(i-1,j-w_i) + v_i$
+
+$F(0, j) \ \forall j = 0$
+$F(i, 0) \ \forall i = 0$
+
+Express the solution recursively:
+
+$F(i,j) = max(F(i-1, j), F(i-1, j-w_i) + v_i) \ if \ j \geq w_i$
+$F(i,j) = F(i-1, j) \ if \ j \lt w_i$
+
+In Fibonacci, we had an array to store solutions
+Here, we need a matrix of $n+1$ rows and $W+1$ columns.

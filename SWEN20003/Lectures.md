@@ -792,3 +792,84 @@ Robot robot = new WingedRobot();
 
 ```
 
+
+# Week 7
+
+## Software Design
+
+### Design Algorithm
+
+1. Identify Classes *Noun extraction*
+2. Identify Class Relationships *Identify has-a, is-a, can-do*
+3. Refine Classes and Relationships
+4. Develop a Class Diagram *Combine classes and relationships*
+5. Represent using an accepted notation *UML is a widely accepted industry standard*
+
+### UML
+A graphical modelling language that can be used to represent object oriented analysis, design, and implementation
+
+
+#### Representing a Class in UML
+![[UML Example.png]]
+
+
+**Note**: attributes can have a default value:
+Example: `xPos: int = 0`
+
+Function arguments must be named:
+Example: `render(name: String): void`
+
+
+**Privacy Constraints** are represented as follows:
+- + Public
+- ~ Package-private (default)
+- \# Protected
+- - Private
+
+**Multiplicity** is represented as:
+- Finite e.g. \[10]
+- Range (Known) \[1..10]
+- Range (Unknown) \[1..\*]
+- Range (Zero or More) \[\*] 
+
+**Static** methods/attributes are <span style="text-decoration: underline">underlined</span>
+
+
+
+### Representing Class Relationships
+
+#### Association
+- Represents a *has-a* relationship between objects
+- Allows objects to *delegate* tasks to other objects
+- Shown by a solid line between classes
+
+When a class is *contained* by another, we always use an association, never write the nested class inside of the outer class.
+
+Properties of association
+- Name
+- Role labels
+- Directionality
+- Multiplicity
+![[UML-association.png]]
+![[UML-association-2.png]]
+
+**Association Type: *Aggregation***
+Where one class "has" another class, but both exist independently
+e.g. A pond can have ducks
+
+Represented by a 'diamond' on the connecting line on the side of the containing class.
+
+There can also be *compositional aggregation*
+#### Generalization (Inheritance)
+
+
+#### Realization (Interfaces)
+
+Combined realization and generalization
+
+![[UML-realization.png]]
+#### Dependency
+
+Dependency represents weak relationships between classes
+
+Represented by a dotted arrow

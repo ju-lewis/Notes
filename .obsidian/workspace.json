@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "06e4b6904b2b23b8",
+        "id": "f1eb92609b754b1e",
         "type": "tabs",
         "children": [
           {
-            "id": "dc39776746fa5a5f",
+            "id": "10135b3aa5bb13e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SWEN20003/Lectures.md",
+                "file": "COMP20007/Lectures.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SWEN20003/Lectures.md",
+                "file": "COMP20007/Lectures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SWEN20003/Lectures.md",
+                "file": "COMP20007/Lectures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SWEN20003/Lectures.md"
+                "file": "COMP20007/Lectures.md"
               }
             }
           }
@@ -146,15 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc39776746fa5a5f",
+  "active": "10135b3aa5bb13e7",
   "lastOpenFiles": [
+    "CRIM20007/Lectures.md",
+    "SWEN20003/Lectures.md",
+    "SWEN20003/UML-realization.png",
+    "SWEN20003/UML-association-2.png",
+    "SWEN20003/UML-association.png",
+    "SWEN20003/UML Example.png",
     "COMP20007/Exams.md",
     "COMP20007/Lectures.md",
-    "SWEN20003/Lectures.md",
     "SWEN20003/MST.md",
     "CRIM20007/Assignments.md",
     "CRIM20007/Workshops.md",
-    "CRIM20007/Lectures.md",
     "COMP20007/Prims.png",
     "SWEN20003/Assignments.md",
     "SWEN20003/Git.PNG",
