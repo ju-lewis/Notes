@@ -666,3 +666,51 @@ $F(i,j) = F(i-1, j) \ if \ j \lt w_i$
 
 In Fibonacci, we had an array to store solutions
 Here, we need a matrix of $n+1$ rows and $W+1$ columns.
+
+
+## Dynamic Programming - Part 2:
+
+**Applying dynamic programming algorithms to graphs**
+
+**Transitive Closures:**
+- Find all node pairs that have a path between them.
+
+The solution to a problem can be broken into solutions to subproblems:
+- If there's a path between 2 nodes `i` and `j` which are not directly connected, that path has to go through at least another node `k`. Therefore, we only need to find if the pairs `(i,k)` and `(k,j)` have paths.
+
+### Warshall's Algorithm
+
+In Knapsack, we assume *items* have an arbitrary order
+In Warshall's, we assume the *nodes* have an arbitrary order (From 1 to n)
+
+For every pair of nodes `(i,j)` the full problem is: "Is there a path between `i` and `j`?"
+
+This can be interpreted as "is there a path between `i` and `j` that goes through any subset of nodes from `1 to n`?"
+
+This leads to the subproblem: "is there a path between `i` and `j` that goes through any subset of nods from `1 to k`?"
+
+
+Let $A$ be an adjacency matrix for the graph, and $R$ be a matrix of the same dimension as $A$ that tracks if there is a path from $i$ to $j$. Initially $R^0 = A$, as they begin the same before we account for the new paths we have found to $R$.
+
+When `k=0`, we have the empty subset and $R^0 = A$ .
+The goal is to get $R^n$. We can then get the following recurrence:
+
+$$
+R_{ij}^{0} = A_{ij}
+$$
+$$
+R^{k}_{ij} = R^{k-1}_{ij} \ or \ (R^{k-1}_{ik} \ and \ R^{k-1}_{kj})
+$$
+
+#### Process:
+1. Establish adjacency matrix $A = R^0$ for the graph
+2. Iterate through the current $R$ matrix, if there is an established connection leave it, if there is no current connection, AND the 2 elements together
+(See recursive expression above)
+
+To quickly trace this algorithm on paper, we can mark the $k_{th}$ row and $k_{th}$ column in $R^{k-1}$, and we can add a 1 to $R^k$ to the coordinate where there is a 1 in the inverse of where there are 1s in $R^{k-1}$
+
+For example:
+![[Warshall.png]]
+
+
+### Floyd's Algorithm
