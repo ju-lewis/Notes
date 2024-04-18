@@ -713,4 +713,18 @@ For example:
 ![[Warshall.png]]
 
 
+Note:
+we can use $A$ as $R^k$ to prevent using additional memory (since the algorithm will never overwrite values we need to use)
+
+Warshall's Algorithm is $\Theta(|V|^3)$ in all cases. It's also easily parallelisable
+
 ### Floyd's Algorithm
+
+Floyd's Algorithm solves the *all-pairs shortest path* problem for weighted graphs with *positive weights*
+
+Similar to Warhsall's, but uses a weight matrix W instead of adjacency matrix A (with $\infty$ for unknown values)
+
+The update step becomes:
+$$ D^k_{ij} = min(D^{k-1}_{ij}, \ D^{k-1}_{ik} + D^{k-1}_{kj}) $$
+
+So we choose the minimum between the previous known path length from `i` to `j` and the sum of the distances to the immediate node (`k`) between `i` and `j`
