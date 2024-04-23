@@ -859,7 +859,9 @@ e.g. A pond can have ducks
 
 Represented by a 'diamond' on the connecting line on the side of the containing class.
 
-There can also be *compositional aggregation*
+There can also be *compositional association*
+
+Represented by a closed diamond on the side of the owner.
 #### Generalization (Inheritance)
 
 
@@ -873,3 +875,113 @@ Combined realization and generalization
 Dependency represents weak relationships between classes
 
 Represented by a dotted arrow
+
+### UML Drawing Tools
+- draw.io
+- LucidChart - student email
+- StarUML
+
+# Week 8
+
+## Generics
+
+Generics enable generic logic to be written that applies to any class type.
+
+### Comparable Interface
+
+The `Comparable` interface:
+```java
+public interface Comparable<T> {
+	public int compareTo(T other);
+}
+```
+
+`T` is a *type parameter* or type variable.
+
+When `T` is given a value (type), every instance of the *placeholder* variable is replaced.
+
+The value of `T` is literally a type (class/interface)
+
+Whoever is implementing the interface must specify the type
+
+
+***Comparing WITHOUT Generics***
+- Our comparison function takes an `Object o`
+- We need to check if `o instanceof T` (if not return -2)
+
+### ArrayList
+
+`ArrayList<T> arr = new ArrayList<T>();`
+
+Features of ArrayLists:
+- Can be iterated (for-each)
+- Automatically handles resizing
+
+Limitations:
+- Doesn't shrink automatically (can consume more memory than required)
+	- We can invoke `trimToSize()` to free the required memory
+- Can't store primitive data types
+
+
+### Defining a Generic Class
+A generic class is a class defined with an arbitrary type for a field, parameter or return type.
+
+- The type parameter is included in angular brackets after the class name in the class definition heading
+- A type parameter can have any reference type
+- We usually use `T`, `S`, `B` as the parameter names
+
+Example:
+```java
+public class Sample<T> {
+	private T data;
+	
+	public void setData(T data) {
+		this.data = data;
+	}
+	
+	public T getData() {
+		return data;
+	}
+}
+
+Sample<Integer> 
+```
+
+
+### Bounded Type Parameters
+
+```java
+public class Generic<T extends <class, interface>> {
+}
+```
+
+Example:
+
+```java
+public class Generic<T extends <Robot, Comparable>> {
+}
+```
+
+
+### Generic Methods
+```java
+public <T> T genericMethod(T arg);
+```
+
+
+```java
+public <T> int CountOccurrences(T[] array, T item) {
+	int count = 0;
+	
+	if(item == null) {
+		for(T arrayItem : array) {
+			count = arrayItem == item ? count + 1 : count;
+		}
+	} else {
+		for(T arrayItem : array) {
+			count = arrayItem.equals(item) ? count + 1 : count;
+		}
+	}
+	return count;
+}
+```

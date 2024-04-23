@@ -258,3 +258,5 @@ State responses: Shut it down! Refusal to see any difference between online and 
 ### Targeting
 - 
 ### Disadvantaging
+
+# Week 8

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f1eb92609b754b1e",
+        "id": "06e4b6904b2b23b8",
         "type": "tabs",
         "children": [
           {
-            "id": "10135b3aa5bb13e7",
+            "id": "dc39776746fa5a5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP20007/Lectures.md",
+                "file": "CRIM20007/Final Essay.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP20007/Lectures.md",
+                "file": "CRIM20007/Final Essay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP20007/Lectures.md",
+                "file": "CRIM20007/Final Essay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMP20007/Lectures.md"
+                "file": "CRIM20007/Final Essay.md"
               }
             }
           }
@@ -146,28 +146,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2dc6831b1d2a9c63",
+  "active": "dc39776746fa5a5f",
   "lastOpenFiles": [
-    "COMP20007/Warshall.png",
-    "SWEN20003/Lectures.md",
-    "COMP20007/Lectures.md",
+    "CRIM20007/Assignments.md",
+    "CRIM20007/Final Essay.md",
     "CRIM20007/Lectures.md",
+    "CRIM20007/Workshops.md",
+    "CRIM20007/Required Readings.md",
+    "CRIM20007/Subject Overview.md",
+    "COMP20007/Lectures.md",
+    "SWEN20003/Lectures.md",
     "SWEN20003/UML-realization.png",
-    "SWEN20003/UML-association-2.png",
     "SWEN20003/UML-association.png",
+    "SWEN20003/UML-association-2.png",
     "SWEN20003/UML Example.png",
+    "COMP20007/Warshall.png",
     "COMP20007/Exams.md",
     "SWEN20003/MST.md",
-    "CRIM20007/Assignments.md",
-    "CRIM20007/Workshops.md",
     "COMP20007/Prims.png",
     "SWEN20003/Assignments.md",
     "SWEN20003/Git.PNG",
     "COMP20007/Graph_concepts.png",
     "COMP20007/Graph_1.png",
     "COMP20007/Subject Overview.md",
-    "CRIM20007/Subject Overview.md",
-    "CRIM20007/Required Readings.md",
     "Untitled",
     "COMP20007",
     "SWEN20003/Subject Overview.md",

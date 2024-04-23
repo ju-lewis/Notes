@@ -728,3 +728,91 @@ The update step becomes:
 $$ D^k_{ij} = min(D^{k-1}_{ij}, \ D^{k-1}_{ik} + D^{k-1}_{kj}) $$
 
 So we choose the minimum between the previous known path length from `i` to `j` and the sum of the distances to the immediate node (`k`) between `i` and `j`
+
+
+
+# Week 8
+
+## Sorting
+
+### Mergesort
+```
+function Mergesort(A[0..n-1])
+	if n > 1 then
+		B[0..n/2-1] <- A[0..n/2-1]
+		C[0..n/2-1] <- A[n/2..n-1]
+		Mergesort(B)
+		Mergesort(C)
+		Merge(A,B,C)
+```
+
+#### Merge Operation:
+- Iterate through length of arrays being merged
+- If `B[i] <= C[i]`
+	- `A[k] = B[i]`
+	- `i += 1`
+- else
+	- `A[k] = C[j]`
+	- `j += 1`
+- `k += 1`
+
+#### Properties
+- Not in-place (requires $\Theta(n)$ sized auxiliary space)
+- Stable (maintains relative order if 2 elements are equal)
+$$C(n) = 2C(\frac{n}{2})+C_{merge}(n)$$
+$C_{merge}$ is a linear function, so $C_{merge}(n) \in \Theta(n) \implies d = 1$
+As $a=2$, $b=2$, according to Master Theorem merge sort is $\Theta(nlog(n))$
+### Quicksort
+```
+function Quicksort(A[0..n-1])
+	Partition(A)
+	Quicksort(left)
+	Quicksort(right)
+```
+
+#### Partitioning
+Lomuto Partitioning
+```
+function LomutoPartition(A[l..r])
+	p <- A[l]
+	s <- l
+	for i <- l+1 to r do
+		if A[i] < p then
+			s <- s + 1
+			Swap(A[s], A[i])
+	Swap(A[l], A[s])
+	return s
+```
+
+Process:
+- Iterate through the array
+- If the current element is smaller than the partition `p`: increment `s` and swap elements at `s` and `i`
+- After iteration, swap elements at `l` and `s` and return
+
+
+Hoare Partitioning
+```
+function HoarePartition(A[l..r])
+	p <- A[l]
+	i <- l; j <- r + 1
+	repeat
+		repeat i <- i + 1 until A[i] >= p
+		repeat j <- j - 1 until A[j] <= p
+		Swap(A[i], A[j])
+	until i >= j
+	Swap(A[i], A[j])
+	Swap(A[l], A[j])
+	return j
+```
+
+
+#### Complexity
+
+Best Case:
+$$C_b(n) = 2C_b(\frac{n}{2}) + C_{partition}(n)$$
+Worst Case:
+$$C_w(n) = 2C_b(\frac{n}{2}) + n + 1$$
+
+#### Properties
+- In-place
+- Unstable
