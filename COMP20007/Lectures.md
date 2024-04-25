@@ -729,7 +729,7 @@ $$
 2. Iterate through the current $R$ matrix, if there is an established connection leave it, if there is no current connection, AND the 2 elements together
 (See recursive expression above)
 
-To quickly trace this algorithm on paper, we can mark the $k_{th}$ row and $k_{th}$ column in $R^{k-1}$, and we can add a 1 to $R^k$ to the coordinate where there is a 1 in the inverse of where there are 1s in $R^{k-1}$
+To quickly trace this algorithm on paper, we can mark the $k_{th}$ row and $k_{th}$ column in $R^{k-1}$, and we can add a 1 to $R^k$ to the coordinates where there are are 1s in the $k_{th}$ row and $k_{th}$ column of $R^{k-1}$. (Simply circle the relevant rows and columns and check if there are any 1s in the circles)
 
 For example:
 ![[Warshall.png]]

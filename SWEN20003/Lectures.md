@@ -985,3 +985,6 @@ public <T> int CountOccurrences(T[] array, T item) {
 	return count;
 }
 ```
+
+## Collections and Maps
+
