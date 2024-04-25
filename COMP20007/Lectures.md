@@ -503,18 +503,29 @@ Note: the starting node will always be printed last
 
 The brute-force method had complexity $\Theta(n^2)$, we can achieve $\Theta(nlog(n))$ with a divide-and-conquer approach.
 
+### Approach:
+- First sort the points by x value and store the result in array `byX`
+- Sort the points by y value and store the result in array `byY`
+- Now we can identify the *x median* and recursively process the set $P_L$ of points with lower x values and the set $P_R$ with higher x values.
+- We can the identify $d_L$ (Shortest distance in $P_L$), $d_R$ (Shortest distance in $P_R$)
+- Let $m = x \ median$ and $d = min(d_L, d_R)$ (d may be the smallest distance at this stage)
+	- There is an edge case where the closest pair lies on either side of $m$
+	- For these, we only need to look at points in the domain $\{m-d \leq x \leq m+d\}$, so pick from array `byY` each point `p` with x-coordinate in the domain and keep these points in array `S`
+	- For each point in `S` consider only its 'close' neighbours.
+
 
 ```
 minsq <- d^2
 
 copy all point of byY with |x-m| < d to array S
 
-k <- |S|
+k <- length(S)
 for i <- 0 to k-2 do
 	j <- i + 1
 	
 	while j <= k - 1 and (S[j].y - S[i].y)^2 < minsq do
 		minsq <- min(minsq, (S[j].x - S[i].x)^2 + (S[j].y - S[i].y)^2)
+		j <- j + 1
 ```
 
 It can be shown that the while loop can execute *at most 5 times for each i value*
@@ -553,6 +564,17 @@ $$T(n) = \ \ \Theta(n^{(log_b(a))}) \ if \ a > b^d$$
 - The last character matches but one of the $m-1$ characters does not match and the last character is unique. *Shift by pattern length*
 #### Case 4:
 - The last character matches but one of the $m-1$ character does not match and the last character is not unique. *Shift pattern until the 2nd last occurrence of the character*
+
+### Better Explanation:
+- If there is a mismatch and the text has the last character, shift by pattern length
+- Otherwise if there is a mismatch shift by the distance from the leftmost occurrence of the text's character to the end of the pattern
+
+Example:
+```
+EAGLE
+S = [3,5,5,5,4,5,2,5,5,5,5,1,5,5,5,5,5,5,5,5,5,5,5,5,5,5]
+(E: 4, A: 3, G: 2, L: 1)
+```
 
 #### Pre-processing 
 
