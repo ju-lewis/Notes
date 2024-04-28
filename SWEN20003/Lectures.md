@@ -821,10 +821,10 @@ Example: `render(name: String): void`
 
 
 **Privacy Constraints** are represented as follows:
-- + Public
-- ~ Package-private (default)
+- \+ Public
+- \~ Package-private (default)
 - \# Protected
-- - Private
+- \- Private
 
 **Multiplicity** is represented as:
 - Finite e.g. \[10]
@@ -882,7 +882,6 @@ Represented by a dotted arrow
 - StarUML
 
 # Week 8
-
 ## Generics
 
 Generics enable generic logic to be written that applies to any class type.
@@ -988,3 +987,83 @@ public <T> int CountOccurrences(T[] array, T item) {
 
 ## Collections and Maps
 
+### Collections:
+A framework that permits storing, accessing and manipulating lists (an ordered collection)
+
+
+#### Sorting with ArrayLists
+
+We can create a class that handles the sorting for us, by implementing the `Comparator` interface:
+
+```java
+class RatingComparator implements Comparator<Movie> {
+	@Override
+	public int compare(Movie m1, Movie m2) {
+		if (m1.getRating() < m2.getRating()) return -1;
+		if (m1.getRating() > m2.getRating()) return 1;
+		else return 0;
+	}
+}
+```
+
+Note that this is not the same as the `compareTo` method in the `Comparable` interface
+
+Usage example:
+```java
+ArrayList<Movie> movies = new ArrayList<Movie>;
+// Assume movies is initialized here
+
+// This implementation requires the comparison to be in the movie class
+Collections.sort(movies);
+
+// This implementation allows separate comparisons to be used
+Collections.sort(movies, new RatingComparator());
+
+// Another example of using an external comparator
+Collections.sort(movies, new NameComparator());
+```
+
+We can implement these `Comparator` classes as *Anonymous Inner Classes* (note: this works very similarly to anonymous functions in other languages)
+
+```java
+Collections.sort(movies, new Comparator<Move>(){
+	@Override
+	public int compare(Movie m1, Movie m2){
+		if (m1.getRating() < m2.getRating()) return -1;
+		if (m1.getRating() > m2.getRating()) return 1;
+		else return 0;
+	}
+})
+```
+
+
+
+### Maps:
+A framework that permit storing, accessing and manipulating key-value pairs.
+
+
+#### TreeMap
+Elements are automatically sorted (Binary tree) - Requires `Comparable` implementation
+
+#### HashMap
+
+Generic class that takes two types: `K` (the key) and `V` (the value)
+
+```java
+HashMap<String, Book> library = new HashMap<String, Book>();
+
+Book b1 = new Book("Example Author", "Example Title", 100);
+
+library.put(b1.author, b1); // We have now stored the book by its author
+
+for(String author : library.keySet()) {
+	Book b = library.get(author);
+}
+```
+
+
+***We are we using generics here?***
+
+The only alternatives would be:
+- Defining everything as `Object` (would need massive if-else chains to determine classes - not maintainable)
+- Rewrite your code for any types you may use it with
