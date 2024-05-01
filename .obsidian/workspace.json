@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "06e4b6904b2b23b8",
+        "id": "4a0364f582446a59",
         "type": "tabs",
         "children": [
           {
-            "id": "dc39776746fa5a5f",
+            "id": "89440dfd499b6655",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "SWEN20003/Lectures.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "810f95506c44441e",
@@ -147,28 +146,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc39776746fa5a5f",
+  "active": "2dc6831b1d2a9c63",
   "lastOpenFiles": [
+    "SWEN20003/Java-Observer.png",
+    "SWEN20003/Observer-Pattern.png",
+    "SWEN20003/MST.md",
+    "Pasted image 20240501170904.png",
+    "SWEN20003/Strategy-Pattern.png",
+    "SWEN20003/Lectures.md",
+    "SWEN20003/Template Pattern.png",
     "COMP20007/Lectures.md",
+    "SWEN20003/Factory-pattern.png",
+    "COMP20007/Exams.md",
     "CRIM20007/Final Essay.md",
     "CRIM20007/Assignments.md",
     "CRIM20007/Lectures.md",
     "CRIM20007/Workshops.md",
     "CRIM20007/Required Readings.md",
     "CRIM20007/Subject Overview.md",
-    "SWEN20003/Lectures.md",
     "SWEN20003/UML-realization.png",
     "SWEN20003/UML-association.png",
     "SWEN20003/UML-association-2.png",
     "SWEN20003/UML Example.png",
     "COMP20007/Warshall.png",
-    "COMP20007/Exams.md",
-    "SWEN20003/MST.md",
-    "COMP20007/Prims.png",
     "SWEN20003/Assignments.md",
-    "SWEN20003/Git.PNG",
-    "COMP20007/Graph_concepts.png",
-    "COMP20007/Graph_1.png",
     "COMP20007/Subject Overview.md",
     "Untitled",
     "COMP20007",

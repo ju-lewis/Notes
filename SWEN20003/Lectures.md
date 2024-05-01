@@ -1067,3 +1067,183 @@ for(String author : library.keySet()) {
 The only alternatives would be:
 - Defining everything as `Object` (would need massive if-else chains to determine classes - not maintainable)
 - Rewrite your code for any types you may use it with
+
+# Week 9
+
+## Design Patterns
+
+Design patterns systematically document re-occurring design solutions so that they can be reused.
+
+Good designers reuse solutions - they do not design everything from scratch.
+### Introduction and Motivation
+
+*Intent* The goal of the pattern
+*Intent*
+*Applicability*
+*Structure* Graphical representations of the pattern, likely UML
+*Participants* Involved classes/objects
+*Consequences* A description of results and side effects
+*Implementation* Example of 'solving a problem' with the pattern
+*Known uses*
+
+### Singleton Pattern
+A pattern that enforces having only a single instance and provides a global point of access to it.
+
+*Motivation*: There are cases where only one instance of a class must be enforced with easy access to the object.
+
+- Private constructor
+- Public static `Singleton getInstance()` method
+	- This method determines if the instance is null
+	- If it is null, creates the instance
+	- Otherwise just return the instance
+
+*Known Uses*: `CacheManager`, `PrinterSpooler`
+### Factory Method Pattern
+***Problem:*** Creating objects in the class that require (uses) the object is inflexible
+
+*Factory*: A general technique for manufacturing (creating) objects
+*Product* An abstract class that generalises the objects being created by the factory (e.g. different types of gameEngine)
+*Creator*: An abstract class that generalises the objects that will consume/produce products
+
+![[Factory-pattern.png]]
+
+Note that the `factoryMethod()` is `abstract`, this delegates object creation to subclasses.
+*Encapsulates* objects by allowing subclasses to determine what they need
+
+*Intent*: To generalize object creation
+*Applicability*: When sister classes depend on (and create) similar objects
+*Consequences*: Object creation in the superclass is now decoupled from the specific object required.
+### Template Method Pattern
+Building generic components that can be *extended*, *adapted*, and *re-used* is key to good design.
+
+***Templating uses inheritance***
+
+We want to be able to write an algorithm once, and re-use it for other datatypes. To achieve this, we create a generic version of the algorithm and create classes that implement if for specific data-types.
+![[Template Pattern.png]]
+#### Example - Insertion-sort:
+```java
+public abstract class AbstractInsertionSorter {
+	private static int operations = 0;
+	protected int length = 0;
+	
+	protected abstract int doSort() {
+		for(int i=0; i<length; i++) {
+			for(int j=i; j>0; j--) {
+				if(outOfOrder(j-1)) {
+					swap(j-1); // Swaps with `j`
+				}
+			}
+		}
+		return operations;
+	}
+	protected abstract boolean outOfOrder(int index);
+	protected abstract void swap(int index);
+}
+
+public class IntInsertionSorter extends InsertionSorter {
+	
+	// We define the array in this class!!
+	private int[] A = null;
+	
+	public int sort(int[] A) {
+		this.A = A;
+		length = A.length();
+		return doSort();
+	}
+	
+	@Override
+	protected abstract boolean outOfOrder(int index) {
+		return A[index] > A[index+1];
+	}
+	
+	@Override
+	protected abstract void swap(int index) {
+		int temp = A[index];
+		A[index] = A[index+1];
+		A[index+1] = temp;
+	}
+}
+```
+
+There are still issues with this, for example if we want to implement the `InsertionSorter` for `Double`s, we'll need to copy much of the logic over.
+### Strategy Pattern
+Completely separates the algorithm from the datatypes, resulting in very versatile algorithms.
+
+***Strategy pattern uses delegation***
+
+```java
+public class InsertionSorterS {
+	static int operations = 0;
+	private int length = 0;
+	private SortHandle itsSortHandle = null;
+	
+	public InsertionSorterS(SortHandle handle) {
+		itsSortHandle = handle;
+	}
+
+	public int sort(Object A) {
+		itsSortHandle.setArray(array);
+		length = itsSortHandle.length();
+		operations = 0;
+		
+		if(length <= 1) return operations;
+		
+		for(int i=0; i<length; i++) {
+			for(int j=i; j > 0; j--) {
+				if (itsSortHandle.outOfOrder(j-1)) {
+					itsSortHandle.swap(j-1);
+				}
+				operations++;
+			}
+		}
+		return operations;
+	}
+}
+```
+
+Here we have delegated the comparison and swapping to a `SortHandle`.
+
+```java
+public interface SortHandle {
+	public void swap(int index);
+	public boolean outOfOrder(int index);
+	public int length();
+	public void setArray(Object array);
+}
+```
+
+![[Strategy-Pattern.png]]
+
+### Observer Pattern
+When a part of the code is 'watching' (observing) an event
+
+The observer pattern decouples the subject and observers using a publish-subscribe style communication pattern. (The observer no longer has to watch everything the subject does)
+
+Observers can be watching multiple subjects, e.g. students (observers) watching both the lecturer and the screen (subjects).
+
+When the subject changes, it will publish a notification that the observers can read and analyse to decide if they need to react to it.
+
+#### Subject:
+An "important" object, whose state (or change in state) determines the actions in other classes
+#### Observer:
+An object that monitors the subject in order to respond to its change in state
+
+![[Observer-Pattern.png]]
+
+`notifyObservers()` if effectively a `for` loop that iterates through all of the observers and calls `notify()`
+
+This pattern is similar to interrupts (as opposed to polling).
+
+
+Note that Java has an `Observer` and `Observable` interface in the standard library.
+
+![[Java-Observer.png]]
+### Pattern Types
+
+These patterns are based on the *Gang of Four* book, which describes 23 common design patterns.
+
+
+#### Classes of Problems
+- *Creational* - Solutions related to object creation, e.g. Singleton, Factory method
+- *Structural* - Solutions dealing with the structure of classes and their relationships: e.g. Adapter, Bridge
+- *Behavioural* - Solutions dealing with the interaction among classes, e.g. Strategy, Template Method, Observer

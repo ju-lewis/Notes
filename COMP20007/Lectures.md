@@ -794,6 +794,9 @@ function Quicksort(A[0..n-1])
 
 #### Partitioning
 Lomuto Partitioning
+
+Lomuto Partitioning maintains 3 sections: less than the pivot, greater than the pivot, and unknown.
+
 ```
 function LomutoPartition(A[l..r])
 	p <- A[l]
@@ -813,6 +816,9 @@ Process:
 
 
 Hoare Partitioning
+
+Hoare Partitioning is a 2-pointer approach, where pointers `i` and `j` increment inwards from the left and right bounds respectively, until they both reach an element that should be 'on the other side' of the array, where they swap and continue incrementing until they reach each other. 2 final swaps are done after they meet.
+
 ```
 function HoarePartition(A[l..r])
 	p <- A[l]
@@ -827,7 +833,6 @@ function HoarePartition(A[l..r])
 	return j
 ```
 
-
 #### Complexity
 
 Best Case:
@@ -838,3 +843,47 @@ $$C_w(n) = 2C_b(\frac{n}{2}) + n + 1$$
 #### Properties
 - In-place
 - Unstable
+
+
+# Week 9
+
+## Heapsort
+Effectively selection sort utilising a priority queue
+
+### Data Structure (The Heap)
+A tree with the following properties:
+- *Binary* (Two child nodes)
+- *Complete* (all levels are full)
+- *Parental dominance* (Parent node is greater than child node)
+
+### Top-Down Heapsort
+"Bubble Up" Algorithm
+
+### Bottom-Up Heapsort
+- Start with the last parent node
+- Get the largest child node 
+- Check if the largest child is greater than the parent node
+```c
+void sift_down(int *A, int i, int len) {
+	int largest_child_idx = i*2+1;
+	
+	if(A[largest_child_idx+1] > A[largest_child_idx]) {
+		largest_child_idx++;
+	}
+	
+	if(A[i] < A[largest_child_idx]) {
+		int temp = A[i];
+		A[i] = A[largest_child_idx];
+		A[largest_child_idx] = temp;
+		
+		sift_down(A, largest_child_idx, len);
+	}
+}
+
+for(int i=len/2; i>=0; i--) {
+	sift_down(A, i, len);
+	// We now have a max-heap!
+}
+```
+
+### Heapsort
