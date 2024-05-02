@@ -62,3 +62,19 @@ Anything considered 'neutral' is inherently biased towards some dominant social 
 The internet is not neutral.
 - "Simple, quick, and useful" **to who?**
 - "Unified and unfiltered" **to who?**
+
+# Cancel Culture and Informal Justice
+Informal justice is any mechanism of addressing wrongdoings which does not rely on the formal CJS
+
+Cancellation is a social media-based boycott
+
+Cancelling is very frequently depicted as the **responsibility of the original victim or re-sharers**, but ANT can help us consider the dynamics of cancelling from different angles, and as a 'snowball' effect.
+
+## Harm, Justice, Harm and Justice
+- Overpunishment and underpunishment are both harmful
+- Many of the popular critiques levied at cancelling have parallels with traditional punitive criminal justice approaches. 
+	- A label that is difficult to remove
+	- Delayed punishment for harms that occurred a long time ago
+	- The possiblity of harming someone who was innocent
+	- A singular, harsh, retributive punishment that disallows the possibility of change
+	

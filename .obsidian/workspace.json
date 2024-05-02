@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SWEN20003/Lectures.md",
+                "file": "CRIM20007/Workshops.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SWEN20003/Lectures.md",
+                "file": "CRIM20007/Workshops.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SWEN20003/Lectures.md",
+                "file": "CRIM20007/Workshops.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SWEN20003/Lectures.md"
+                "file": "CRIM20007/Workshops.md"
               }
             }
           }
@@ -146,29 +146,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2dc6831b1d2a9c63",
+  "active": "89440dfd499b6655",
   "lastOpenFiles": [
+    "CRIM20007/Lectures.md",
+    "CRIM20007/Subject Overview.md",
+    "CRIM20007/Workshops.md",
+    "SWEN20003/Lectures.md",
     "SWEN20003/Java-Observer.png",
     "SWEN20003/Observer-Pattern.png",
     "SWEN20003/MST.md",
     "Pasted image 20240501170904.png",
     "SWEN20003/Strategy-Pattern.png",
-    "SWEN20003/Lectures.md",
     "SWEN20003/Template Pattern.png",
     "COMP20007/Lectures.md",
     "SWEN20003/Factory-pattern.png",
     "COMP20007/Exams.md",
     "CRIM20007/Final Essay.md",
     "CRIM20007/Assignments.md",
-    "CRIM20007/Lectures.md",
-    "CRIM20007/Workshops.md",
     "CRIM20007/Required Readings.md",
-    "CRIM20007/Subject Overview.md",
     "SWEN20003/UML-realization.png",
     "SWEN20003/UML-association.png",
     "SWEN20003/UML-association-2.png",
     "SWEN20003/UML Example.png",
-    "COMP20007/Warshall.png",
     "SWEN20003/Assignments.md",
     "COMP20007/Subject Overview.md",
     "Untitled",
