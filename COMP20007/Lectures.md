@@ -887,3 +887,18 @@ for(int i=len/2; i>=0; i--) {
 ```
 
 ### Heapsort
+
+
+## Distribution Sort
+
+Specialised non-comparative sorting algorithms.
+
+### Counting Sort
+- Only works with non-negative integer keys
+- Works best when the key range is small
+
+#### Process:
+Allocate an array of length $max(A)$
+
+
+### Radix Sort
