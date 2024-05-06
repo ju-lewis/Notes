@@ -850,6 +850,7 @@ $$C_w(n) = 2C_b(\frac{n}{2}) + n + 1$$
 ## Heapsort
 Effectively selection sort utilising a priority queue
 
+Overall cost: $C_{heapify}(n) + (n \times C_{eject}(n))$
 ### Data Structure (The Heap)
 A tree with the following properties:
 - *Binary* (Two child nodes)
@@ -859,7 +860,9 @@ A tree with the following properties:
 ### Top-Down Heapsort
 "Bubble Up" Algorithm
 
-### Bottom-Up Heapsort
+$O(nlog(n))$ heapify cost
+
+### Bottom-Up HeapsortG
 - Start with the last parent node
 - Get the largest child node 
 - Check if the largest child is greater than the parent node
@@ -886,6 +889,9 @@ for(int i=len/2; i>=0; i--) {
 }
 ```
 
+$O(n)$ heapify cost
+
+![[Bottom-Up-Heapsort.png]]
 ### Heapsort
 
 
@@ -898,7 +904,20 @@ Specialised non-comparative sorting algorithms.
 - Works best when the key range is small
 
 #### Process:
-Allocate an array of length $max(A)$
-
+1. Allocate a `count` array of length `max(A)`
+2. Iterate through `A` and log frequencies in `count`
+3. Allocate output array of length `len(A)`
+4. Iterate through `A`, the index in the output array for any given element `A[i]` is given by `count[A[i] - 1]`
+5. Decrement the element of the count array that was just referenced
 
 ### Radix Sort
+- Requires the maximum key length to be known (as we iterate through key digits from least to most significant) 
+
+
+```
+function RadixSort(A[0..n-1], k)
+	for j<-0 to len(k) do
+		A <- AuxSort(A, k[j])
+```
+
+Where `AuxSort` is an auxiliary sorting algorithm (typically counting sort, but can be any *stable* algorithm)

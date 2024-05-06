@@ -1247,3 +1247,117 @@ These patterns are based on the *Gang of Four* book, which describes 23 common d
 - *Creational* - Solutions related to object creation, e.g. Singleton, Factory method
 - *Structural* - Solutions dealing with the structure of classes and their relationships: e.g. Adapter, Bridge
 - *Behavioural* - Solutions dealing with the interaction among classes, e.g. Strategy, Template Method, Observer
+
+## Exceptions
+
+Exceptions =/= bad, they're just unusual circumstances (particularly in Java/OOP)
+
+Exceptions are classes in Java
+
+### Errors/Mistakes
+
+*Syntax Errors:*
+You have written something that isn't legal Java code, so there is a compilation error.
+
+*Semantic Errors:*
+Code runs to completion, but results are incorrect. (logic is wrong)
+Identified through software testing
+
+*Runtime Errors:*
+An error that causes your program to crash; identified through execution.
+
+
+**Recovering From a Runtime Error Example:**
+
+```java
+double divide(double n1, double n2) {
+	return n1 / n2;
+}
+```
+
+This code will crash given an input of `n2 = 0`
+
+Solution 1 - *Do Nothing*:
+- Obviously not ideal
+
+Solution 2 - *Guarding / Input validation* (Defensive programming):
+- Preventing erroneous inputs based on code context
+- Example: ensuring `n2 != 0`
+- It is good to both do this in conjunction with proper handling
+- Can be difficult to predict all possible erroneous inputs
+
+Solution 3 - *Using exceptions to handle error states*:
+- Using `try catch` statements
+- We want to be as specific as possible with the exception type caught, especially if error messages are printed
+- Java supports `finally` blocks, it is useful to close files in the `finally` block - in general, perform clean up
+- Java also supports `catch` chaining (ensure the order is correct)
+	- If a superclass comes first in a catch chain, a compile error will occur
+- DO NOT CATCH `EXCEPTION`!!
+
+Keywords:
+`throw`: respond to an error state by creating an Exception object
+`throws`: Indicates a method has the potential to create an exception
+
+
+`throws`  is used when we don't want to handle the error inside a method directly, as it may need to be handled by the user class
+
+
+### Defining Exceptions:
+
+All exceptions have 2 constructors
+
+```java
+import java.lang.Exception;
+
+public class InvalidRadiusException extends Exception {
+	public InvalidRadiusException() {
+		super("Radius is not valid");
+	}
+	
+	public InvalidRadiusException(double radius) {
+		super("Radius ["+radius+"] is not valid");
+	}
+}
+```
+
+Using the new exception:
+```java
+public class Circle {
+	private double x, y;
+	private double r;
+	
+	public Circle(double x, double y, double r) throws InvalidRadiusException {
+		if(r <= 0) {
+			throw new InvalidRadiusException(radius);
+		}
+		this.x = x;
+		this.y = y;
+		this.r = r;
+	}
+}
+```
+
+
+### Exception Types:
+
+*Unchecked*: Can be safely ignored by the programmer; most inbuild Java exceptions are unchecked
+
+*Checked*: Must be explicitly handled - will result in a compilation error otherwise
+
+Both Exceptions (Checked) and Errors (Unchecked) inherit from *Throwable*
+
+
+### Try With
+
+Example:
+```java
+public void processFile(String filename) {
+	try(BufferedReader reader = ...) {
+		...
+	} catch (FileNotFoundException e) {
+		e.printStackTrace();
+	} catch (IOException e) {
+		e.printStackTrace();
+	}
+}
+```
