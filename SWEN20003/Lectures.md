@@ -1248,6 +1248,7 @@ These patterns are based on the *Gang of Four* book, which describes 23 common d
 - *Structural* - Solutions dealing with the structure of classes and their relationships: e.g. Adapter, Bridge
 - *Behavioural* - Solutions dealing with the interaction among classes, e.g. Strategy, Template Method, Observer
 
+# Week 10
 ## Exceptions
 
 Exceptions =/= bad, they're just unusual circumstances (particularly in Java/OOP)
@@ -1346,7 +1347,6 @@ public class Circle {
 
 Both Exceptions (Checked) and Errors (Unchecked) inherit from *Throwable*
 
-
 ### Try With
 
 Example:
@@ -1361,3 +1361,118 @@ public void processFile(String filename) {
 	}
 }
 ```
+
+
+## Software Design and Testing
+
+### Good Programming Practices
+
+Don't have the datatype in the variable name.
+
+#### Comment Style
+- Intended primarily for yourself
+- Code should be *self-documenting*; readable without extra documentation
+- If your code were removed, comments should be sufficient to "piece together" the algorithm
+- Comments should be attached to *blocks* of code
+
+#### Javadoc
+- Compiled to HTML
+- Used to document packages, classes, methods, and attributes
+- Uses '@' tags
+- Intended primarily for developers using your program
+
+- Needed for public classes, attributes, and methods
+- INCLUDING GETTERS, SETTERS, AND CONSTRUCTORS!
+
+
+Consider the extensibility of your solutions (fixing/changing/updating).
+
+### Design Principles:
+
+So far we have seen:
+- OOP good practice (encapsulation, information hiding, delegation, inheritance, realization, polymorphism)
+- Modelling classes and relationships
+- Design patterns
+
+#### Modularity:
+Decomposing the problem to units (modules) that are easy to understand, manage, and re-use.
+- In OOP classes are the basic modules
+
+#### Cohesion
+Modules MUST be design to solve clear, focused problems. 
+- Classes must be defined to have high cohesion
+Example:
+- A car with a GPS should not have the GPS functionality defined inside the car class. The car class should be focused only on handling car related things.
+
+#### Coupling
+The degree of interaction between modules must be reduced as much as possible.
+Designs should have **low** coupling.
+- Deciding when to have an association relationship should be done carefully
+- Interfaces promote low coupling
+- Decide when it is appropriate to pass objects as parameters (dependency) to reduce coupling.
+
+#### Open-Closed Principle
+Modules should be **open** to extension, but **closed** to modification.
+- In practice, if we want additional/modified functionality, we should extend the base class, not directly modify it.
+
+#### Abstraction
+Solving problems by creating abstract data types to represent problem components.
+
+#### Encapsulation
+The details of a class should be kept *hidden* or *private*, and a user's ability to access the hidden details should be restricted. Known as **Information Hiding**.
+
+#### Polymorphism
+The ability to use an object or method in many different ways; achieved in Java through *ad hoc* (overloading), *subtype* (overriding, substitution), and *parametric* (generics).
+
+#### Delegation
+Keeping classes focused by passing work to other classes. Computations should be performed in the class with the *greatest amount of relevant information*
+
+
+### Poor Design Symptoms
+- *Rigidity:* difficulty of modification, because of cascading changes
+- *Fragility:* Changing one part of the system causes unrelated parts to break
+- *Immobility:* Can't decompose systems into modules
+- *Viscosity:* Writing "hacks" to get around problems
+- *Complexity:* Premature optimization, etc.
+- *Repetition:* Repeated code
+- *Opacity:* Difficult to read code
+
+
+### Bug Fixing
+- Print statements
+- Google
+- Forums
+
+### Software Testing
+- Unit Testing - Testing individual units/components independently
+- Integrations and System Testing - Integrating units to form the system
+- Acceptance Testing - User experience testing
+
+
+**Unit**: A small, well-defined component with a small number of responsibilities
+**Unit Test**: Verifying the operation of a *unit* by testing a single *use case* (input/output), intending for it to FAIL.
+**Unit Testing**: Identifying bugs by running a suite of unit tests on all units.
+
+
+#### Manual Testing
+Generally used for reaching difficult edge cases. Not scalable for large projects.
+#### Automated Testing
+Testing code with automated, purpose built software. Generally faster and more reliable.
+
+
+### JUnit Automated Testing
+In this class we use JUnit5
+
+```java
+import org.junit.Test;
+```
+
+`assert` a true or false statement indicates the success or failure of a test case.
+`TestCase` is a class dedicated to testing a single unit. Naming convention is to use append `Test` to the tested classes' name (e.g. `BoardTest`)
+
+
+`assertArrayEquals(expected, actual)`
+`assertTrue(condition)`
+`assertFalse(condition)`
+`assertEquals(expected, actual)`
+``

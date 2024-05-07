@@ -921,3 +921,66 @@ function RadixSort(A[0..n-1], k)
 ```
 
 Where `AuxSort` is an auxiliary sorting algorithm (typically counting sort, but can be any *stable* algorithm)
+
+## Binary Search Trees
+
+Binary search trees are an abstract data structure for storing (key, value) pairs
+
+### Dictionary Operations:
+- Search
+- Insert
+- Delete
+
+### General Dictionary Implementations:
+- Linked List / Unsorted Array:
+	- Search: $\Theta(n)$ comparisons
+- Sorted Array:
+	- Search: $\Theta(log(n))$ comparisons
+	- Insert/Delete: $\Theta(n)$ record swaps
+- BST:
+	- Search: $\Theta(log(n))$ comparisons
+	- Insert/Delete: $\Theta(log(n))$ record swaps
+
+
+### General Structure:
+Smaller keys are on the left, larger keys are on the right
+
+The worst case is when the binary search tree degenerates into a 'stick', this happens when the values are strictly increasing or strictly decreasing 
+
+### Avoiding BST Degeneracy
+
+- Self-balancing Trees
+- Changing the Representation
+
+#### AVL Trees (Adelson-Velsky and Landis):
+Each node in the BST has a *balance factor* (the difference in height between the left and right subtrees)
+
+When the balance factor becomes 2 or -2, *rotate* the tree to adjust them.
+
+The tree is balanced when:
+$$-1 \leq h_L - h_R \leq 1$$
+
+***Rotations:***
+R-Rotations:
+- When there is a left subtree that is causing the unbalance, we do a right rotation
+- We then move everything to the right 1 node
+
+L-Rotation:
+- When the right subtree is causing the unbalance
+- Move all nodes 1 to the left
+
+LR-Rotation:
+ ![[LR-Rotation.png]]
+In this case, LR(3) = L(1) + R(3)
+
+RL-Rotation:
+![[RL-Rotation.png]]A
+In this case, RL(1) = R(3) + L(1)
+
+
+If there are multiple nodes with balance factor +/- 2, we always choose the LOWEST subtree to be rebalanced
+
+![[General Double Rotation.png]]
+T1 and T4 have no 'issues' so they remain in the same place.
+T2 is rotating from the left, so it becomes the right node of the child.
+T3 is rotating from the right, so it becomes the left node of the child.

@@ -259,4 +259,31 @@ State responses: Shut it down! Refusal to see any difference between online and 
 - 
 ### Disadvantaging
 
+# Week 6
+# Week 7
+
 # Week 8
+
+# Week 9
+
+# Week 10
+
+## Desistance and Surveillance
+
+Two Tiers of Informal Justice:
+- The state does not value the victim / The state does not see the perpetrator as 'really' harmful
+- Punishment is not what the survivor wants
+
+The first case requires activism.
+In the second case, the CJS can let down the survivor twice. It generally only offers punishment (harm for harm).
+
+If one desires a non-punitive solution, one must seek it informally
+
+
+
+The state sees technology in four main ways:
+- As a threat (The state needs technological sophistication to keep up with TFC)
+- As a means of stopping crime
+- As a means of enhancing approaches to catching, processing, and punishing offenders
+- As a means of correcting its own problems
+

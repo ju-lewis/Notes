@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SWEN20003/Lectures.md",
+                "file": "CRIM20007/Lectures.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SWEN20003/Lectures.md",
+                "file": "CRIM20007/Lectures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SWEN20003/Lectures.md",
+                "file": "CRIM20007/Lectures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SWEN20003/Lectures.md"
+                "file": "CRIM20007/Lectures.md"
               }
             }
           }
@@ -148,10 +148,13 @@
   },
   "active": "89440dfd499b6655",
   "lastOpenFiles": [
-    "COMP20007/Lectures.md",
-    "COMP20007/Bottom-Up-Heapsort.png",
     "SWEN20003/Lectures.md",
     "SWEN20003/Assignments.md",
+    "COMP20007/Lectures.md",
+    "COMP20007/General Double Rotation.png",
+    "COMP20007/RL-Rotation.png",
+    "COMP20007/LR-Rotation.png",
+    "COMP20007/Bottom-Up-Heapsort.png",
     "COMP20007/Exams.md",
     "CRIM20007/Lectures.md",
     "SWEN20003/Java-Observer.png",
@@ -166,9 +169,6 @@
     "CRIM20007/Workshops.md",
     "CRIM20007/Required Readings.md",
     "CRIM20007/Subject Overview.md",
-    "SWEN20003/UML-realization.png",
-    "SWEN20003/UML-association.png",
-    "SWEN20003/UML-association-2.png",
     "COMP20007/Subject Overview.md",
     "Untitled",
     "COMP20007",
