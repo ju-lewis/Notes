@@ -4,23 +4,24 @@
 
 Javadoc commenting:
 
-- [ ] File introductions (author/version)
+- [x] File introductions (author/version)
 
-- [ ] ShadowMario
-- [ ] Coin
-- [ ] DoublePower
-- [ ] EndFlag
-- [ ] EnemyBoss
-- [ ] Fireball
-- [ ] FlyingPlatform
-- [ ] GroundPlatform
-- [ ] Interactable (Interface)
-- [ ] InvinciblePower
-- [ ] IOUtils
-- [ ] Menu
-- [ ] Platform
-- [ ] Player
-- [ ] RandomlyMoveable (Interface)
-- [ ] Targetable (Interface)
-- [ ] WorldData
-- [ ] WorldObject
+- [x] ShadowMario
+- [x] Coin
+- [x] DoublePower
+- [x] EndFlag
+- [x] Enemy
+- [x] EnemyBoss
+- [x] Fireball
+- [x] FlyingPlatform
+- [x] GroundPlatform
+- [x] Interactable (Interface)
+- [x] InvinciblePower
+- [x] IOUtils
+- [x] Menu
+- [x] Platform
+- [x] Player
+- [x] RandomlyMoveable (Interface)
+- [x] Targetable (Interface)
+- [x] WorldData
+- [x] WorldObject

@@ -906,9 +906,11 @@ Specialised non-comparative sorting algorithms.
 #### Process:
 1. Allocate a `count` array of length `max(A)`
 2. Iterate through `A` and log frequencies in `count`
-3. Allocate output array of length `len(A)`
-4. Iterate through `A`, the index in the output array for any given element `A[i]` is given by `count[A[i] - 1]`
-5. Decrement the element of the count array that was just referenced
+3. Iterate through `count` summing up the counts
+4. Subtract 1 from all entries in `count`
+5. Allocate output array of length `len(A)`
+6. Iterate through `A`, the index in the output array for any given element `A[i]` is given by `count[A[i] - 1]`
+7. Decrement the element of the count array that was just referenced
 
 ### Radix Sort
 - Requires the maximum key length to be known (as we iterate through key digits from least to most significant) 
@@ -984,3 +986,4 @@ If there are multiple nodes with balance factor +/- 2, we always choose the LOWE
 T1 and T4 have no 'issues' so they remain in the same place.
 T2 is rotating from the left, so it becomes the right node of the child.
 T3 is rotating from the right, so it becomes the left node of the child.
+
