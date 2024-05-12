@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP20007/Lectures.md",
+                "file": "CRIM20007/Final Essay.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP20007/Lectures.md",
+                "file": "CRIM20007/Final Essay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP20007/Lectures.md",
+                "file": "CRIM20007/Final Essay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMP20007/Lectures.md"
+                "file": "CRIM20007/Final Essay.md"
               }
             }
           }
@@ -149,8 +149,10 @@
   "active": "89440dfd499b6655",
   "lastOpenFiles": [
     "SWEN20003/Lectures.md",
-    "SWEN20003/Assignments.md",
     "COMP20007/Lectures.md",
+    "COMP20007/Building-2-3-Tree.png",
+    "COMP20007/2-3-Tree.png",
+    "SWEN20003/Assignments.md",
     "CRIM20007/Lectures.md",
     "COMP20007/General Double Rotation.png",
     "COMP20007/RL-Rotation.png",
@@ -162,8 +164,6 @@
     "SWEN20003/MST.md",
     "Pasted image 20240501170904.png",
     "SWEN20003/Strategy-Pattern.png",
-    "SWEN20003/Template Pattern.png",
-    "SWEN20003/Factory-pattern.png",
     "CRIM20007/Final Essay.md",
     "CRIM20007/Assignments.md",
     "CRIM20007/Workshops.md",

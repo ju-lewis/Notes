@@ -971,12 +971,12 @@ L-Rotation:
 - When the right subtree is causing the unbalance
 - Move all nodes 1 to the left
 
-LR-Rotation:
+LR-Rotation: (Do this when parent is positive, child is negative)
  ![[LR-Rotation.png]]
 In this case, LR(3) = L(1) + R(3)
 
-RL-Rotation:
-![[RL-Rotation.png]]A
+RL-Rotation: (When parent is negative, child is positive)
+![[RL-Rotation.png]]
 In this case, RL(1) = R(3) + L(1)
 
 
@@ -987,3 +987,52 @@ T1 and T4 have no 'issues' so they remain in the same place.
 T2 is rotating from the left, so it becomes the right node of the child.
 T3 is rotating from the right, so it becomes the left node of the child.
 
+
+In summary, AVL trees:
+- Are always balanced because of rotations
+- An AVL tree with $n$ nodes has depth $\Theta(log n)$
+- All 3 operations are $\Theta(log n)$
+
+Computing height:
+- $L = max(h_{C_L}, h_{C_R}) + 1$
+
+### Deletions
+
+- ***Case 1:*** Node is a leaf. Simply remove the node.
+- ***Case 2:*** Node has 1 child. Replace node with child
+- ***Case 3:*** Node has 2 children. Swap node with immediate successor (or predecessor). Then delete the node. triggering Case 1 or 2.
+	- Immediate successor is given by going to the *right* subtree, and going to the *leftmost* node
+	- Immediate predecessor is given by going to the *left* subtree, and going to the *rightmost* node
+
+
+
+### Deletions in an AVL-Tree:
+Same as a BST, but with 2 extra steps:
+- Update heights starting from deleted node and upwards.
+- Rotate at each node when required
+
+
+### Representation Changes:
+Goal: Keeping the tree balanced, but instead of relying on rotations, we will allow multiple elements per node and multiple children per node
+
+
+#### 2-3 Trees:
+Contains 2-nodes and 3-nodes:
+- A 2-node contains 1 element and at most 2 children (unless it is a leaf)
+- A 3-node contains 2 elements and 3 children (unless it is a leaf)
+Easy way to keep the tree balanced.
+
+Can be extended to 2-3-4 trees, B trees, etc.
+
+![[2-3-Tree.png]]
+
+***2-3 Tree Operations:***
+Insertion:
+- As in a BST, assume that we are searching for `k`
+- If the leaf node is a 2-node, insert `k`, becoming a 3-node
+- Otherwise, momentarily form a node with 3 elements:
+	- In sorted order, call them `k1`, `k2`, `k3`
+	- Split the node, and promote `k2` to be the *parent* of both `k1` and `k3` individually.
+![[Building-2-3-Tree.png]]
+
+Deletions in 2-3 Trees are quite complex.
