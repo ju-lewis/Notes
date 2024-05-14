@@ -1468,11 +1468,78 @@ import org.junit.Test;
 ```
 
 `assert` a true or false statement indicates the success or failure of a test case.
-`TestCase` is a class dedicated to testing a single unit. Naming convention is to use append `Test` to the tested classes' name (e.g. `BoardTest`)
+`TestCase` is a *class* dedicated to testing a single unit. Naming convention is to use append `Test` to the tested classes' name (e.g. `BoardTest`)
 
 
 `assertArrayEquals(expected, actual)`
 `assertTrue(condition)`
 `assertFalse(condition)`
 `assertEquals(expected, actual)`
+`assertNotEquals(expected, actual)`
+
+The overriding of the assertion methods works like this:
+- 2 parameters: `expected, actual`
+- 3 parameters: `expected, actual, delta`
+	- Delta is the maximum non-negative difference (margin of error)
+
+# Week 11
+
+#### JUnit Tags
+`@Test`: Marks a method as a test
+`@BeforeEach`: Marks a method to be executed before each test method in the class
+`@AfterEach`: Marks a method to be executed after each test method in the class
+`@BeforeAll`: Runs once before all tests in the classes
+`@AfterAll`: Runs once after all of the tests
+
 ``
+Unit test Example:
+```java
+public class BoardTest {
+	private Board board;
+	@BeforeEach
+	public void setup() {
+		board = new Board();
+	}
+	
+	@Test
+	public void testBoard() {
+		//Board board = new Board();
+		Move move = new Move(0,0);
+		assertEquals(board.cellIsEmpty(move), true);
+	}
+	@Test
+	public void testValidMove() {
+		//Board board = new Board();
+		Move move = new Move(0,0);
+		assertEquals(board.isValidMove(move), true);
+	}
+	@Test
+	public void testMakeMove() {
+		//Board board = new Board();
+		Player player = new humanPlayer();
+		Move move = new Move(0,0);
+		board.makeMove(player, move);
+		assertEquals(board.getBoard()[move.row][move.col], "R");
+	}
+}
+```
+
+
+Remember to test all edge cases / circumstances, for example when testing if a move is valid, check if it's out of bounds on all 4 board sides.
+
+
+#### Expected Knowledge:
+- Documentation
+- Software Design
+	- Keyword, definitions, general principles
+- Software Testing
+	- Keywords, implementing JUnit5 unit tests
+
+#### JUnit Advantages
+- Easy to set up
+- Scalable
+- Repeatable
+- Not human intensive
+- Incredibly powerful
+- Finds bugs
+
