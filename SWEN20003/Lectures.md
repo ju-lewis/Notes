@@ -1543,3 +1543,24 @@ Remember to test all edge cases / circumstances, for example when testing if a m
 - Incredibly powerful
 - Finds bugs
 
+## Event Driven Programming
+
+**Sequential Programming**: A program that is run (more or less) top to bottom
+**Event-Driven Programming**: Using *events* and *callbacks* to control the flow of a program's execution based on changes to the program state.
+**State**: The properties defining an object
+**Event**: Created when the state of something is altered
+**Callback/Listener**: A method triggered by an event
+
+Event-driven programming is fundamentally asynchronous
+
+
+An event is *fired*
+An *event handler* is a method in the *listener* that specifies what will happen when the event occurs.
+
+The program no longer determines the order in which things can happen, instead - the events determine the order.
+
+### JavaFX
+
+### Software Development Frameworks
+- Normally consists of a set of abstract classes and interfaces
+- The partially complete classes can be customized to meet application needs
