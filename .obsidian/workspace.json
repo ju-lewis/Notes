@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SWEN20003/Lectures.md",
-                "mode": "source",
+                "file": "CRIM20007/Final Essay.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SWEN20003/Lectures.md",
+                "file": "CRIM20007/Final Essay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SWEN20003/Lectures.md",
+                "file": "CRIM20007/Final Essay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SWEN20003/Lectures.md"
+                "file": "CRIM20007/Final Essay.md"
               }
             }
           }
@@ -148,13 +148,14 @@
   },
   "active": "89440dfd499b6655",
   "lastOpenFiles": [
-    "CRIM20007/Final Essay.md",
+    "CRIM20007/Lectures.md",
     "SWEN20003/Lectures.md",
+    "CRIM20007/Final Essay.md",
     "COMP20007/Lectures.md",
+    "CRIM20007/Assignments.md",
     "COMP20007/Building-2-3-Tree.png",
     "COMP20007/2-3-Tree.png",
     "SWEN20003/Assignments.md",
-    "CRIM20007/Lectures.md",
     "COMP20007/General Double Rotation.png",
     "COMP20007/RL-Rotation.png",
     "COMP20007/LR-Rotation.png",
@@ -165,7 +166,6 @@
     "SWEN20003/MST.md",
     "Pasted image 20240501170904.png",
     "SWEN20003/Strategy-Pattern.png",
-    "CRIM20007/Assignments.md",
     "CRIM20007/Workshops.md",
     "CRIM20007/Required Readings.md",
     "CRIM20007/Subject Overview.md",
