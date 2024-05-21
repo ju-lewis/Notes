@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CRIM20007/Final Essay.md",
-                "mode": "preview",
+                "file": "COMP20007/Lectures.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CRIM20007/Final Essay.md",
+                "file": "COMP20007/Lectures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CRIM20007/Final Essay.md",
+                "file": "COMP20007/Lectures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CRIM20007/Final Essay.md"
+                "file": "COMP20007/Lectures.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "89440dfd499b6655",
   "lastOpenFiles": [
+    "COMP20007/Exams.md",
     "CRIM20007/Lectures.md",
-    "SWEN20003/Lectures.md",
     "CRIM20007/Final Essay.md",
+    "SWEN20003/Lectures.md",
     "COMP20007/Lectures.md",
     "CRIM20007/Assignments.md",
     "COMP20007/Building-2-3-Tree.png",
@@ -160,7 +161,6 @@
     "COMP20007/RL-Rotation.png",
     "COMP20007/LR-Rotation.png",
     "COMP20007/Bottom-Up-Heapsort.png",
-    "COMP20007/Exams.md",
     "SWEN20003/Java-Observer.png",
     "SWEN20003/Observer-Pattern.png",
     "SWEN20003/MST.md",

@@ -923,7 +923,7 @@ function RadixSort(A[0..n-1], k)
 ```
 
 Where `AuxSort` is an auxiliary sorting algorithm (typically counting sort, but can be any *stable* algorithm)
-
+# Week 10
 ## Binary Search Trees
 
 Binary search trees are an abstract data structure for storing (key, value) pairs
@@ -949,11 +949,11 @@ Smaller keys are on the left, larger keys are on the right
 
 The worst case is when the binary search tree degenerates into a 'stick', this happens when the values are strictly increasing or strictly decreasing 
 
+
 ### Avoiding BST Degeneracy
 
 - Self-balancing Trees
 - Changing the Representation
-
 #### AVL Trees (Adelson-Velsky and Landis):
 Each node in the BST has a *balance factor* (the difference in height between the left and right subtrees)
 
@@ -1036,3 +1036,80 @@ Insertion:
 ![[Building-2-3-Tree.png]]
 
 Deletions in 2-3 Trees are quite complex.
+
+# Week 11
+## Hashing
+
+Let $m$ = number of buckets
+$k$ is a key
+$h(k) \in [0,n-1]$
+
+An incredibly simple hash function could be:
+$h(k) = k \ mod \ m$
+
+However, this can lead to many *collisions*
+
+
+### Hash Tables - Overview
+- Continuous data structure with $m$ pre-allocated entries.
+- Average case performance for all operations is $\Theta(1)$
+
+Collisions happen when 2 keys have the same hash
+Practical efficiency depends on the table *load factor* $\alpha = n/m$
+- $n$ is the number of keys
+- $m$ is the size of the table
+
+### Collision Resolution
+
+#### Separate Chaining
+Within each bucket, we have a linked list that contains all of the elements
+- Assuming even distribution of the $n$ keys
+- A successful search requires $1+\alpha/2$ operations on average
+- An unsuccessful search requires $\alpha$ operations on average.
+- Almost the same numbers for Insert and Delete
+- Worst case $\Theta(n)$
+
+
+#### Linear Probing
+When a collision occurs, we iterate through the following buckets to find an unoccupied bucket. 
+- Much harder analysis, simplified results:
+- A successful search requires $\frac{1}{2}\times(1+\frac{1}{1-\alpha})$
+- An unsuccessful search requires $\frac{1}{2}\times(1+\frac{1}{{1-\alpha}^2})$
+
+Leads to undesirable cluster formation
+
+We can't actually delete / free memory with linear probing, we simply have to add a flag that indicates we can overwrite a bucket.
+
+#### Double Hashing
+- A generalisation of Linear Probing
+- Apply a second hash function in case of collision
+	- First try: $h(k)$
+	- Second try: $(h(k)+s(k)) \ mod \ m$
+	- Third try: $(h(k)+2s(k)) \ mod \ m$
+Double hashing and linear probing are *open addressing* methods.
+
+#### Rehashing
+- High load factors deteriorate the performance of a hash table
+- Rehashing allocates a new table (usually around double the size) and move every item from the previous table to the new one
+- Very expensive, but very infrequent
+
+
+### Hashing Integers
+- For large/unbounded integers, $mod$ is a standard hash function.
+	- Small $m$ results in lots of collisions, large $m$ takes excess memory.
+- Prime values of $m$ are usually best
+
+
+### Hashing Strings
+- Take binary representation of each character
+- Concatenate binary numbers all together
+- Treat resulting binary number as an integer
+- Take the modulus 
+
+To compute this we can just take the character's alphabet index (e.g. c = 2) and multiply by $32^p$ where $p$ is the 'position' of the character, first digit => $p$ = $len$
+
+### Horner's Rule
+We can apply the hash function (i.e. modulus) as we add the integers together, avoiding overflow
+
+
+# Week 12
