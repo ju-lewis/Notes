@@ -1111,8 +1111,65 @@ To compute this we can just take the character's alphabet index (e.g. c = 2) and
 ### Horner's Rule
 We can apply the hash function (i.e. modulus) as we add the integers together, avoiding overflow
 
+## Data Compression
+
+How do we handle cases when the records themselves are too big to fit exclusively in memory?
+
+### Fixed-length Encoding
+Directly translating data to a fixed-size binary representation (e.g. ASCII)
+Not compression, just representation
+
+### Run-length Encoding
+Use a number to represent repeated values
+
+Trivial Example (at a character level):
+BAGGED -> BA2GED
+
+
+Run length encoding performs well in circumstances when there is a limited alphabet and many repeated characters (e.g. DNA sequencing).
+
+### Variable-length Encoding
+**Key principle**: some symbols appear more frequently than others.
+Instead of a fixed number of bits per symbol, us a variable number:
+- More frequent symbols use less bits
+- Less frequent symbols use more bits
+  
+Note: No symbol code can be a prefix of another symbol's code.
+
+#### Encoding
+- Codes can be stored in a *dictionary* (a hash table is likely optimal)
+- Once we have the codes, encoding is straightforward
+	- Simply concatenate the codewords from the dictionary that correspond to the characters in a string
+#### Decoding
+- To decode we can use another dictionary where keys are codes and values are symbols
+- Start from the first digit, look in the dictionary. If not present, concatenate the next digit and repeat until code is valid
+
+This 'trial and error' approach results in many unsuccessful searches - generally quite inefficient.
+
+**Tries**:
+- Works when keys can be *decomposed*
+- We can simultaneously iterate through the encoded string and search through the trie
+
+In the case of representing a binary sequence as a trie, let all left node transitions have a value of `0` and all right node transitions have a value of `1`.
+
+### Huffman Encoding
+**Goal**: Obtain the optimal encoding given symbol frequencies. (Optimal being shortest encoding)
+
+- Treat each symbol as a *leaf* and build a binary tree bottom-up
+- Two nodes are *fused* if they have the *smallest* frequency.
+	- Fusing means creating a parent node with the sum of the frequencies of fused nodes
+- The resulting tree is a *Huffman Tree*
+
+#### Building a Huffman Tree
+- Start with leaf nodes (values are the characters, priorities are the occurrences)
+- Begin fusing elements (combine 2 smallest, create parent node)
+
+
+### Summary:
+- Most data we store has redundancy
 
 # Week 12
+
 
 ## Complexity Theory
 

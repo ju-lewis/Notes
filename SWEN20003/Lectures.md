@@ -1564,3 +1564,115 @@ The program no longer determines the order in which things can happen, instead -
 ### Software Development Frameworks
 - Normally consists of a set of abstract classes and interfaces
 - The partially complete classes can be customized to meet application needs
+
+# Week 12
+
+## Advanced  Java and OOP Concepts
+
+### Enumerated Types
+`enums` are collections of constants (all public static)
+
+We can combine `enums` to apply restrictions:
+
+```java
+public enum Suit {
+	SPADES(Colour.BLACK),
+	CLUBS(Colour.BLACK),
+	DIAMONDS(Colour.RED),
+	HEARTS(Colour.RED);
+	
+	private Colour colour;
+	
+	private Suit(Colour colour) {
+		this.colour colour;
+	}
+}
+```
+In this case, `Suit` is now tied to `Colour`
+
+Default sorting behaviour is the order they're defined in the enum
+
+### Variadic Parameters
+
+Variadic parameters are implicitly converted into an array (treat them as such)
+
+```java
+public String concatenate(String... strings) {
+	String s = "";
+	for(String str : strings) {
+		s += str;
+	}
+	
+	return s;
+}
+```
+
+
+### Functional Interfaces and Lambda Expressions
+
+A functional interface contains only a single abstract method; also called a Single Abstract Method Interface
+
+```java
+@FunctionalInterface
+public interface Attackable {
+	public void attack();
+}
+```
+
+Functional interfaces define a clear contract with a single abstract method.
+
+1. Callback mechanism
+2. Strategy patterns: implement various strategies that can be easily swapped
+3. Stream API: Utilize functional interfaces like 'Predicate', 'Function', and 'Consumer' to manipulate collections
+
+
+
+#### Example:
+```java
+public interface Predicate<T>
+```
+The `Predicate` functional interface represents a predicate - a function that accepts one argument and returns `true` or `false`.
+- Executes the `boolean Test(T t)` method on a single object
+- Can be combined with other predicates using the `and`, `or`, and `negate` methods
+
+```java
+public interface UnaryOperator<T>
+```
+The `UnaryOperator` functional interface:
+- Represents a function that takes one argument and returns an object of the same type
+- Executes the `T apply(T t)` method on a single object
+
+#### Lambda Functions:
+A `Lambda Expression` is a technique that treats code as *data* that can be used as an "object" (instantiating an interface without implementing it)
+
+```java
+Predicate<Integer> p = i -> i>0;
+```
+
+
+Unary Operator Example:
+```java
+import java.util.function.UnaryOperator;
+
+public class UnaryOperatorDemo {
+	public static void main(String[] args) {
+		UnaryOperator<Integer> u1 = i -> i + 1;
+		UnaryOperator<Integer> u2 = i -> i - 1;
+		
+		System.out.println(u1.apply(Integer(10)));
+		System.out.println(u2.apply(Integer(10)));
+	}
+}
+```
+
+
+Consider the method in the `List<T>` class:
+```java
+public abstract class List<T> {
+	public void replaceAll(UnaryOperator<T> operator);
+}
+```
+
+### Method References
+
+### Java Streams
