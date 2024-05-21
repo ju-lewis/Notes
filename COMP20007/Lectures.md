@@ -1113,3 +1113,14 @@ We can apply the hash function (i.e. modulus) as we add the integers together, a
 
 
 # Week 12
+
+## Complexity Theory
+
+### The P=NP Problem
+
+Can all problems whose solutions can be *verified* quickly (polynomial time) also have solutions *computed* in polynomial time?
+
+**NP**: Nondeterministic polynomial time (quick verification)
+**P**:    Polynomial time (quick computation)
+
+
