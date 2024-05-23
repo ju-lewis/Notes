@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SWEN20003/Lectures.md",
+                "file": "CRIM20007/Final Essay.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SWEN20003/Lectures.md",
+                "file": "CRIM20007/Final Essay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SWEN20003/Lectures.md",
+                "file": "CRIM20007/Final Essay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SWEN20003/Lectures.md"
+                "file": "CRIM20007/Final Essay.md"
               }
             }
           }
@@ -148,11 +148,11 @@
   },
   "active": "89440dfd499b6655",
   "lastOpenFiles": [
+    "CRIM20007/Lectures.md",
+    "SWEN20003/Lectures.md",
     "COMP20007/Lectures.md",
     "COMP20007/Exams.md",
-    "CRIM20007/Lectures.md",
     "CRIM20007/Final Essay.md",
-    "SWEN20003/Lectures.md",
     "CRIM20007/Assignments.md",
     "COMP20007/Building-2-3-Tree.png",
     "COMP20007/2-3-Tree.png",

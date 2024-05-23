@@ -4,17 +4,28 @@
 
 
 # Topic:
-***Technology provides new ways of facilitating harm and justice. Critically examine this statement in relation to hacking and digilantism.***
+***Question 3***
+“...We’re trying to empty an **Olympic-sized swimming pool** with **a sponge**. That is what it is like. (Interviewee, Case Study A)” (Harkin et al, 2018: 523). Critically examine the role of cyberpolicing as a response to cybercrime and digital harm.
+
+
+
 # Plan:
-*Main statement:*
-While technology does provide new ways of facilitating harm and justice as society becomes evermore interconnected, its impact on the perpetration of harm is far more significant than the provision of a new medium by which existing forms of harm and justice can be enacted. A consideration of actor-network theory suggests that the very existence of some technologies - regardless of their perceived neutrality - influences actors (people) to such a degree that it instigates entirely new forms of harm.
 
-An illustration 
+### Comparing cyber-crime to a swimming pool is implying it has defined boundaries, is transparent, and can eventually be emptied.
+Has boundaries:
+- There is a finite, definite amount  (no ambiguity)
+Transparency:
+- We can see how deep it is, and can claim that it's uniform in nature
+Eventually be emptied:
+- Using the sponge *will* work, it's a matter of time and funding (better tools = faster draining).
 
-## Introduction:
-- Discuss shift in perception and understanding of criminology in relation to the use of technology
-- Denounce 'old wine in new bottles' theory
-- Introduce technology-dependent crimes (that can only exist with technology)
-- Introduce hacking and briefly describe what is it and what some common goals of hackers are
-## Paragraph 1 (*Introduction to Hacking*):
-## Paragraph 2 (*Case Study Examples*):
+Case study:
+- Hackers don't necessarily act with rationalism
+
+
+### The 'sponge' analogy carries the assumption that regular policing can be adapted to the world of cyber-crime.
+
+Further assumptions made:
+- The tool (sponge) is definitely suited for the job, and 100% effective
+- We can displace the crime/criminals to *somewhere else*
+- 
