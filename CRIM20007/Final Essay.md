@@ -8,7 +8,6 @@
 “...We’re trying to empty an **Olympic-sized swimming pool** with **a sponge**. That is what it is like. (Interviewee, Case Study A)” (Harkin et al, 2018: 523). Critically examine the role of cyberpolicing as a response to cybercrime and digital harm.
 
 
-
 # Plan:
 
 ### Comparing cyber-crime to a swimming pool is implying it has defined boundaries, is transparent, and can eventually be emptied.
