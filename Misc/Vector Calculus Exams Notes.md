@@ -6,13 +6,13 @@
 ## Differential Forms
 
 ### Path Differential Form
-$dS = | \ \vec{c} \ '(t) \ | \ dt$
+$ds = | \ \vec{c} \ '(t) \ | \ dt$
 
 ### Surface Area
 $dS = |det(T_u \times T_v)| \ du \ dv$
 
 ### Vector Differential Form
-$d\vec{S} = \hat{n} \cdot dS$
+
 
 #### For a surface in $\rm {I\!R}^3$:
 $$\hat{n} = \frac{T_u\times T_v}{||T_u\times T_v||}$$
@@ -38,7 +38,7 @@ $$\int_{c}{\vec{F}} \cdot d \vec{S} = \int_{a}^{b} \vec{F} \cdot \vec{c} \ '(t) 
 
 
 ## Integral Theorems
-### ${\rm I\!R}^2$
+### ${\mathbb{R}}^2$
 $$Let \ \ \vec{F}=(P(x,y), \ Q(x,y))$$
 **Green's Theorem**
 	Cartesian Form:
@@ -47,9 +47,8 @@ $$\int_{\partial D}{ P \ dx + Q \ dy} = \iint_{D}{\frac{\partial Q}{\partial x} 
 $$\int_{\partial D}\vec{F} \cdot d \vec{S} = \iint_{D}{(\nabla \times\vec{F})} \cdot d \vec{S}$$
 **Divergence Theorem:**
 
-$$\int_{\partial D}{\vec{F}} \cdot d\vec{S} = \iint_{D}{\nabla \cdot \vec{F}} \ dS$$
-
-### ${\rm I\!R}^3$
+$$\int_{\partial D}{\vec{F}} \cdot \hat{n} \  d{S} = \iint_{D}{\nabla \cdot \vec{F}} \ dS$$
+### ${\mathbb{R}}^3$
 **Stokes' Theorem**
 $$\int_{\partial S}\vec{F} \cdot d \vec{S} = \iint_{S}{(\nabla \times\vec{F})} \cdot d \vec{S}$$
 
