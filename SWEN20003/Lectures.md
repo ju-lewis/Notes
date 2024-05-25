@@ -1675,4 +1675,73 @@ public abstract class List<T> {
 
 ### Method References
 
+A *method reference* is an object that stores a *method*; can take the place of a lambda expression **IF** that lambda expression is only used to call a single method
+
+```java
+UnaryOperator<String> u3 = String::toUpperCase;
+```
+
+#### Examples:
+```java
+/* ---------- STATIC METHODS -------------- */
+Class::staticMethod
+Person::printWarning
+
+/* ---------- INSTANCE METHODS -------------- */
+Class::instanceMethod || object::instanceMethod
+String::startsWith || person::toString
+
+/* ---------- CONSTRUCTOR -------------- */
+Class::new
+String::new
+
+```
+
+```java
+public class MethodReferenceDemo {
+	public static void main(String[] args) {
+		List<Integer> l = Arrays.asList(12,4,5,8,1,56,4);
+		Predicate<Integer< p = i -> Number.isOdd(i);
+		
+		// Comparing lambda function predicate vs method reference
+		System.out.println(findNumbers(l, p));
+		System.out.println(findNumber(l, Number::isOdd));
+	}
+	
+	public static List<Integer> findNumbers(List<Integer> list, 
+		Predicate<Integer> p) {
+		
+		List<Integer> l = new ArrayList<>();
+		for(Integer i : list) {
+			if(p.test(i)) {
+				l.add(i);
+			}
+		}
+		return l;
+	}
+}
+```
+
+
 ### Java Streams
+
+A stream is an Iterable sequence of data.
+
+#### Example:
+```java
+list = list.stream()
+			.filter(s -> s.length() > 5)
+			.filter(s -> s.startsWith("C"))
+			.map(String::toUpperCase)
+			.collect(Collectors.toList());
+```
+
+#### Standard Stream Operations
+`map` - converts an input to an output (applies a function to all elements)
+`filter` - selects all elements that match a predicate
+`limit` - perform a maximum number of iterations
+`collect` - collects all stream elements into a collection
+`reduce`  - Aggregate a stream into a single value
+
+
+# Subject Review

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Vector Calculus Exams Notes.md",
+                "file": "SWEN20003/Final Exam.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Vector Calculus Exams Notes.md",
+                "file": "SWEN20003/Final Exam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Vector Calculus Exams Notes.md",
+                "file": "SWEN20003/Final Exam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Vector Calculus Exams Notes.md"
+                "file": "SWEN20003/Final Exam.md"
               }
             }
           }
@@ -148,18 +148,20 @@
   },
   "active": "89440dfd499b6655",
   "lastOpenFiles": [
-    "Untitled.md",
+    "SWEN20003/Assignments.md",
+    "COMP20007/Subject Overview.md",
+    "COMP20007/Lectures.md",
     "Misc/Vector Calculus Exams Notes.md",
+    "SWEN20003/Lectures.md",
+    "SWEN20003/Final Exam.md",
+    "Untitled.md",
     "Misc",
     "CRIM20007/Final Essay.md",
     "CRIM20007/Lectures.md",
-    "SWEN20003/Lectures.md",
-    "COMP20007/Lectures.md",
     "COMP20007/Exams.md",
     "CRIM20007/Assignments.md",
     "COMP20007/Building-2-3-Tree.png",
     "COMP20007/2-3-Tree.png",
-    "SWEN20003/Assignments.md",
     "COMP20007/General Double Rotation.png",
     "COMP20007/RL-Rotation.png",
     "COMP20007/LR-Rotation.png",
@@ -172,7 +174,6 @@
     "CRIM20007/Workshops.md",
     "CRIM20007/Required Readings.md",
     "CRIM20007/Subject Overview.md",
-    "COMP20007/Subject Overview.md",
     "COMP20007",
     "SWEN20003/Subject Overview.md",
     "CRIM20007",
