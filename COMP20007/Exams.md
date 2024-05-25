@@ -41,10 +41,12 @@ Remember that all logarithms can be written as a constant multiple of any other 
 ### Lecture 6
 
 
-
-
-
-
-
-
 # Final Exam
+
+## Topics I know I need to revise:
+1. Graph traversal (Prim's, Dijkstra's, Warshall/Floyd)
+2. Dynamic programming
+	1. Knapsack
+	2. Travelling salesman
+	3. *Interpreting general problems*
+3. 

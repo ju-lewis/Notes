@@ -12,6 +12,9 @@ For an *open* domain (bounded):
 2. Find solutions for $\nabla f = \vec 0$ within $D$
 3. Compute Hessian determinant: $H(x,y) = (f_{xx})(f_{yy}) - (f_{xy})^2$
 4. Classify nature of the extrema based on the Hessian determinant
+	1. $H(x_0, y_0) > 0 \implies (x_0, y_0, z_0) \text{ is a minimum}$
+	2. $H(x_0, y_0) < 0 \implies (x_0, y_0, z_0) \text{ is a maximum}$
+	3. $H(x_0, y_0) = 0 \implies \text{the test is inconclusive}$
 
 For the *boundary of a closed domain*:
 1. Determine the boundary function: $g(x,y) = \partial D$
