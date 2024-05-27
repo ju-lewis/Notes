@@ -11,14 +11,14 @@ What is an algorithm?
 #### Recursive Processing:
 - Binary search (bounds are reduced by 1 on each update step: lo = mid + 1 OR hi = mid - 1)
 #### Fundamental Data Structures:
-- Stack (FIFO)
+- Stack (LIFO)
 	- **Operations**
 	- CreateStack
 	- Push
 	- Pop
 	- Top (Peek)
 	- EmptyStack
-- Queue (LIFO)
+- Queue (FIFO)
 ### Lecture 3
 #### Establishing Growth Rate:
 - Big O (any function in this set grows faster ) WORST CASE
@@ -45,8 +45,45 @@ Remember that all logarithms can be written as a constant multiple of any other 
 
 ## Topics I know I need to revise:
 1. Graph traversal (Prim's, Dijkstra's, Warshall/Floyd)
+	1. DFS, BFS!
 2. Dynamic programming
 	1. Knapsack
 	2. Travelling salesman
 	3. *Interpreting general problems*
-3. 
+3. Using Reimann Sums
+4. String Search
+	1. Revise Horspool
+5. Sorting
+	1. Lomuto partitioning, Hoare partitioning
+
+
+## Examinable Content:
+- Algorithm Design (Pseudocode)
+- Data Structures
+	- Advantages, disadvantages (time complexities)
+- Asymptotic Notation
+	- $O, \Omega, \Theta$
+- Recurrence Equations
+	- Telescoping
+	- Master Theorem
+- Divide-and-Conquer
+- Graph Concepts and Graph Algorithms (Prim, Dijkstra)
+	- Adjacency Matrix (Good for dense graphs $|E|\in O(|V|^2)$)
+	- Adjacency List (Good for sparse graphs $|E|\in O(|V|)$)
+- DFS, BFS, Tree Traversals, Topological Sorting
+- String Search
+	- Naive, Horspool
+- Dynamic Programming
+- Sorting
+	- Comparison:
+	- Distribution:
+- Binary Search Trees:
+	- Self-balancing trees
+	- 2-3 Trees
+- Hashing and Hash Tables
+	- Separate Chaining
+	- Linear probing (open addressing)
+- Compression
+	- Fixed length encoding
+	- Run length encoding
+	- Huffman compression (variable length encoding)
