@@ -27,4 +27,13 @@ Case study:
 Further assumptions made:
 - The tool (sponge) is definitely suited for the job, and 100% effective
 - We can displace the crime/criminals to *somewhere else*
-- 
+
+
+
+## Discussion Checklist
+- [x] Intro stating position that the analogy is inaccurate, and reveals the inability of cyberpolicing to have a significant impact on the degree of cybercrime committed
+- [x] Mention the rapidly increasing amount of cybercrime occurring (despite increasing resource being dedicated to policing)
+- [x] Discuss the lack of new understanding of cybercrime leading to inadequate policing outcomes
+**Case study time!!**:
+- [ ] Explain that the traditional method of reporting on crime no longer functions properly (thus the idea that the 'water' is transparent falls completely flat)
+- [ ] Talk about the CJS assumption that actors behave rationally, which is evidently not true in the case of cybercrime (it should be incredibly easy to find hacking-related case studies that back this up)

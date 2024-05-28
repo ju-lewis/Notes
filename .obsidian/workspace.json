@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SWEN20003/Final Exam.md",
+                "file": "CRIM20007/Final Essay.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "810f95506c44441e",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SWEN20003/Final Exam.md",
+                "file": "CRIM20007/Final Essay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SWEN20003/Final Exam.md",
+                "file": "CRIM20007/Final Essay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SWEN20003/Final Exam.md"
+                "file": "CRIM20007/Final Essay.md"
               }
             }
           }
@@ -146,15 +147,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89440dfd499b6655",
+  "active": "2dc6831b1d2a9c63",
   "lastOpenFiles": [
-    "SWEN20003/Lectures.md",
-    "SWEN20003/Final Exam.md",
+    "CRIM20007/Lectures.md",
     "CRIM20007/Final Essay.md",
+    "SWEN20003/Final Exam.md",
+    "SWEN20003/Lectures.md",
     "COMP20007/Exams.md",
     "COMP20007/Lectures.md",
     "COMP20007/Subject Overview.md",
-    "CRIM20007/Lectures.md",
     "SWEN20003/Assignments.md",
     "Misc/Vector Calculus Exams Notes.md",
     "Untitled.md",
