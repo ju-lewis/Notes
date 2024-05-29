@@ -44,17 +44,30 @@ Remember that all logarithms can be written as a constant multiple of any other 
 # Final Exam
 
 ## Topics I know I need to revise:
-1. Graph traversal (Prim's, Dijkstra's, Warshall/Floyd)
-	1. DFS, BFS!
-2. Dynamic programming
-	1. Knapsack
-	2. Travelling salesman
-	3. *Interpreting general problems*
-3. Using Reimann Sums
-4. String Search
-	1. Revise Horspool
-5. Sorting
-	1. Lomuto partitioning, Hoare partitioning
+### Recurrence Relations
+1. Computing closed form computational complexity for any given recursive problem
+### Graph traversal (Prim's, Dijkstra's)
+1. Pseudocodes
+2. Different types of DFS and BFS for DAG/Tree structures
+	1. DFS: Pre-order, In-order, post-order (works with recursion because of implicit stack)
+	2. BFS: Level order
+3. Topological sorting!!
+
+###  Dynamic programming
+1. Knapsack
+2. Travelling salesman
+3. *Interpreting general problems*
+	1. Think about the sub-problems being solved, e.g. for a decision problem - should we choose the $n_{th}$ item?
+		1. **REMEMBER THAT THE RECURSIVE CASES ARE BUILT UP FROM THE BASE CASES, NOT THE OTHER WAY AROUND**
+	2. Find the base case(s)
+	3. Find the recursive case
+4. Warshall / Floyd
+	1. Remember infinity for unknown
+### String Search
+1. Revise Horspool
+### Sorting
+1. Lomuto partitioning, Hoare partitioning
+2. Different heap-sort approaches
 
 
 ## Examinable Content:
