@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP20007/Exams.md",
+                "file": "CRIM20007/Final Essay.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP20007/Exams.md",
+                "file": "CRIM20007/Final Essay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMP20007/Exams.md",
+                "file": "CRIM20007/Final Essay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMP20007/Exams.md"
+                "file": "CRIM20007/Final Essay.md"
               }
             }
           }
@@ -148,11 +148,11 @@
   },
   "active": "2dc6831b1d2a9c63",
   "lastOpenFiles": [
+    "COMP20007/Exams.md",
     "CRIM20007/Final Essay.md",
     "CRIM20007/Lectures.md",
     "SWEN20003/Final Exam.md",
     "SWEN20003/Lectures.md",
-    "COMP20007/Exams.md",
     "COMP20007/Lectures.md",
     "COMP20007/Subject Overview.md",
     "SWEN20003/Assignments.md",

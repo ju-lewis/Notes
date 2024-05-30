@@ -29,6 +29,11 @@ Further assumptions made:
 - We can displace the crime/criminals to *somewhere else*
 
 
+Unused (to be added soon) references:
+https://www.aic.gov.au/sites/default/files/2020-05/rpp080.pdf
+
+https://www.sciencedirect.com/science/article/abs/pii/S0747563221002661
+
 
 ## Discussion Checklist
 - [x] Intro stating position that the analogy is inaccurate, and reveals the inability of cyberpolicing to have a significant impact on the degree of cybercrime committed
