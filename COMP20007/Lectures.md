@@ -814,10 +814,16 @@ Process:
 - If the current element is smaller than the partition `p`: increment `s` and swap elements at `s` and `i`
 - After iteration, swap elements at `l` and `s` and return
 
+Variables:
+`p`: partition value
+`s`: the last index of elements *smaller* than `p`
+`i`: the index we're currently checking
+
+Simply: Partition is first element, scan through array, only increment swap pointer before we perform a swap
 
 Hoare Partitioning
 
-Hoare Partitioning is a 2-pointer approach, where pointers `i` and `j` increment inwards from the left and right bounds respectively, until they both reach an element that should be 'on the other side' of the array, where they swap and continue incrementing until they reach each other. 2 final swaps are done after they meet.
+Hoare Partitioning is a 2-pointer approach, where pointers `i` and `j` increment inwards from the left and right bounds respectively, until they both reach an element that should be 'on the other side' of the partition, where they swap and continue incrementing until they meet an out of place element again. This is continued until they meet. They swap again after meeting, then the partition (leftmost element) is swapped with the 'small' bound
 
 ```
 function HoarePartition(A[l..r])
@@ -832,6 +838,8 @@ function HoarePartition(A[l..r])
 	Swap(A[l], A[j])
 	return j
 ```
+
+Simply: Left and right pointers move in until the reach out of place elements, they then swap and continue iterating. This repeats until they meet. They swap again, then the first element (partition val) is swapped with the upper bound (r) pointer.
 
 #### Complexity
 

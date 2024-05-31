@@ -51,7 +51,7 @@ Remember that all logarithms can be written as a constant multiple of any other 
 2. Different types of DFS and BFS for DAG/Tree structures
 	1. DFS: Pre-order, In-order, post-order (works with recursion because of implicit stack)
 	2. BFS: Level order
-3. Topological sorting!!
+3. Topological sorting
 
 ###  Dynamic programming
 1. Knapsack
