@@ -870,10 +870,12 @@ A tree with the following properties:
 
 $O(nlog(n))$ heapify cost
 
-### Bottom-Up HeapsortG
+### Bottom-Up Heapsort
 - Start with the last parent node
 - Get the largest child node 
 - Check if the largest child is greater than the parent node
+
+#### Recursive implementation:
 ```c
 void sift_down(int *A, int i, int len) {
 	int largest_child_idx = i*2+1;
@@ -897,10 +899,11 @@ for(int i=len/2; i>=0; i--) {
 }
 ```
 
+#### Iterative Implementation:
+![[Bottom-Up-Heapsort.png]]
 $O(n)$ heapify cost
 
-![[Bottom-Up-Heapsort.png]]
-### Heapsort
+The iterative implementation iterates backwards starting from the 'lowest' parent element, finding the largest child element and swapping it its largest child is greater than itself. If no swap occurs, it marks that parent node as a valid heap and breaks out of the inner loop. If a swap *does* occur, traverse to the swapped child node and try to reform heap there. Continue traversing to children until valid heap is achieved.
 
 
 ## Distribution Sort
