@@ -1,5 +1,24 @@
-# Vector Fields
+# Topics that need revision:
+- Limits in $\mathbb{R}^3$ (Path finding strategies and sandwich theorem strategies, both for odd and even parities)
+- Rules for continuity and differentiability
+- Integration change of variables in $\mathbb{R}^2$
+- Include double angle formulae in note sheet!
+- Curvilinear coordinates! (Remember scale factors!! Unit vectors are normalised, so we need to multiply by the magnitude of the derivative)
+- Revise multi-integrals where the vector field isn't defined at some point within the domain
+- Conservative vector fields (only endpoints matter: $\phi(B) - \phi(A)$  )
+- Proving vector calculus identities
+- Gauss' Divergence Theorem requires a **closed solid** (we may need to add a 'base plate')
 
+# Multivariate Limits
+Showing a limit *doesn't* exist:
+- Find 2 approach paths that have different limits (or don't exist)
+	- The key for choosing the paths typically lies in how the terms are being linearly combined (e.g. addition of a cubic and quadratic)
+Showing a limit *does* exist:
+- For a very simple limit, we might just be able to rearrange
+- Otherwise use sandwich (squeeze) theorem
+
+
+# Vector Fields
 
 # Applications of Differentiation
 
@@ -35,6 +54,18 @@ $z=z$
 $x = r \ sin \theta \ cos \phi$
 $y = r \ sin \theta \ sin \phi$
 $z = r \ cos \theta$
+
+## Converting Vector Fields to Curvilinear Coordinates:
+1. Express the resultant vector in the curvilinear coordinates
+2. Express the resultant vector as a linear combination of the curvilinear basis vectors
+3. Solve simultaneously
+## Converting Paths/Vectors to Curvilinear Coordinates:
+1. Express the resultant vector in the curvilinear coordinates
+2. Compute velocity vector 
+3. Multiply by scale factors
+4. Integrate with respect to t
+
+
 # Differential Forms
 
 ### Path Differential Form

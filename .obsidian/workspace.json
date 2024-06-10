@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SWEN20003/Lectures.md",
+                "file": "Misc/Vector Calculus Exams Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SWEN20003/Lectures.md",
+                "file": "Misc/Vector Calculus Exams Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SWEN20003/Lectures.md",
+                "file": "Misc/Vector Calculus Exams Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SWEN20003/Lectures.md"
+                "file": "Misc/Vector Calculus Exams Notes.md"
               }
             }
           }
@@ -149,10 +149,10 @@
   "active": "89440dfd499b6655",
   "lastOpenFiles": [
     "CRIM20007/Final Essay.md",
-    "CRIM20007/Lectures.md",
     "COMP20007/Lectures.md",
-    "SWEN20003/Lectures.md",
     "COMP20007/Exams.md",
+    "SWEN20003/Lectures.md",
+    "CRIM20007/Lectures.md",
     "SWEN20003/Final Exam.md",
     "COMP20007/Subject Overview.md",
     "SWEN20003/Assignments.md",
