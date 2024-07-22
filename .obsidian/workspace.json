@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4a0364f582446a59",
+        "id": "ef5ec3a147844474",
         "type": "tabs",
         "children": [
           {
-            "id": "89440dfd499b6655",
+            "id": "1c2369310f680bde",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Vector Calculus Exams Notes.md",
+                "file": "Declarative Programming/Prolog/Datatypes in Prolog.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Vector Calculus Exams Notes.md",
+                "file": "Declarative Programming/Prolog/Datatypes in Prolog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Vector Calculus Exams Notes.md",
+                "file": "Declarative Programming/Prolog/Datatypes in Prolog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Vector Calculus Exams Notes.md"
+                "file": "Declarative Programming/Prolog/Datatypes in Prolog.md"
               }
             }
           }
@@ -146,8 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89440dfd499b6655",
+  "active": "1c2369310f680bde",
   "lastOpenFiles": [
+    "Declarative Programming/Prolog/Introduction to Logic Programming in Prolog.md",
+    "Declarative Programming/Prolog/Datatypes in Prolog.md",
+    "Declarative Programming/Declarative Programming Overview.md",
+    "Declarative Programming/Subject Overview.md",
+    "The.md",
+    "Misc/Vector Calculus Exams Notes.md",
+    "Declarative Programming/Haskell",
+    "Declarative Programming/Prolog",
+    "Elements of Data Processing",
+    "Declarative Programming",
     "CRIM20007/Final Essay.md",
     "COMP20007/Lectures.md",
     "COMP20007/Exams.md",
@@ -156,7 +166,6 @@
     "SWEN20003/Final Exam.md",
     "COMP20007/Subject Overview.md",
     "SWEN20003/Assignments.md",
-    "Misc/Vector Calculus Exams Notes.md",
     "Untitled.md",
     "Misc",
     "CRIM20007/Assignments.md",
