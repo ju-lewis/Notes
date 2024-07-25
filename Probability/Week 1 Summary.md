@@ -48,4 +48,11 @@ Hence when $A$, $B$ doesn't occur and when $A^c$, $B$ doesn't occur.
 Thus, $B$ is impossible.
 
 
+### Element-wise Proof
+We can prove a set identity by considering every element in one of the sides and showing that they're all present in the other side, hence the sets are equivalent.
+
+i.e.  $\text{Prove: } A = B$, can be done by showing that $\text{For all } \omega \in A, \ \omega \in B$ so $A=B$.
+Usually the easiest way to do this is starting with the 'most complicated' side, and expanding it before simplifying to the other side.
+
+## Definitions and Axioms of Probability
 

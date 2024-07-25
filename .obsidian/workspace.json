@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ef5ec3a147844474",
+        "id": "f5fc9a7ac7b50c2e",
         "type": "tabs",
         "children": [
           {
-            "id": "1c2369310f680bde",
+            "id": "2956408c057ec962",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design of Algorithms/Lectures.md",
+                "file": "Probability/Topics for Revision.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design of Algorithms/Lectures.md",
+                "file": "Probability/Topics for Revision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design of Algorithms/Lectures.md",
+                "file": "Probability/Topics for Revision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design of Algorithms/Lectures.md"
+                "file": "Probability/Topics for Revision.md"
               }
             }
           }
@@ -146,19 +146,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c2369310f680bde",
+  "active": "2956408c057ec962",
   "lastOpenFiles": [
+    "Probability/Week 1 Summary.md",
+    "Probability/Topics for Revision.md",
+    "From the Solar System to the Cosmos/History of the Universe.md",
+    "From the Solar System to the Cosmos/imgs/Expansion Models.png",
+    "From the Solar System to the Cosmos/imgs",
+    "From the Solar System to the Cosmos/Subject Overview.md",
+    "Elements of Data Processing/Pandas Overview.md",
+    "Declarative Programming/Prolog/Datatypes in Prolog.md",
+    "Declarative Programming/Declarative Programming Overview.md",
+    "2024-07-25.md",
+    "Digital Criminology/Final Essay.md",
+    "Untitled.canvas",
+    "Probability/Subject Overview.md",
+    "Declarative Programming/Prolog/Introduction to Logic Programming in Prolog.md",
+    "Design of Algorithms/Lectures.md",
     "Design of Algorithms/Subject Overview.md",
     "Design of Algorithms/Exams.md",
-    "Probability/Week 1 Summary.md",
-    "Probability/Subject Overview.md",
-    "Declarative Programming/Prolog/Datatypes in Prolog.md",
     "Probability",
-    "Declarative Programming/Prolog/Introduction to Logic Programming in Prolog.md",
-    "Cosmology/Subject Overview.md",
     "Digital Criminology/Lectures.md",
-    "Cosmology",
-    "Declarative Programming/Declarative Programming Overview.md",
+    "From the Solar System to the Cosmos",
     "Declarative Programming/Subject Overview.md",
     "The.md",
     "Misc/Vector Calculus Exams Notes.md",
@@ -166,8 +175,6 @@
     "Declarative Programming/Prolog",
     "Elements of Data Processing",
     "Declarative Programming",
-    "Digital Criminology/Final Essay.md",
-    "Design of Algorithms/Lectures.md",
     "Object Oriented Software Development/Lectures.md",
     "Object Oriented Software Development/Final Exam.md",
     "Object Oriented Software Development/Assignments.md",
@@ -184,13 +191,9 @@
     "Object Oriented Software Development/Observer-Pattern.png",
     "Object Oriented Software Development/MST.md",
     "Pasted image 20240501170904.png",
-    "Object Oriented Software Development/Strategy-Pattern.png",
     "Digital Criminology/Workshops.md",
     "Digital Criminology/Required Readings.md",
-    "Digital Criminology/Subject Overview.md",
     "Design of Algorithms",
-    "Object Oriented Software Development/Subject Overview.md",
-    "Digital Criminology",
-    "Object Oriented Software Development"
+    "Digital Criminology"
   ]
 }
