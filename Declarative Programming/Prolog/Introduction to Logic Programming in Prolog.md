@@ -120,7 +120,7 @@ Prolog executes `\+ G` by first trying to prove `G`. If this fails, then `\+ G` 
 `\+ G` asks if the goal `G` is *unsolvable*
 
 #### Example:
-```
+```prolog
 ?- X \= queen_elizabeth.
 false.
 ```
