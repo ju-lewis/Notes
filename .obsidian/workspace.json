@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f5fc9a7ac7b50c2e",
+        "id": "46cf9bc80926bb9a",
         "type": "tabs",
         "children": [
           {
-            "id": "2956408c057ec962",
+            "id": "64ac4d13c28b064e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Declarative Programming/Weekly Discussions.md",
+                "file": "Declarative Programming/Prolog/Datatypes in Prolog.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Declarative Programming/Weekly Discussions.md",
+                "file": "Declarative Programming/Prolog/Datatypes in Prolog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Declarative Programming/Weekly Discussions.md",
+                "file": "Declarative Programming/Prolog/Datatypes in Prolog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Declarative Programming/Weekly Discussions.md"
+                "file": "Declarative Programming/Prolog/Datatypes in Prolog.md"
               }
             }
           }
@@ -146,54 +146,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2956408c057ec962",
+  "active": "64ac4d13c28b064e",
   "lastOpenFiles": [
-    "Declarative Programming/Prolog/Introduction to Logic Programming in Prolog.md",
+    "Declarative Programming/Prolog/Untitled.md",
     "Declarative Programming/Prolog/Datatypes in Prolog.md",
-    "Declarative Programming/Declarative Programming Overview.md",
+    "Declarative Programming/Prolog/Introduction to Logic Programming in Prolog.md",
     "Declarative Programming/Subject Overview.md",
-    "Declarative Programming/Weekly Discussions.md",
-    "From the Solar System to the Cosmos/Observations.md",
-    "Declarative Programming/Prolog/Week 1 Discussion.md",
-    "From the Solar System to the Cosmos/History of the Universe.md",
-    "Probability/Topics for Revision.md",
-    "Probability/Week 1 Summary.md",
-    "From the Solar System to the Cosmos/imgs/Expansion Models.png",
-    "From the Solar System to the Cosmos/imgs",
-    "From the Solar System to the Cosmos/Subject Overview.md",
-    "Elements of Data Processing/Pandas Overview.md",
-    "2024-07-25.md",
-    "Digital Criminology/Final Essay.md",
-    "Untitled.canvas",
-    "Probability/Subject Overview.md",
-    "Design of Algorithms/Lectures.md",
-    "Design of Algorithms/Subject Overview.md",
-    "Design of Algorithms/Exams.md",
-    "Probability",
-    "Digital Criminology/Lectures.md",
-    "From the Solar System to the Cosmos",
-    "The.md",
+    "Elements of Data Processing/Lectures/Lecture 2.md",
+    "Elements of Data Processing/imgs",
+    "Elements of Data Processing/Untitled.md",
+    "Elements of Data Processing/imgs/knowledge-graph.png",
+    "Elements of Data Processing/Foundations of Data.md",
+    "Elements of Data Processing/Workshops",
+    "Elements of Data Processing/Lectures",
     "Misc/Vector Calculus Exams Notes.md",
-    "Declarative Programming/Haskell",
-    "Declarative Programming/Prolog",
-    "Elements of Data Processing",
-    "Declarative Programming",
+    "COMP30020/Prolog/Prolog Overview.md",
+    "Elements of Data Processing/Workshops/Pandas Overview.md",
+    "Elements of Data Processing/Subject Overview.md",
+    "Probability/Week 1 Summary.md",
+    "Probability/Topics for Revision.md",
+    "Probability/Subject Overview.md",
+    "Probability",
+    "Object Oriented Software Development/UML-realization.png",
+    "Object Oriented Software Development/UML-association.png",
+    "Object Oriented Software Development/UML-association-2.png",
+    "Object Oriented Software Development/UML Example.png",
+    "Object Oriented Software Development/Template Pattern.png",
+    "Object Oriented Software Development/Subject Overview.md",
+    "Object Oriented Software Development/Strategy-Pattern.png",
+    "Object Oriented Software Development/Observer-Pattern.png",
+    "Object Oriented Software Development/MST.md",
     "Object Oriented Software Development/Lectures.md",
+    "Object Oriented Software Development/Java-Observer.png",
+    "Object Oriented Software Development/Git.PNG",
     "Object Oriented Software Development/Final Exam.md",
     "Object Oriented Software Development/Assignments.md",
-    "Untitled.md",
-    "Misc",
-    "Digital Criminology/Assignments.md",
-    "Design of Algorithms/Building-2-3-Tree.png",
-    "Design of Algorithms/2-3-Tree.png",
-    "Design of Algorithms/General Double Rotation.png",
-    "Design of Algorithms/RL-Rotation.png",
-    "Design of Algorithms/LR-Rotation.png",
-    "Design of Algorithms/Bottom-Up-Heapsort.png",
-    "Object Oriented Software Development/Java-Observer.png",
-    "Object Oriented Software Development/Observer-Pattern.png",
-    "Pasted image 20240501170904.png",
-    "Design of Algorithms",
-    "Digital Criminology"
+    "Object Oriented Software Development",
+    "From the Solar System to the Cosmos/Subject Overview.md",
+    "From the Solar System to the Cosmos/Observations.md",
+    "From the Solar System to the Cosmos/imgs",
+    "From the Solar System to the Cosmos/History of the Universe.md",
+    "From the Solar System to the Cosmos",
+    "Elements of Data Processing",
+    "Digital Criminology/Workshops.md",
+    "Digital Criminology/Subject Overview.md",
+    "Digital Criminology/Required Readings.md",
+    "Digital Criminology/Lectures.md",
+    "Digital Criminology",
+    "Design of Algorithms"
   ]
 }
