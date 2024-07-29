@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Declarative Programming/Prolog/Datatypes in Prolog.md",
+                "file": "Declarative Programming/Prolog/Logic and Resolution.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Declarative Programming/Prolog/Datatypes in Prolog.md",
+                "file": "Declarative Programming/Prolog/Logic and Resolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Declarative Programming/Prolog/Datatypes in Prolog.md",
+                "file": "Declarative Programming/Prolog/Logic and Resolution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Declarative Programming/Prolog/Datatypes in Prolog.md"
+                "file": "Declarative Programming/Prolog/Logic and Resolution.md"
               }
             }
           }
@@ -146,13 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64ac4d13c28b064e",
+  "active": "2dc6831b1d2a9c63",
   "lastOpenFiles": [
-    "Declarative Programming/Prolog/Untitled.md",
+    "Declarative Programming/imgs",
+    "Declarative Programming/imgs/search-tree.png",
+    "Untitled.md",
+    "Declarative Programming/Prolog/Logic and Resolution.md",
     "Declarative Programming/Prolog/Datatypes in Prolog.md",
     "Declarative Programming/Prolog/Introduction to Logic Programming in Prolog.md",
-    "Declarative Programming/Subject Overview.md",
     "Elements of Data Processing/Lectures/Lecture 2.md",
+    "Elements of Data Processing/Workshops/Pandas Overview.md",
+    "Declarative Programming/Subject Overview.md",
     "Elements of Data Processing/imgs",
     "Elements of Data Processing/Untitled.md",
     "Elements of Data Processing/imgs/knowledge-graph.png",
@@ -161,7 +165,6 @@
     "Elements of Data Processing/Lectures",
     "Misc/Vector Calculus Exams Notes.md",
     "COMP30020/Prolog/Prolog Overview.md",
-    "Elements of Data Processing/Workshops/Pandas Overview.md",
     "Elements of Data Processing/Subject Overview.md",
     "Probability/Week 1 Summary.md",
     "Probability/Topics for Revision.md",
@@ -178,7 +181,6 @@
     "Object Oriented Software Development/MST.md",
     "Object Oriented Software Development/Lectures.md",
     "Object Oriented Software Development/Java-Observer.png",
-    "Object Oriented Software Development/Git.PNG",
     "Object Oriented Software Development/Final Exam.md",
     "Object Oriented Software Development/Assignments.md",
     "Object Oriented Software Development",
@@ -190,8 +192,6 @@
     "Elements of Data Processing",
     "Digital Criminology/Workshops.md",
     "Digital Criminology/Subject Overview.md",
-    "Digital Criminology/Required Readings.md",
-    "Digital Criminology/Lectures.md",
     "Digital Criminology",
     "Design of Algorithms"
   ]
