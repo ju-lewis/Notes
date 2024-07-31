@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Declarative Programming/Prolog/Prolog Debugger.md",
+                "file": "From the Solar System to the Cosmos/Kepler's Laws and Orbital Motion.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Declarative Programming/Prolog/Prolog Debugger.md",
+                "file": "From the Solar System to the Cosmos/Kepler's Laws and Orbital Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Declarative Programming/Prolog/Prolog Debugger.md",
+                "file": "From the Solar System to the Cosmos/Kepler's Laws and Orbital Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Declarative Programming/Prolog/Prolog Debugger.md"
+                "file": "From the Solar System to the Cosmos/Kepler's Laws and Orbital Motion.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "64ac4d13c28b064e",
   "lastOpenFiles": [
-    "Declarative Programming/Prolog/Logic and Resolution.md",
+    "From the Solar System to the Cosmos/Observations.md",
+    "From the Solar System to the Cosmos/History of the Universe.md",
+    "From the Solar System to the Cosmos/Kepler's Laws and Orbital Motion.md",
     "Declarative Programming/Prolog/Prolog Debugger.md",
+    "Declarative Programming/Prolog/Logic and Resolution.md",
     "Declarative Programming/imgs",
     "Declarative Programming/imgs/search-tree.png",
     "Untitled.md",
@@ -186,13 +189,10 @@
     "Object Oriented Software Development/Assignments.md",
     "Object Oriented Software Development",
     "From the Solar System to the Cosmos/Subject Overview.md",
-    "From the Solar System to the Cosmos/Observations.md",
     "From the Solar System to the Cosmos/imgs",
-    "From the Solar System to the Cosmos/History of the Universe.md",
     "From the Solar System to the Cosmos",
     "Elements of Data Processing",
     "Digital Criminology/Workshops.md",
-    "Digital Criminology/Subject Overview.md",
     "Digital Criminology"
   ]
 }
