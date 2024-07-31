@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Declarative Programming/Prolog/Logic and Resolution.md",
+                "file": "Declarative Programming/Prolog/Prolog Debugger.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Declarative Programming/Prolog/Logic and Resolution.md",
+                "file": "Declarative Programming/Prolog/Prolog Debugger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Declarative Programming/Prolog/Logic and Resolution.md",
+                "file": "Declarative Programming/Prolog/Prolog Debugger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Declarative Programming/Prolog/Logic and Resolution.md"
+                "file": "Declarative Programming/Prolog/Prolog Debugger.md"
               }
             }
           }
@@ -146,12 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2dc6831b1d2a9c63",
+  "active": "64ac4d13c28b064e",
   "lastOpenFiles": [
+    "Declarative Programming/Prolog/Logic and Resolution.md",
+    "Declarative Programming/Prolog/Prolog Debugger.md",
     "Declarative Programming/imgs",
     "Declarative Programming/imgs/search-tree.png",
     "Untitled.md",
-    "Declarative Programming/Prolog/Logic and Resolution.md",
     "Declarative Programming/Prolog/Datatypes in Prolog.md",
     "Declarative Programming/Prolog/Introduction to Logic Programming in Prolog.md",
     "Elements of Data Processing/Lectures/Lecture 2.md",
@@ -192,7 +193,6 @@
     "Elements of Data Processing",
     "Digital Criminology/Workshops.md",
     "Digital Criminology/Subject Overview.md",
-    "Digital Criminology",
-    "Design of Algorithms"
+    "Digital Criminology"
   ]
 }
