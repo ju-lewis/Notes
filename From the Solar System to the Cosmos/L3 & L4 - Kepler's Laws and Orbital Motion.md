@@ -12,7 +12,7 @@ Features of an ellipse:
 
 
 ## Kepler's Laws
-### Law 1:
+### Law 1 - Law of Ellipses
 All orbits around the Sun are elliptical, with the Sun at a focus.
 
 ### Law 2 - Law of Equal Areas:
@@ -20,7 +20,7 @@ As a planet move around its orbit, it sweeps out equal areas in equal times.
 - Approaching perihelion - speeds up
 - Approaching aphelion - slows down
 
-### Law 3:
+### Law 3 - 
 More distant planets orbit the Sun at slower average speeds. Orbital period is proportional to average distance from the Sun.
 
 In our solar system:
