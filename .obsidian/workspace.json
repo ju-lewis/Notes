@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "From the Solar System to the Cosmos/L6 - Newton's Laws of Gravitation.md",
+                "file": "Elements of Data Processing/Lectures/L4.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "From the Solar System to the Cosmos/L6 - Newton's Laws of Gravitation.md",
+                "file": "Elements of Data Processing/Lectures/L4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "From the Solar System to the Cosmos/L6 - Newton's Laws of Gravitation.md",
+                "file": "Elements of Data Processing/Lectures/L4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "From the Solar System to the Cosmos/L6 - Newton's Laws of Gravitation.md"
+                "file": "Elements of Data Processing/Lectures/L4.md"
               }
             }
           }
@@ -146,11 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2dc6831b1d2a9c63",
+  "active": "8213723b6d9b0932",
   "lastOpenFiles": [
+    "From the Solar System to the Cosmos/L6 - Newton's Laws of Gravitation.md",
+    "Elements of Data Processing/Lectures/L4.md",
     "From the Solar System to the Cosmos/imgs/Tidal Pull.png",
     "From the Solar System to the Cosmos/L3 & L4 - Kepler's Laws and Orbital Motion.md",
-    "From the Solar System to the Cosmos/L6 - Newton's Laws of Gravitation.md",
     "From the Solar System to the Cosmos/L5 - Laws of Motion.md",
     "From the Solar System to the Cosmos/L2 - Observations.md",
     "From the Solar System to the Cosmos/L1 - History of the Universe.md",
@@ -188,7 +189,6 @@
     "Object Oriented Software Development/Strategy-Pattern.png",
     "Object Oriented Software Development/Observer-Pattern.png",
     "Object Oriented Software Development/MST.md",
-    "Object Oriented Software Development/Java-Observer.png",
     "Object Oriented Software Development",
     "From the Solar System to the Cosmos/imgs",
     "From the Solar System to the Cosmos",
