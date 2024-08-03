@@ -2,6 +2,8 @@
 ## Numerical Data:
 - Countable => discrete (year, )
 - Not easily countable => continuous (share price, people in city, temperature, etc.)
+## Non-Numerical Data:
+- Nominal data => categorical data with no intrinsic ordering
 
 >[!example] Exercise
 >Convert an XML snippet to a JSON object.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elements of Data Processing/Lectures/L4.md",
+                "file": "Declarative Programming/Weekly Discussions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elements of Data Processing/Lectures/L4.md",
+                "file": "Declarative Programming/Weekly Discussions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elements of Data Processing/Lectures/L4.md",
+                "file": "Declarative Programming/Weekly Discussions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Elements of Data Processing/Lectures/L4.md"
+                "file": "Declarative Programming/Weekly Discussions.md"
               }
             }
           }
@@ -148,36 +148,38 @@
   },
   "active": "8213723b6d9b0932",
   "lastOpenFiles": [
-    "From the Solar System to the Cosmos/L6 - Newton's Laws of Gravitation.md",
-    "Elements of Data Processing/Lectures/L4.md",
-    "From the Solar System to the Cosmos/imgs/Tidal Pull.png",
-    "From the Solar System to the Cosmos/L3 & L4 - Kepler's Laws and Orbital Motion.md",
-    "From the Solar System to the Cosmos/L5 - Laws of Motion.md",
-    "From the Solar System to the Cosmos/L2 - Observations.md",
-    "From the Solar System to the Cosmos/L1 - History of the Universe.md",
-    "Elements of Data Processing/Lectures/L2 - Data Classification.md",
-    "Elements of Data Processing/Lectures/L3 - Data Capture.md",
-    "Elements of Data Processing/Lectures/L1 - Foundations.md",
+    "Declarative Programming/Prolog/L4 - Logic and Resolution.md",
+    "Declarative Programming/Prolog/Prolog Debugger.md",
+    "Declarative Programming/Prolog/L2 & L3 - Datatypes in Prolog.md",
+    "Declarative Programming/Prolog/L1 - Intro to Logic Programming.md",
+    "Elements of Data Processing/Lectures/L4 - Data Preprocessing.md",
     "Elements of Data Processing/Workshops/W2 - Semi-structured Data.md",
     "Elements of Data Processing/Workshops/W1 - Pandas Overview.md",
-    "Declarative Programming/Prolog/Prolog Debugger.md",
-    "Declarative Programming/Prolog/Logic and Resolution.md",
+    "Elements of Data Processing/Lectures/L3 - Data Capture.md",
+    "Elements of Data Processing/Lectures/L2 - Data Classification.md",
+    "Probability/Week 2 Summary.md",
+    "From the Solar System to the Cosmos/L6 - Newton's Laws of Gravitation.md",
+    "From the Solar System to the Cosmos/L3 & L4 - Kepler's Laws and Orbital Motion.md",
+    "From the Solar System to the Cosmos/L5 - Laws of Motion.md",
+    "Object Oriented Software Development/Lectures.md",
+    "Misc/Vector Calculus Exams Notes.md",
+    "Probability/Topics for Revision.md",
+    "Probability/Week 1 Summary.md",
+    "From the Solar System to the Cosmos/L2 - Observations.md",
+    "From the Solar System to the Cosmos/imgs/Tidal Pull.png",
+    "From the Solar System to the Cosmos/L1 - History of the Universe.md",
+    "Elements of Data Processing/Lectures/L1 - Foundations.md",
     "Declarative Programming/imgs",
     "Declarative Programming/imgs/search-tree.png",
     "Untitled.md",
-    "Declarative Programming/Prolog/Datatypes in Prolog.md",
-    "Declarative Programming/Prolog/Introduction to Logic Programming in Prolog.md",
     "Declarative Programming/Subject Overview.md",
     "Elements of Data Processing/imgs",
     "Elements of Data Processing/Untitled.md",
     "Elements of Data Processing/imgs/knowledge-graph.png",
     "Elements of Data Processing/Workshops",
     "Elements of Data Processing/Lectures",
-    "Misc/Vector Calculus Exams Notes.md",
     "COMP30020/Prolog/Prolog Overview.md",
     "Elements of Data Processing/Subject Overview.md",
-    "Probability/Week 1 Summary.md",
-    "Probability/Topics for Revision.md",
     "Probability/Subject Overview.md",
     "Probability",
     "Object Oriented Software Development/UML-realization.png",
@@ -185,10 +187,8 @@
     "Object Oriented Software Development/UML-association-2.png",
     "Object Oriented Software Development/UML Example.png",
     "Object Oriented Software Development/Template Pattern.png",
-    "Object Oriented Software Development/Subject Overview.md",
     "Object Oriented Software Development/Strategy-Pattern.png",
     "Object Oriented Software Development/Observer-Pattern.png",
-    "Object Oriented Software Development/MST.md",
     "Object Oriented Software Development",
     "From the Solar System to the Cosmos/imgs",
     "From the Solar System to the Cosmos",

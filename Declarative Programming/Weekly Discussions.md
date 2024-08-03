@@ -13,7 +13,7 @@
 
 >[!example] Question 3
 >```prolog
->?- enrolled(Student, comp90048) , student /= kai.
+>?- enrolled(Student, comp90048) , Student /= kai.
 >```
 
 

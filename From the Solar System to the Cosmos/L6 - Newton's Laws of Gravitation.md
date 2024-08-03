@@ -23,6 +23,7 @@ Ellipses are not the only orbital paths. Laws of gravity allow for:
 - The gravitational acceleration of an object like a rock does not depend on its mass because the mass of the rock cancels with itself:
 $$a_{rock} = \frac{F_g}{M_{rock}} \text{ cancels with } F_g = G\frac{M_{rock} \ M_{Earth}}{d^2}$$
 $$a_{rock} = G\frac{M_{rock} \ M_{Earth}}{M_{rock} \times d^2}$$
+$$a_{rock} = \frac{G \ M_{Earth}}{d^2}$$
 
 ### Center of Mass
 As momentum is conserved, orbiting objects orbit around their centre of mass.
