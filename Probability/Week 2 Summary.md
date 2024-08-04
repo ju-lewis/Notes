@@ -58,6 +58,10 @@ A random variable is discrete if its *state space* is countable.
 For a discrete random variable $X$, its probability mass function is:
 $$p_X(x): S_X \mapsto \mathbb{R} = P(X=x)$$
 
+>[!info]
+>So the probability of a discrete random variable taking a given value is that value's *probability mass.*
+
+
 We can now compute the probability of a random variable $X$ taking on any set of values:
 $$\text{Let } B \subseteq \mathbb{R} \text{, } \ \ P(X \in B) = \sum_{x \in B \cap S_X}p_X(x)$$
 We simply need to sum up the probabilities of $X$ being the individual values in B that are also in the *state space* for $p_X$.

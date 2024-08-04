@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Declarative Programming/Weekly Discussions.md",
+                "file": "Probability/Week 2 Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Declarative Programming/Weekly Discussions.md",
+                "file": "Probability/Week 2 Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Declarative Programming/Weekly Discussions.md",
+                "file": "Probability/Week 2 Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Declarative Programming/Weekly Discussions.md"
+                "file": "Probability/Week 2 Summary.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "8213723b6d9b0932",
   "lastOpenFiles": [
+    "Declarative Programming/Weekly Discussions.md",
     "Declarative Programming/Prolog/L4 - Logic and Resolution.md",
     "Declarative Programming/Prolog/Prolog Debugger.md",
     "Declarative Programming/Prolog/L2 & L3 - Datatypes in Prolog.md",
@@ -180,7 +181,6 @@
     "Elements of Data Processing/Lectures",
     "COMP30020/Prolog/Prolog Overview.md",
     "Elements of Data Processing/Subject Overview.md",
-    "Probability/Subject Overview.md",
     "Probability",
     "Object Oriented Software Development/UML-realization.png",
     "Object Oriented Software Development/UML-association.png",
