@@ -1,6 +1,10 @@
 ## Normalisation vs Standardisation
 Normalisation involves scaling based on the max and min values
 Standardisation involves warping the scores to a normal distribution
+
+**IS THE DATA NORMALLY DISTRIBUTED??**
+Normalisation produces a value between 0 and 1, standardisation scales the distribution.
+
 ## Data Entity Resolution
 Data entity resolution is the process of determining if data from separate sources refer to the same entity.
 
@@ -84,6 +88,12 @@ Start by creating a data structure of pages to visit:
 >5. Remove visited page
 #### robots.txt
 A file that notifies crawlers what to visit and what not to visit
+- `user-agent` identifies which crawler the rules apply to
+- `allow` a URL path that may be crawled
+- `disallow` a URL path the may **not** be crawler
+- `sitemap` the complete URL of a sitemap (map of the server)
+
+
 
 What you **MUST** do:
 - Only crawl allowed pages

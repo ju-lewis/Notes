@@ -66,6 +66,6 @@ We can now compute the probability of a random variable $X$ taking on any set of
 $$\text{Let } B \subseteq \mathbb{R} \text{, } \ \ P(X \in B) = \sum_{x \in B \cap S_X}p_X(x)$$
 We simply need to sum up the probabilities of $X$ being the individual values in B that are also in the *state space* for $p_X$.
 
-It is also true that $\sum{p_X(x)} = 1$ since the map $X$ must be *complete*.
+It is also true that $\sum{p_X(x)} = 1$ since the map $X$ must be *complete*, i.e. all parts of the sample space must be partitioned.
 
 
