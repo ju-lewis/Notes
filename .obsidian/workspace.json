@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "From the Solar System to the Cosmos/L7 - Solar System Overview.md",
+                "file": "From the Solar System to the Cosmos/L8 - Formation of the Solar System.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "From the Solar System to the Cosmos/L7 - Solar System Overview.md",
+                "file": "From the Solar System to the Cosmos/L8 - Formation of the Solar System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "From the Solar System to the Cosmos/L7 - Solar System Overview.md",
+                "file": "From the Solar System to the Cosmos/L8 - Formation of the Solar System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "From the Solar System to the Cosmos/L7 - Solar System Overview.md"
+                "file": "From the Solar System to the Cosmos/L8 - Formation of the Solar System.md"
               }
             }
           }
@@ -148,16 +148,22 @@
   },
   "active": "2dc6831b1d2a9c63",
   "lastOpenFiles": [
+    "From the Solar System to the Cosmos/imgs/Pebble Accretion.png",
+    "Declarative Programming/Prolog/L5 - Debugging and Efficiency.md",
+    "From the Solar System to the Cosmos/L8 - Formation of the Solar System.md",
+    "Declarative Programming/Prolog/L2 & L3 - Datatypes in Prolog.md",
+    "Declarative Programming/Prolog/L1 - Intro to Logic Programming.md",
+    "Declarative Programming/Prolog/L4 - Logic and Resolution.md",
+    "Probability/Week 2 Summary.md",
+    "Declarative Programming/Prolog/Prolog Debugger.md",
+    "Elements of Data Processing/Workshops/W1 - Pandas Overview.md",
+    "Elements of Data Processing/Workshops/W3 - Data Capture and Preprocessing.md",
+    "From the Solar System to the Cosmos/L7 - Solar System Overview.md",
     "From the Solar System to the Cosmos/imgs/Venus Transit.png",
     "From the Solar System to the Cosmos/imgs/Solar System Snapshot.png",
     "Elements of Data Processing/Lectures/L5 - Text Processing.md",
-    "From the Solar System to the Cosmos/L7 - Solar System Overview.md",
     "Elements of Data Processing/Lectures/L4 - Data Preprocessing.md",
-    "Probability/Week 2 Summary.md",
     "Probability/Week 1 Summary.md",
-    "Declarative Programming/Prolog/L4 - Logic and Resolution.md",
-    "Declarative Programming/Prolog/L2 & L3 - Datatypes in Prolog.md",
-    "Declarative Programming/Prolog/L1 - Intro to Logic Programming.md",
     "From the Solar System to the Cosmos/L3 & L4 - Kepler's Laws and Orbital Motion.md",
     "From the Solar System to the Cosmos/L5 - Laws of Motion.md",
     "From the Solar System to the Cosmos/L1 - History of the Universe.md",
@@ -169,15 +175,10 @@
     "Elements of Data Processing/Lectures/L3 - Data Capture.md",
     "Elements of Data Processing/Lectures/L1 - Foundations.md",
     "Elements of Data Processing/Workshops/W2 - Semi-structured Data.md",
-    "Elements of Data Processing/Workshops/W1 - Pandas Overview.md",
-    "Declarative Programming/Prolog/Prolog Debugger.md",
     "Declarative Programming/Prolog/Logic and Resolution.md",
     "Declarative Programming/imgs",
     "Declarative Programming/imgs/search-tree.png",
     "Untitled.md",
-    "Declarative Programming/Prolog/Datatypes in Prolog.md",
-    "Declarative Programming/Prolog/Introduction to Logic Programming in Prolog.md",
-    "Declarative Programming/Subject Overview.md",
     "Elements of Data Processing/imgs",
     "Elements of Data Processing/imgs/knowledge-graph.png",
     "Elements of Data Processing/Workshops",
@@ -188,7 +189,6 @@
     "Object Oriented Software Development/UML-association-2.png",
     "Object Oriented Software Development/UML Example.png",
     "Object Oriented Software Development/Template Pattern.png",
-    "Object Oriented Software Development/Strategy-Pattern.png",
     "Object Oriented Software Development",
     "From the Solar System to the Cosmos/imgs",
     "From the Solar System to the Cosmos",

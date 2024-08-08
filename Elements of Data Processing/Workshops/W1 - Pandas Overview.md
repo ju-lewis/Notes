@@ -40,6 +40,14 @@ series.index = string_index
 ## DataFrames
 DataFrames are similar to 2D arrays.
 
+### DataFrame Indexing Cheat Sheet:
+`df[col_name]` - to project a single column (returns series)
+`df[[col1, col2]]` - to project multiple columns (returns dataframe)
+`df.loc[df[col] == value]` - selects records based on a predicate **(MUST BE A SERIES)**
+`df.iloc[]` - selects records based on predicates on their index
+``
+
+
 ### Instantiation
 
 ```python
