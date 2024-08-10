@@ -68,3 +68,8 @@ Currently (08/08/2024) *5741* exoplanets have been found.
 Many of the planets have periods $\leq 100$ days because of limited observation times.
 
 
+### 3. What are asteroids and comets?
+[[L9 - Jovian Planets, Junk, Exceptions]]
+
+### 4. Why are there exceptions?
+[[L9 - Jovian Planets, Junk, Exceptions]]

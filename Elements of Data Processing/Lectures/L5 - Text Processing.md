@@ -35,6 +35,18 @@ Goal: Convert text to lower case
 This reduces sparsity (as more words will map to the same lower-case form)
 This is simple and effective for many tasks
 Supports search and matching
+
+>[!example] Tokenising with NLTK
+>```python
+>import nltk
+>nltk.download("punkt")
+>
+>text = "Eat. Think. Move at Melbourne Connect is designed to promote "
+>
+>sentences = nltk.sent_tokenize(text)
+>for s in sentences:
+>	print(s)
+>```
 ### Word Regularisation (lemmatising)
 
 **Problem 1**: English has different forms of the same word - tense, plurality, aspect
@@ -75,5 +87,4 @@ This allows for more accurate clustering and feature reduction
 >[!tldr] Python Libraries
 >1. **Python NLTK** - General word processing library
 >2. **ranks.nl** - Provides stopword lists
-### Ngram processing and string matching
 

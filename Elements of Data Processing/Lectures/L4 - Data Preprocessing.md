@@ -117,6 +117,9 @@ We can use the Python library `beautifulsoup`
 ```python
 # Finding an element by ID:
 soup.find(id="test-id")
+
+# Finding all elements
+soup.find_all()
 ```
 
 
