@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "From the Solar System to the Cosmos/L9 - Jovian Planets, Junk, Exceptions.md",
+                "file": "Declarative Programming/Prolog/L5 - Debugging and Efficiency.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "From the Solar System to the Cosmos/L9 - Jovian Planets, Junk, Exceptions.md",
+                "file": "Declarative Programming/Prolog/L5 - Debugging and Efficiency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "From the Solar System to the Cosmos/L9 - Jovian Planets, Junk, Exceptions.md",
+                "file": "Declarative Programming/Prolog/L5 - Debugging and Efficiency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "From the Solar System to the Cosmos/L9 - Jovian Planets, Junk, Exceptions.md"
+                "file": "Declarative Programming/Prolog/L5 - Debugging and Efficiency.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "8213723b6d9b0932",
   "lastOpenFiles": [
-    "From the Solar System to the Cosmos/L8 - Formation of the Solar System.md",
+    "Declarative Programming/Prolog/L6 - Tail Recursion.md",
+    "Probability/Week 3 Summary.md",
+    "Probability/Week 2 Summary.md",
     "From the Solar System to the Cosmos/L9 - Jovian Planets, Junk, Exceptions.md",
+    "From the Solar System to the Cosmos/L8 - Formation of the Solar System.md",
     "Elements of Data Processing/Lectures/L6 - More Text Processing.md",
     "Elements of Data Processing/Lectures/L4 - Data Preprocessing.md",
     "Elements of Data Processing/Lectures/L5 - Text Processing.md",
@@ -157,11 +160,9 @@
     "Declarative Programming/Prolog/L4 - Logic and Resolution.md",
     "Declarative Programming/Prolog/L2 & L3 - Datatypes in Prolog.md",
     "Declarative Programming/Prolog/L1 - Intro to Logic Programming.md",
-    "Declarative Programming/Prolog/L6 - Tail Recursion.md",
     "Declarative Programming/imgs/Transformation.png",
     "Declarative Programming/imgs/TRO.png",
     "From the Solar System to the Cosmos/imgs/Pebble Accretion.png",
-    "Probability/Week 2 Summary.md",
     "Declarative Programming/Prolog/Prolog Debugger.md",
     "Elements of Data Processing/Workshops/W1 - Pandas Overview.md",
     "Elements of Data Processing/Workshops/W3 - Data Capture and Preprocessing.md",
@@ -179,7 +180,6 @@
     "Elements of Data Processing/Lectures/L2 - Data Classification.md",
     "Elements of Data Processing/Lectures/L3 - Data Capture.md",
     "Elements of Data Processing/Lectures/L1 - Foundations.md",
-    "Elements of Data Processing/Workshops/W2 - Semi-structured Data.md",
     "Declarative Programming/imgs",
     "Declarative Programming/imgs/search-tree.png",
     "Elements of Data Processing/imgs",

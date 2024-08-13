@@ -97,6 +97,9 @@ Predicate level doc example:
 
 ## Choicepoints and Efficiency
 
+#### Determinism
+**Determinism** in Prolog is when a predicate leaves no choicepoints open when there are no further solutions.
+
 Consider the definition for a factorial predicate:
 ```prolog
 fact(0, 1).
