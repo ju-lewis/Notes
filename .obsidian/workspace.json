@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elements of Data Processing/Lectures/L6 - More Text Processing.md",
+                "file": "From the Solar System to the Cosmos/L11 - Terrestrial Planets, Continued.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elements of Data Processing/Lectures/L6 - More Text Processing.md",
+                "file": "From the Solar System to the Cosmos/L11 - Terrestrial Planets, Continued.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elements of Data Processing/Lectures/L6 - More Text Processing.md",
+                "file": "From the Solar System to the Cosmos/L11 - Terrestrial Planets, Continued.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Elements of Data Processing/Lectures/L6 - More Text Processing.md"
+                "file": "From the Solar System to the Cosmos/L11 - Terrestrial Planets, Continued.md"
               }
             }
           }
@@ -148,18 +148,24 @@
   },
   "active": "8213723b6d9b0932",
   "lastOpenFiles": [
-    "Elements of Data Processing/Workshops/W4 - Data Scraping.md",
-    "Elements of Data Processing/imgs/unicode.png",
-    "Elements of Data Processing/Workshops/W3 - Data Capture and Preprocessing.md",
-    "Declarative Programming/Prolog/L6 - Tail Recursion.md",
-    "Declarative Programming/Prolog/L5 - Debugging and Efficiency.md",
-    "From the Solar System to the Cosmos/imgs/Seismic Waves.png",
-    "From the Solar System to the Cosmos/L10 - Composition of Terrestrial Planets.md",
-    "Elements of Data Processing/Lectures/L7 - Document Processing (Unstructured Data).md",
-    "Probability/Week 3 Summary.md",
-    "Probability/Week 2 Summary.md",
-    "From the Solar System to the Cosmos/L9 - Jovian Planets, Junk, Exceptions.md",
+    "From the Solar System to the Cosmos/L3 & L4 - Kepler's Laws and Orbital Motion.md",
+    "From the Solar System to the Cosmos/L1 - History of the Universe.md",
+    "From the Solar System to the Cosmos/L2 - Observations.md",
+    "From the Solar System to the Cosmos/L5 - Laws of Motion.md",
+    "From the Solar System to the Cosmos/L6 - Newton's Laws of Gravitation.md",
+    "From the Solar System to the Cosmos/L7 - Solar System Overview.md",
     "From the Solar System to the Cosmos/L8 - Formation of the Solar System.md",
+    "From the Solar System to the Cosmos/L9 - Jovian Planets, Junk, Exceptions.md",
+    "From the Solar System to the Cosmos/L10 - Composition of Terrestrial Planets.md",
+    "From the Solar System to the Cosmos/L11 - Terrestrial Planets, Continued.md",
+    "Declarative Programming/Prolog/L6 - Tail Recursion.md",
+    "Elements of Data Processing/imgs/unicode.png",
+    "Elements of Data Processing/Workshops/W4 - Data Scraping.md",
+    "Probability/Week 2 Summary.md",
+    "Probability/Week 3 Summary.md",
+    "Elements of Data Processing/Lectures/L7 - Document Processing (Unstructured Data).md",
+    "From the Solar System to the Cosmos/imgs/Seismic Waves.png",
+    "Declarative Programming/Prolog/L5 - Debugging and Efficiency.md",
     "Elements of Data Processing/Lectures/L6 - More Text Processing.md",
     "Elements of Data Processing/Lectures/L4 - Data Preprocessing.md",
     "Elements of Data Processing/Lectures/L5 - Text Processing.md",
@@ -171,15 +177,10 @@
     "From the Solar System to the Cosmos/imgs/Pebble Accretion.png",
     "Declarative Programming/Prolog/Prolog Debugger.md",
     "Elements of Data Processing/Workshops/W1 - Pandas Overview.md",
-    "From the Solar System to the Cosmos/L7 - Solar System Overview.md",
+    "Elements of Data Processing/Workshops/W3 - Data Capture and Preprocessing.md",
     "From the Solar System to the Cosmos/imgs/Venus Transit.png",
     "From the Solar System to the Cosmos/imgs/Solar System Snapshot.png",
     "Probability/Week 1 Summary.md",
-    "From the Solar System to the Cosmos/L3 & L4 - Kepler's Laws and Orbital Motion.md",
-    "From the Solar System to the Cosmos/L5 - Laws of Motion.md",
-    "From the Solar System to the Cosmos/L1 - History of the Universe.md",
-    "Elements of Data Processing/Lectures/L4.md",
-    "From the Solar System to the Cosmos/L6 - Newton's Laws of Gravitation.md",
     "From the Solar System to the Cosmos/imgs/Tidal Pull.png",
     "Declarative Programming/imgs",
     "Declarative Programming/imgs/search-tree.png",
