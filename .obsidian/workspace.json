@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "From the Solar System to the Cosmos/L11 - Terrestrial Planets, Continued.md",
+                "file": "Declarative Programming/Prolog/L8 - Constraint Logic Programming.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "From the Solar System to the Cosmos/L11 - Terrestrial Planets, Continued.md",
+                "file": "Declarative Programming/Prolog/L8 - Constraint Logic Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "From the Solar System to the Cosmos/L11 - Terrestrial Planets, Continued.md",
+                "file": "Declarative Programming/Prolog/L8 - Constraint Logic Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "From the Solar System to the Cosmos/L11 - Terrestrial Planets, Continued.md"
+                "file": "Declarative Programming/Prolog/L8 - Constraint Logic Programming.md"
               }
             }
           }
@@ -146,8 +146,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8213723b6d9b0932",
+  "active": "2dc6831b1d2a9c63",
   "lastOpenFiles": [
+    "Declarative Programming/imgs/CLPFD Example.png",
+    "Declarative Programming/imgs/CLPFD.png",
+    "Declarative Programming/Prolog/L5 - Debugging and Efficiency.md",
+    "Declarative Programming/Prolog/L7 - Higher Order Programming.md",
+    "Declarative Programming/Prolog/L6 - Tail Recursion.md",
+    "Declarative Programming/Prolog/L8 - Constraint Logic Programming.md",
+    "Elements of Data Processing/Lectures/L8 - Visualisation and Document Comparison.md",
+    "Elements of Data Processing/imgs/boxplot.png",
+    "Elements of Data Processing/imgs/binning.png",
+    "Elements of Data Processing/Lectures/L6 - More Text Processing.md",
+    "Elements of Data Processing/Lectures/L7 - Document Processing (Unstructured Data).md",
+    "Elements of Data Processing/Workshops/W1 - Pandas Overview.md",
+    "Elements of Data Processing/Workshops/W2 - Semi-structured Data.md",
+    "Declarative Programming/imgs/higher order predicate.png",
+    "From the Solar System to the Cosmos/L12 - Atmospheres.md",
+    "From the Solar System to the Cosmos/L10 - Composition of Terrestrial Planets.md",
+    "From the Solar System to the Cosmos/L11 - Terrestrial Planets, Continued.md",
+    "From the Solar System to the Cosmos/imgs/Circulation Cells.png",
     "From the Solar System to the Cosmos/L3 & L4 - Kepler's Laws and Orbital Motion.md",
     "From the Solar System to the Cosmos/L1 - History of the Universe.md",
     "From the Solar System to the Cosmos/L2 - Observations.md",
@@ -156,36 +174,18 @@
     "From the Solar System to the Cosmos/L7 - Solar System Overview.md",
     "From the Solar System to the Cosmos/L8 - Formation of the Solar System.md",
     "From the Solar System to the Cosmos/L9 - Jovian Planets, Junk, Exceptions.md",
-    "From the Solar System to the Cosmos/L10 - Composition of Terrestrial Planets.md",
-    "From the Solar System to the Cosmos/L11 - Terrestrial Planets, Continued.md",
-    "Declarative Programming/Prolog/L6 - Tail Recursion.md",
     "Elements of Data Processing/imgs/unicode.png",
     "Elements of Data Processing/Workshops/W4 - Data Scraping.md",
     "Probability/Week 2 Summary.md",
     "Probability/Week 3 Summary.md",
-    "Elements of Data Processing/Lectures/L7 - Document Processing (Unstructured Data).md",
     "From the Solar System to the Cosmos/imgs/Seismic Waves.png",
-    "Declarative Programming/Prolog/L5 - Debugging and Efficiency.md",
-    "Elements of Data Processing/Lectures/L6 - More Text Processing.md",
     "Elements of Data Processing/Lectures/L4 - Data Preprocessing.md",
     "Elements of Data Processing/Lectures/L5 - Text Processing.md",
-    "Declarative Programming/Prolog/L4 - Logic and Resolution.md",
-    "Declarative Programming/Prolog/L2 & L3 - Datatypes in Prolog.md",
-    "Declarative Programming/Prolog/L1 - Intro to Logic Programming.md",
     "Declarative Programming/imgs/Transformation.png",
     "Declarative Programming/imgs/TRO.png",
     "From the Solar System to the Cosmos/imgs/Pebble Accretion.png",
-    "Declarative Programming/Prolog/Prolog Debugger.md",
-    "Elements of Data Processing/Workshops/W1 - Pandas Overview.md",
-    "Elements of Data Processing/Workshops/W3 - Data Capture and Preprocessing.md",
-    "From the Solar System to the Cosmos/imgs/Venus Transit.png",
-    "From the Solar System to the Cosmos/imgs/Solar System Snapshot.png",
-    "Probability/Week 1 Summary.md",
-    "From the Solar System to the Cosmos/imgs/Tidal Pull.png",
     "Declarative Programming/imgs",
-    "Declarative Programming/imgs/search-tree.png",
     "Elements of Data Processing/imgs",
-    "Elements of Data Processing/imgs/knowledge-graph.png",
     "Elements of Data Processing/Workshops",
     "Elements of Data Processing/Lectures",
     "Probability",
