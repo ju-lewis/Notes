@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Declarative Programming/Prolog/L8 - Constraint Logic Programming.md",
+                "file": "Declarative Programming/Prolog/L5 - Debugging and Efficiency.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Declarative Programming/Prolog/L8 - Constraint Logic Programming.md",
+                "file": "Declarative Programming/Prolog/L5 - Debugging and Efficiency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Declarative Programming/Prolog/L8 - Constraint Logic Programming.md",
+                "file": "Declarative Programming/Prolog/L5 - Debugging and Efficiency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Declarative Programming/Prolog/L8 - Constraint Logic Programming.md"
+                "file": "Declarative Programming/Prolog/L5 - Debugging and Efficiency.md"
               }
             }
           }
@@ -146,14 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2dc6831b1d2a9c63",
+  "active": "8213723b6d9b0932",
   "lastOpenFiles": [
+    "Probability/Week 4 Summary.md",
+    "Probability/Week 3 Summary.md",
+    "Probability/Week 2 Summary.md",
+    "Declarative Programming/Prolog/L5 - Debugging and Efficiency.md",
+    "Declarative Programming/Prolog/L8 - Constraint Logic Programming.md",
     "Declarative Programming/imgs/CLPFD Example.png",
     "Declarative Programming/imgs/CLPFD.png",
-    "Declarative Programming/Prolog/L5 - Debugging and Efficiency.md",
     "Declarative Programming/Prolog/L7 - Higher Order Programming.md",
     "Declarative Programming/Prolog/L6 - Tail Recursion.md",
-    "Declarative Programming/Prolog/L8 - Constraint Logic Programming.md",
     "Elements of Data Processing/Lectures/L8 - Visualisation and Document Comparison.md",
     "Elements of Data Processing/imgs/boxplot.png",
     "Elements of Data Processing/imgs/binning.png",
@@ -176,14 +179,11 @@
     "From the Solar System to the Cosmos/L9 - Jovian Planets, Junk, Exceptions.md",
     "Elements of Data Processing/imgs/unicode.png",
     "Elements of Data Processing/Workshops/W4 - Data Scraping.md",
-    "Probability/Week 2 Summary.md",
-    "Probability/Week 3 Summary.md",
     "From the Solar System to the Cosmos/imgs/Seismic Waves.png",
     "Elements of Data Processing/Lectures/L4 - Data Preprocessing.md",
     "Elements of Data Processing/Lectures/L5 - Text Processing.md",
     "Declarative Programming/imgs/Transformation.png",
     "Declarative Programming/imgs/TRO.png",
-    "From the Solar System to the Cosmos/imgs/Pebble Accretion.png",
     "Declarative Programming/imgs",
     "Elements of Data Processing/imgs",
     "Elements of Data Processing/Workshops",
