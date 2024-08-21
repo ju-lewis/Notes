@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6e229860a013808a",
+        "id": "9e1efb317cc0c772",
         "type": "tabs",
         "children": [
           {
-            "id": "8213723b6d9b0932",
+            "id": "212529dd8585156a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Declarative Programming/Prolog/L5 - Debugging and Efficiency.md",
+                "file": "Elements of Data Processing/Lectures/L7 - Document Processing (Unstructured Data).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Declarative Programming/Prolog/L5 - Debugging and Efficiency.md",
+                "file": "Elements of Data Processing/Lectures/L7 - Document Processing (Unstructured Data).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Declarative Programming/Prolog/L5 - Debugging and Efficiency.md",
+                "file": "Elements of Data Processing/Lectures/L7 - Document Processing (Unstructured Data).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Declarative Programming/Prolog/L5 - Debugging and Efficiency.md"
+                "file": "Elements of Data Processing/Lectures/L7 - Document Processing (Unstructured Data).md"
               }
             }
           }
@@ -146,29 +146,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8213723b6d9b0932",
+  "active": "212529dd8585156a",
   "lastOpenFiles": [
+    "Elements of Data Processing/Lectures/L6 - More Text Processing.md",
+    "Elements of Data Processing/Lectures/L5 - Text Processing.md",
+    "Elements of Data Processing/Lectures/L9 - Data Analysis.md",
+    "Elements of Data Processing/Lectures/L8 - Visualisation and Document Comparison.md",
+    "Elements of Data Processing/Lectures/L7 - Document Processing (Unstructured Data).md",
+    "Elements of Data Processing/Untitled.md",
+    "Probability/Week 5 Summary.md",
     "Probability/Week 4 Summary.md",
     "Probability/Week 3 Summary.md",
+    "Probability/Week 1 Summary.md",
     "Probability/Week 2 Summary.md",
-    "Declarative Programming/Prolog/L5 - Debugging and Efficiency.md",
-    "Declarative Programming/Prolog/L8 - Constraint Logic Programming.md",
-    "Declarative Programming/imgs/CLPFD Example.png",
-    "Declarative Programming/imgs/CLPFD.png",
-    "Declarative Programming/Prolog/L7 - Higher Order Programming.md",
-    "Declarative Programming/Prolog/L6 - Tail Recursion.md",
-    "Elements of Data Processing/Lectures/L8 - Visualisation and Document Comparison.md",
-    "Elements of Data Processing/imgs/boxplot.png",
-    "Elements of Data Processing/imgs/binning.png",
-    "Elements of Data Processing/Lectures/L6 - More Text Processing.md",
-    "Elements of Data Processing/Lectures/L7 - Document Processing (Unstructured Data).md",
-    "Elements of Data Processing/Workshops/W1 - Pandas Overview.md",
-    "Elements of Data Processing/Workshops/W2 - Semi-structured Data.md",
-    "Declarative Programming/imgs/higher order predicate.png",
-    "From the Solar System to the Cosmos/L12 - Atmospheres.md",
-    "From the Solar System to the Cosmos/L10 - Composition of Terrestrial Planets.md",
+    "Elements of Data Processing/Lectures/L4 - Data Preprocessing.md",
     "From the Solar System to the Cosmos/L11 - Terrestrial Planets, Continued.md",
     "From the Solar System to the Cosmos/imgs/Circulation Cells.png",
+    "From the Solar System to the Cosmos/L12 - Atmospheres.md",
+    "Elements of Data Processing/imgs/boxplot.png",
+    "Elements of Data Processing/imgs/binning.png",
+    "Declarative Programming/imgs/higher order predicate.png",
+    "Declarative Programming/imgs/CLPFD.png",
+    "Declarative Programming/imgs/CLPFD Example.png",
+    "Declarative Programming/Prolog/L8 - Constraint Logic Programming.md",
+    "Declarative Programming/Prolog/L7 - Higher Order Programming.md",
     "From the Solar System to the Cosmos/L3 & L4 - Kepler's Laws and Orbital Motion.md",
     "From the Solar System to the Cosmos/L1 - History of the Universe.md",
     "From the Solar System to the Cosmos/L2 - Observations.md",
@@ -177,11 +178,10 @@
     "From the Solar System to the Cosmos/L7 - Solar System Overview.md",
     "From the Solar System to the Cosmos/L8 - Formation of the Solar System.md",
     "From the Solar System to the Cosmos/L9 - Jovian Planets, Junk, Exceptions.md",
+    "From the Solar System to the Cosmos/L10 - Composition of Terrestrial Planets.md",
+    "Declarative Programming/Prolog/L6 - Tail Recursion.md",
     "Elements of Data Processing/imgs/unicode.png",
-    "Elements of Data Processing/Workshops/W4 - Data Scraping.md",
     "From the Solar System to the Cosmos/imgs/Seismic Waves.png",
-    "Elements of Data Processing/Lectures/L4 - Data Preprocessing.md",
-    "Elements of Data Processing/Lectures/L5 - Text Processing.md",
     "Declarative Programming/imgs/Transformation.png",
     "Declarative Programming/imgs/TRO.png",
     "Declarative Programming/imgs",
