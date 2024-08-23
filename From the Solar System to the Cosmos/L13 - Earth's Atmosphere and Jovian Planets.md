@@ -53,31 +53,26 @@ The 'sawtooth' along the curve is the seasonal growth of northern hemisphere tre
 - Decrease in glaciers
 - Decrease in snow cover
 
-
+---
 
 ## Jovian Planets
 
-### Basic Facts
-- Have a fast rotation (10-17 hours)
-- Low density
-- Similar composition to the Sun
-
-
+>[!tldr] Basic Facts
+>- Have a fast rotation (10-17 hours)
+>- Low density
+>- Similar composition to the Sun
 ### Formation
-- Gases get blown to outer solar system
-- Small ice planetesimals form
-- Planetesimals collide to form planets
-- Larger planets attract gases
-
+1. Gases get blown to outer solar system
+2. Small ice planetesimals form
+3. Planetesimals collide to form planets
+4. Larger planets attract gases (H / He)
 
 All jovian planets have extensive moon and ring systems
-(Currently there are 285 jovian moons known)
+(Currently there are **285 jovian moons** known)
 
-
-**Moons can be classified into 2 groups**
+**Jovian moons can be classified into 2 groups**
 1. Formed in an accretion disk (Larger, regular orbits, lots of ice)
 2. Captured (smaller, irregular shapes/orbits, little geological activity)
-
 
 ### Jupiter
 Jupiter has similar atmospheric structure, but very different internal structure to Earth.
@@ -85,3 +80,68 @@ Jupiter has similar atmospheric structure, but very different internal structure
 Jupiter has a significant magnetosphere due to the presence of metallic Hydrogen (same as Saturn)
 
 Jupiter's Galilean moons are in orbital resonance - causing the orbits to become elliptical. (They 'tug' on each other at the same point due to their periods being multiples)
+
+
+## Jovian Moons
+### Europa - Galilean moon
+
+- More than twice the water of Earth
+- Warmed by Jupiter's tidal forces
+- Salty oceans -> strong magnetic field (*has been observed*)
+
+There are vast oceans beneath the ice crust
+
+### Titan - Moon of Saturn
+
+- Thick $N_2$ atmosphere
+- Methane and Ethane lakes
+
+---
+## Ring Systems
+- Jupiter - faint, dusty
+- Saturn - Bright, water ice (very reflective)
+- Uranus - Dark, thin
+- Neptune - Dark, thing, ring arcs
+
+
+### Saturn's Ring structure
+~270,000,000m diameter, *less than **100m** thick* 
+All particles are orbiting Saturn independently
+
+The Enke gap is a region of the rings with *no particles*
+
+There are vertical structures rising above the B-ring (up to 2.5km)
+
+
+
+
+## Jovian Moons
+### Europa - Galilean moon
+
+- More than twice the water of Earth
+- Warmed by Jupiter's tidal forces
+- Salty oceans -> strong magnetic field (*has been observed*)
+
+There are vast oceans beneath the ice crust
+
+### Titan - Moon of Saturn
+
+- Thick $N_2$ atmosphere
+- Methane and Ethane lakes
+
+---
+## Ring Systems
+- Jupiter - faint, dusty
+- Saturn - Bright, water ice (very reflective)
+- Uranus - Dark, thin
+- Neptune - Dark, thing, ring arcs
+
+
+### Saturn's Ring structure
+~270,000,000m diameter, *less than **100m** thick* 
+All particles are orbiting Saturn independently
+
+The Enke gap is a region of the rings with *no particles*
+
+There are vertical structures rising above the B-ring (up to 2.5km)
+

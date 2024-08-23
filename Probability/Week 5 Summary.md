@@ -39,4 +39,11 @@ $$lim_{n \rightarrow \infty}\frac{n!}{x!(n-x)!}(\frac{\lambda}{n})^x(1-\frac{\la
 So when we 'continuously' perform Bernoulli trials over $[0,1]$ with success rate $\lambda$
 $$\mathbb{P}(N=x)=\frac{\lambda^x}{x!}e^{-x}$$
 
+### Continuous Uniform Distribution
+All values in an uncountable state space are equiprobable ($S_X \subseteq \mathbb{R}$)
+
+### Exponential Distribution
+Analogous to geometric distribution for continuous random variables. Consider the waiting time for an event to occur.
+
+
 
