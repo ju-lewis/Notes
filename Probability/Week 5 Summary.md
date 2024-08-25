@@ -45,5 +45,16 @@ All values in an uncountable state space are equiprobable ($S_X \subseteq \mathb
 ### Exponential Distribution
 Analogous to geometric distribution for continuous random variables. Consider the waiting time for an event to occur.
 
+### Mixed Distribution
+
+### Gamma Distribution
+Analogous to negative binomial distribution for continuous random variables.
 
 
+#### Gamma Function 
+
+
+### Beta Distribution
+
+
+### Pareto Distribution

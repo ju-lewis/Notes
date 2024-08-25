@@ -65,8 +65,19 @@ We can visualise the dissimilarity matrix as a *heat map*
 
 We can assess similarity of objects by how similar their colours are (for adjacent objects)
 
-**How do we order the clusters?**
+#### How do we order the clusters?
+
+- Visit each data point once
+- Group together the closest ones first and then gradually the ones further away
+
+Process:
+1. Start with 2 most distance points
+2. Grow the group around one pair and leave the still-untouched data point pair with the other one
+3. Continue until they're all seen
+
+![[VAT ordering.png]]
 
 
-
-
+**Problems**:
+- Not effective in every situation
+	- For complex shaped clusters performance will degrade.
