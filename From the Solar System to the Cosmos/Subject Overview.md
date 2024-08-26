@@ -51,7 +51,24 @@ Week 4:
 - [ ] Composition of terrestrial planets
 - [ ] Seismic Waves
 - [ ] Magnetic fields
+- [ ] How surfaces change
+- [ ] Terrestrial planets in the Solar System
+- [ ] Atmospheres (properties, gaining, losing)
+- [ ] Earth vs Venus vs Mars
 Week 5:
-- [ ] 
+- [ ] Properties of Earth's atmosphere
+- [ ] Greenhouse effect
+- [ ] Keeling curve
+- [ ] Global warming (indicators/causes)
+- [ ] Formation of jovian planets
+- [ ] Properties of jovian moons (specifically Jupiter)
+- [ ] Saturn's rings
+- [ ] Asteroids vs comets (+ meteors/meteorites)
+- [ ] Life of a comet
+- [ ] Interactions of matter and light
+- [ ] Types of spectra (and spectroscopy)
+- [ ] Energy levels
+- [ ] Blackbody radiation
+- [ ] Doppler shift in moving and rotating objects.
 Week 6:
 - [ ] 

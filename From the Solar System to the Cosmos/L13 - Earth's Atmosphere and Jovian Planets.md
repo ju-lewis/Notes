@@ -113,35 +113,3 @@ The Enke gap is a region of the rings with *no particles*
 There are vertical structures rising above the B-ring (up to 2.5km)
 
 
-
-
-## Jovian Moons
-### Europa - Galilean moon
-
-- More than twice the water of Earth
-- Warmed by Jupiter's tidal forces
-- Salty oceans -> strong magnetic field (*has been observed*)
-
-There are vast oceans beneath the ice crust
-
-### Titan - Moon of Saturn
-
-- Thick $N_2$ atmosphere
-- Methane and Ethane lakes
-
----
-## Ring Systems
-- Jupiter - faint, dusty
-- Saturn - Bright, water ice (very reflective)
-- Uranus - Dark, thin
-- Neptune - Dark, thing, ring arcs
-
-
-### Saturn's Ring structure
-~270,000,000m diameter, *less than **100m** thick* 
-All particles are orbiting Saturn independently
-
-The Enke gap is a region of the rings with *no particles*
-
-There are vertical structures rising above the B-ring (up to 2.5km)
-
