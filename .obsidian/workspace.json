@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability/Week 5 Summary.md",
+                "file": "Elements of Data Processing/Lectures/L11 - Correlations.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability/Week 5 Summary.md",
+                "file": "Elements of Data Processing/Lectures/L11 - Correlations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability/Week 5 Summary.md",
+                "file": "Elements of Data Processing/Lectures/L11 - Correlations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability/Week 5 Summary.md"
+                "file": "Elements of Data Processing/Lectures/L11 - Correlations.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "2dc6831b1d2a9c63",
   "lastOpenFiles": [
+    "Probability/Week 6 Summary.md",
+    "Elements of Data Processing/Lectures/L11 - Correlations.md",
+    "Probability/Week 5 Summary.md",
     "From the Solar System to the Cosmos/Subject Overview.md",
     "From the Solar System to the Cosmos/L15 - Light.md",
     "From the Solar System to the Cosmos/L14 - Asteroids, Comets, and Dwarf Planets.md",
@@ -164,14 +167,12 @@
     "Declarative Programming/Prolog/L8 - Constraint Logic Programming.md",
     "Declarative Programming/Prolog/L5 - Debugging and Efficiency.md",
     "Declarative Programming/Prolog/L6 - Tail Recursion.md",
-    "Probability/Week 5 Summary.md",
     "Elements of Data Processing/Lectures/L9 - Data Analysis.md",
     "Elements of Data Processing/Lectures/L7 - Document Processing (Unstructured Data).md",
     "From the Solar System to the Cosmos/imgs/Keeling Curve.png",
     "Elements of Data Processing/Lectures/L6 - More Text Processing.md",
     "Elements of Data Processing/Lectures/L5 - Text Processing.md",
     "Elements of Data Processing/Lectures/L8 - Visualisation and Document Comparison.md",
-    "Elements of Data Processing/Untitled.md",
     "Probability/Week 4 Summary.md",
     "Probability/Week 3 Summary.md",
     "Probability/Week 1 Summary.md",
@@ -183,7 +184,6 @@
     "Declarative Programming/imgs/higher order predicate.png",
     "Declarative Programming/imgs/CLPFD.png",
     "Declarative Programming/imgs/CLPFD Example.png",
-    "From the Solar System to the Cosmos/L3 & L4 - Kepler's Laws and Orbital Motion.md",
     "Declarative Programming/imgs",
     "Elements of Data Processing/imgs",
     "Elements of Data Processing/Workshops",
