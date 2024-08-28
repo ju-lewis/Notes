@@ -23,12 +23,12 @@
 **To study:**
 ___
 Week 1:
-- [ ] Basic timeline of the Universe
-- [ ] Models of expansion
-- [ ] Motion of Earth
+- [x] Basic timeline of the Universe
+- [x] Models of expansion
+- [x] Motion of Earth
 - [ ] History of observation (astronomers, laws/principles)
-- [ ] Foundations of scientific theory
-- [ ] Kepler's laws of motion
+- [x] Foundations of scientific theory
+- [x] Kepler's laws of motion
 Week 2:
 - [ ] Newtonian motion
 - [ ] Noether's Theorem (generalisation of Newton's 3rd law)
