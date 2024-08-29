@@ -35,7 +35,7 @@ Type constructors must begin with a capital letter
 
 **Type command**
 `> :t "Hello!"` Evaluates the type of the argument
-`> :l` Lists the _type of the function???_
+`> :l` Loads a file into the REPL
 
 
 ### Type Annotation

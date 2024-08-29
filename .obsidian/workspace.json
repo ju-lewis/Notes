@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6e229860a013808a",
+        "id": "45cdf87150fc48f9",
         "type": "tabs",
         "children": [
           {
-            "id": "8213723b6d9b0932",
+            "id": "62a07ec1da9ca0b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "From the Solar System to the Cosmos/Subject Overview.md",
+                "file": "Declarative Programming/Haskell/L3 - User-defined Types.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "810f95506c44441e",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "From the Solar System to the Cosmos/Subject Overview.md",
+                "file": "Declarative Programming/Haskell/L3 - User-defined Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "From the Solar System to the Cosmos/Subject Overview.md",
+                "file": "Declarative Programming/Haskell/L3 - User-defined Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "From the Solar System to the Cosmos/Subject Overview.md"
+                "file": "Declarative Programming/Haskell/L3 - User-defined Types.md"
               }
             }
           }
@@ -146,52 +147,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8213723b6d9b0932",
+  "active": "62a07ec1da9ca0b9",
   "lastOpenFiles": [
-    "From the Solar System to the Cosmos/L1 - History of the Universe.md",
-    "From the Solar System to the Cosmos/L3 & L4 - Kepler's Laws and Orbital Motion.md",
-    "From the Solar System to the Cosmos/Subject Overview.md",
-    "Probability/Week 6 Summary.md",
-    "From the Solar System to the Cosmos/L16 - Telescopes.md",
-    "From the Solar System to the Cosmos/imgs/Angular Resolution.png",
     "Declarative Programming/Haskell/L2 - Introduction to Haskell Types.md",
-    "Declarative Programming/Prolog/L7 - Higher Order Programming.md",
     "Declarative Programming/Haskell/L1 - Introduction to Functional Programming.md",
-    "Elements of Data Processing/Lectures/L11 - Correlations.md",
-    "From the Solar System to the Cosmos/L10 - Composition of Terrestrial Planets.md",
-    "From the Solar System to the Cosmos/L9 - Jovian Planets, Junk, Exceptions.md",
-    "From the Solar System to the Cosmos/L8 - Formation of the Solar System.md",
-    "From the Solar System to the Cosmos/L7 - Solar System Overview.md",
-    "From the Solar System to the Cosmos/L6 - Newton's Laws of Gravitation.md",
-    "From the Solar System to the Cosmos/L5 - Laws of Motion.md",
-    "From the Solar System to the Cosmos/L2 - Observations.md",
-    "Declarative Programming/Prolog/L5 - Debugging and Efficiency.md",
-    "Declarative Programming/Haskell",
-    "Elements of Data Processing/Lectures/L10 - Continued Clustering.md",
-    "Elements of Data Processing/Lectures/L9 - Data Analysis.md",
-    "Elements of Data Processing/imgs/VAT ordering.png",
-    "Declarative Programming/Prolog/L8 - Constraint Logic Programming.md",
-    "From the Solar System to the Cosmos/L14 - Asteroids, Comets, and Dwarf Planets.md",
-    "From the Solar System to the Cosmos/L13 - Earth's Atmosphere and Jovian Planets.md",
-    "From the Solar System to the Cosmos/L15 - Light.md",
-    "From the Solar System to the Cosmos/imgs/Blackbody Radiation.png",
-    "From the Solar System to the Cosmos/imgs/Ionization Graph.png",
+    "Declarative Programming/Haskell/L3 - User-defined Types.md",
     "Probability/Week 5 Summary.md",
-    "Probability/Week 4 Summary.md",
+    "Probability/Week 6 Summary.md",
+    "Declarative Programming/Prolog/L7 - Higher Order Programming.md",
+    "Declarative Programming/Prolog/L8 - Constraint Logic Programming.md",
+    "Declarative Programming/Prolog/L5 - Debugging and Efficiency.md",
+    "From the Solar System to the Cosmos/Subject Overview.md",
+    "From the Solar System to the Cosmos/Week 6/L17 - Special Relativity.md",
+    "Object Oriented Software Development/Lectures.md",
+    "From the Solar System to the Cosmos/Week 6",
+    "From the Solar System to the Cosmos/Week 5",
+    "From the Solar System to the Cosmos/Week 4",
+    "From the Solar System to the Cosmos/Week 3",
+    "From the Solar System to the Cosmos/Week 2",
+    "From the Solar System to the Cosmos/Week 1",
+    "Elements of Data Processing/Workshops/W5 - Clustering.md",
+    "Elements of Data Processing/Workshops/W4 - Data Scraping.md",
+    "Elements of Data Processing/Lectures/L11 - Correlations.md",
+    "From the Solar System to the Cosmos/imgs/Angular Resolution.png",
+    "From the Solar System to the Cosmos/Week 6/L16 - Telescopes.md",
+    "From the Solar System to the Cosmos/Week 5/L15 - Light.md",
+    "From the Solar System to the Cosmos/Week 5/L14 - Asteroids, Comets, and Dwarf Planets.md",
+    "From the Solar System to the Cosmos/Week 5/L13 - Earth's Atmosphere and Jovian Planets.md",
+    "From the Solar System to the Cosmos/Week 4/L12 - Atmospheres.md",
+    "From the Solar System to the Cosmos/Week 4/L11 - Terrestrial Planets, Continued.md",
+    "From the Solar System to the Cosmos/Week 4/L10 - Composition of Terrestrial Planets.md",
+    "Declarative Programming/Haskell/Introduction to Functional Programming.md",
+    "From the Solar System to the Cosmos/imgs/Ionization Graph.png",
+    "From the Solar System to the Cosmos/imgs/Blackbody Radiation.png",
+    "Elements of Data Processing/imgs/VAT ordering.png",
+    "Elements of Data Processing/Lectures/L10 - Continued Clustering.md",
+    "Declarative Programming/Prolog/L6 - Tail Recursion.md",
+    "Elements of Data Processing/Lectures/L9 - Data Analysis.md",
+    "Elements of Data Processing/Lectures/L7 - Document Processing (Unstructured Data).md",
     "From the Solar System to the Cosmos/imgs/Keeling Curve.png",
-    "Declarative Programming/imgs/CLPFD Example.png",
-    "Declarative Programming/imgs/CLPFD.png",
+    "From the Solar System to the Cosmos/imgs/Circulation Cells.png",
     "Elements of Data Processing/imgs/boxplot.png",
     "Elements of Data Processing/imgs/binning.png",
     "Declarative Programming/imgs/higher order predicate.png",
+    "Declarative Programming/imgs/CLPFD.png",
     "Declarative Programming/imgs",
     "Elements of Data Processing/imgs",
     "Elements of Data Processing/Workshops",
-    "Elements of Data Processing/Lectures",
-    "Probability",
-    "Object Oriented Software Development",
-    "From the Solar System to the Cosmos/imgs",
-    "From the Solar System to the Cosmos",
-    "Elements of Data Processing"
+    "Elements of Data Processing/Lectures"
   ]
 }

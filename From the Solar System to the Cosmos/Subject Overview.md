@@ -71,4 +71,5 @@ Week 5:
 - [ ] Blackbody radiation
 - [ ] Doppler shift in moving and rotating objects.
 Week 6:
-- [ ] 
+- [ ] Telescope design
+- [ ] Principles of special relativity

@@ -10,5 +10,8 @@ Heavy-tailed exponential distribution
 ### Weibull Distribution
 Combination of exponential distribution and a polynomial function.
 
+### Cauchy Distribution
 
+
+### Lognormal Distribution
 
