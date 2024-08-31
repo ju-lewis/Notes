@@ -79,3 +79,9 @@ As $\gamma > 1$, $t' < t$
 >- Loss of synchronisation for moving clocks (twin paradox)
 >- Lengths are contracted for a moving observer
 >- Moving masses are increased
+
+
+
+Other relativistic transformations:
+$$l' = \frac{l}{\gamma}$$
+$$m' = m \gamma$$
