@@ -13,7 +13,7 @@
 - Other galaxies
 - Dark matter & Dark Energy
 - Origin and fate of the universe
-	- Geometry of the university.
+	- Geometry of the universe.
 - The possibility of extra-terrestrial life
 - The technology of astronomy
 
@@ -22,54 +22,60 @@
 ## Mid Semester Test
 **To study:**
 ___
-Week 1:
+**Week 1:**
 - [x] Basic timeline of the Universe
 - [x] Models of expansion
 - [x] Motion of Earth
-- [ ] History of observation (astronomers, laws/principles)
+- [x] History of observation (astronomers, laws/principles)
 - [x] Foundations of scientific theory
 - [x] Kepler's laws of motion
-Week 2:
-- [ ] Newtonian motion
-- [ ] Noether's Theorem (generalisation of Newton's 3rd law)
-- [ ] Thermal energy vs temp
-- [ ] Gas cloud collapse
-- [ ] Universal laws of gravitation
-- [ ] 2-Body problem
-- [ ] Escape velocity
-- [ ] Tidal forces (and friction)
-Week 3:
-- [ ] Solar system overview
-- [ ] Exceptions
-- [ ] Measuring distances (transits)
+
+**Week 2:**
+- [x] Newtonian motion
+- [x] Noether's Theorem (generalisation of Newton's 3rd law)
+- [x] Thermal energy vs temp
+- [x] Gas cloud collapse
+- [x] Universal laws of gravitation
+- [x] 2-Body problem
+- [x] Escape velocity
+- [x] Tidal forces (and friction)
+
+**Week 3:**
+- [x] Solar system overview
+- [x] Exceptions
+- [x] Measuring distances (transits)
 - [ ] Properties of the solar system
-- [ ] Nebular theory
-- [ ] Jovian vs Terrestrial planets
+- [x] Nebular theory
+- [x] Jovian vs Terrestrial planets
 - [ ] Earth's water
-- [ ] Radiometric dating
-Week 4:
-- [ ] Composition of terrestrial planets
-- [ ] Seismic Waves
-- [ ] Magnetic fields
+- [x] Radiometric dating
+
+**Week 4:**
+- [x] Composition of terrestrial planets
+- [x] Seismic Waves
+- [x] Magnetic fields
 - [ ] How surfaces change
-- [ ] Terrestrial planets in the Solar System
+- [x] Terrestrial planets in the Solar System
 - [ ] Atmospheres (properties, gaining, losing)
 - [ ] Earth vs Venus vs Mars
-Week 5:
+
+**Week 5:**
 - [ ] Properties of Earth's atmosphere
 - [ ] Greenhouse effect
-- [ ] Keeling curve
+- [x] Keeling curve
 - [ ] Global warming (indicators/causes)
 - [ ] Formation of jovian planets
 - [ ] Properties of jovian moons (specifically Jupiter)
 - [ ] Saturn's rings
-- [ ] Asteroids vs comets (+ meteors/meteorites)
-- [ ] Life of a comet
+- [x] Asteroids vs comets (+ meteors/meteorites)
+- [x] Life of a comet
 - [ ] Interactions of matter and light
-- [ ] Types of spectra (and spectroscopy)
-- [ ] Energy levels
-- [ ] Blackbody radiation
-- [ ] Doppler shift in moving and rotating objects.
-Week 6:
-- [ ] Telescope design
-- [ ] Principles of special relativity
+- [x] Types of spectra (and spectroscopy)
+- [x] Energy levels
+- [x] Blackbody radiation
+- [x] Doppler shift in moving and rotating objects.
+
+**Week 6:**
+- [x] Telescope design
+- [x] Principles of special relativity
+- [x] Fundamentals of general relativity

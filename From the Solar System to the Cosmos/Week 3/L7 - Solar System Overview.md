@@ -94,13 +94,14 @@ The Kuiper belt is much further out, and composed of comets.
 ### Notable Exceptions:
 - Venus has a retrograde rotation
 - Earth has an abnormally large moon
+- Uranus axial tilt
 
 
 ### How do we know how big the Solar System is?
 
 For **terrestrial planets** we can send a radio signal and measure the amount of time it takes to bounce back from its surface.
 
-For gaseous planets, we can use the **transit of Venus**:
+For gaseous planets, we can use the **transits**:
 - Apparent position of Venus on Sun during transit depends on distances in solar system and your position on Earth
 ![[Venus Transit.png]]
 
