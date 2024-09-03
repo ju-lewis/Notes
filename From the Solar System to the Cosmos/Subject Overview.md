@@ -44,32 +44,32 @@ ___
 - [x] Solar system overview
 - [x] Exceptions
 - [x] Measuring distances (transits)
-- [ ] Properties of the solar system
+- [x] Properties of the solar system
 - [x] Nebular theory
 - [x] Jovian vs Terrestrial planets
-- [ ] Earth's water
+- [x] Earth's water
 - [x] Radiometric dating
 
 **Week 4:**
 - [x] Composition of terrestrial planets
 - [x] Seismic Waves
 - [x] Magnetic fields
-- [ ] How surfaces change
+- [x] How surfaces change
 - [x] Terrestrial planets in the Solar System
-- [ ] Atmospheres (properties, gaining, losing)
-- [ ] Earth vs Venus vs Mars
+- [x] Atmospheres (properties, gaining, losing)
+- [x] Earth vs Venus vs Mars
 
 **Week 5:**
-- [ ] Properties of Earth's atmosphere
-- [ ] Greenhouse effect
+- [x] Properties of Earth's atmosphere
+- [x] Greenhouse effect
 - [x] Keeling curve
-- [ ] Global warming (indicators/causes)
-- [ ] Formation of jovian planets
-- [ ] Properties of jovian moons (specifically Jupiter)
-- [ ] Saturn's rings
+- [x] Global warming (indicators/causes)
+- [x] Formation of jovian planets
+- [x] Properties of jovian moons (specifically Jupiter)
+- [x] Saturn's rings
 - [x] Asteroids vs comets (+ meteors/meteorites)
 - [x] Life of a comet
-- [ ] Interactions of matter and light
+- [x] Interactions of matter and light
 - [x] Types of spectra (and spectroscopy)
 - [x] Energy levels
 - [x] Blackbody radiation

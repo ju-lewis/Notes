@@ -46,8 +46,8 @@ The nucleus of a comet is a 'dirty snowball'
 Most comets remain frozen in the outer atmosphere, and melt when they approach the Sun - creating a tail.
 
 A *coma* is the atmosphere that comes from a comet's heated nucleus.
-A plasma *tail* is gas escaping from the coma, pushed by solar win
-A *dust tail* is pushed by photos
+A plasma *tail* is gas escaping from the coma, pushed by solar wind
+A *dust tail* is pushed by photons
 
 Tails can be over 100,000km long!
 
