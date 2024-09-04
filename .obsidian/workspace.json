@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability/Week 7 Summary.md",
+                "file": "Elements of Data Processing/Lectures/L13 - Classification Methodologies.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability/Week 7 Summary.md",
+                "file": "Elements of Data Processing/Lectures/L13 - Classification Methodologies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability/Week 7 Summary.md",
+                "file": "Elements of Data Processing/Lectures/L13 - Classification Methodologies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability/Week 7 Summary.md"
+                "file": "Elements of Data Processing/Lectures/L13 - Classification Methodologies.md"
               }
             }
           }
@@ -148,17 +148,20 @@
   },
   "active": "62a07ec1da9ca0b9",
   "lastOpenFiles": [
-    "Probability/Week 6 Summary.md",
+    "Elements of Data Processing/Lectures/L12 - Mutual Information.md",
+    "Elements of Data Processing/Lectures/L11 - Correlations.md",
+    "Elements of Data Processing/Lectures/L13 - Classification Methodologies.md",
+    "Elements of Data Processing/imgs/decision-tree-split.png",
+    "From the Solar System to the Cosmos/Week 5/L13 - Earth's Atmosphere and Jovian Planets.md",
     "Probability/Week 7 Summary.md",
+    "Probability/Week 6 Summary.md",
     "Declarative Programming/Haskell/L4 - Using Haskell Types.md",
     "Declarative Programming/Haskell/L2 - Introduction to Haskell Types.md",
     "Declarative Programming/Haskell/L3 - User-defined Types.md",
-    "Elements of Data Processing/Lectures/L12 - Mutual Information.md",
     "From the Solar System to the Cosmos/Subject Overview.md",
     "From the Solar System to the Cosmos/Week 1/L1 - History of the Universe.md",
     "From the Solar System to the Cosmos/Week 5/L15 - Light.md",
     "From the Solar System to the Cosmos/Week 6/L16 - Telescopes.md",
-    "From the Solar System to the Cosmos/Week 5/L13 - Earth's Atmosphere and Jovian Planets.md",
     "From the Solar System to the Cosmos/Week 5/L14 - Asteroids, Comets, and Dwarf Planets.md",
     "From the Solar System to the Cosmos/Week 3/L7 - Solar System Overview.md",
     "From the Solar System to the Cosmos/Week 2/L5 - Laws of Motion.md",
@@ -176,20 +179,17 @@
     "Declarative Programming/Prolog/L8 - Constraint Logic Programming.md",
     "Declarative Programming/Prolog/L5 - Debugging and Efficiency.md",
     "From the Solar System to the Cosmos/Week 6/L17 - Special Relativity.md",
-    "Object Oriented Software Development/Lectures.md",
     "From the Solar System to the Cosmos/Week 6",
     "From the Solar System to the Cosmos/Week 5",
     "From the Solar System to the Cosmos/Week 4",
     "From the Solar System to the Cosmos/Week 3",
     "From the Solar System to the Cosmos/Week 2",
     "From the Solar System to the Cosmos/Week 1",
-    "Elements of Data Processing/Workshops/W5 - Clustering.md",
     "From the Solar System to the Cosmos/imgs/Angular Resolution.png",
     "From the Solar System to the Cosmos/imgs/Ionization Graph.png",
     "From the Solar System to the Cosmos/imgs/Blackbody Radiation.png",
     "Elements of Data Processing/imgs/VAT ordering.png",
     "From the Solar System to the Cosmos/imgs/Keeling Curve.png",
-    "From the Solar System to the Cosmos/imgs/Circulation Cells.png",
     "Declarative Programming/imgs",
     "Elements of Data Processing/imgs",
     "Elements of Data Processing/Workshops",
