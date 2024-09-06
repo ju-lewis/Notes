@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elements of Data Processing/Lectures/L13 - Classification Methodologies.md",
+                "file": "Probability/Week 6 Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elements of Data Processing/Lectures/L13 - Classification Methodologies.md",
+                "file": "Probability/Week 6 Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elements of Data Processing/Lectures/L13 - Classification Methodologies.md",
+                "file": "Probability/Week 6 Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Elements of Data Processing/Lectures/L13 - Classification Methodologies.md"
+                "file": "Probability/Week 6 Summary.md"
               }
             }
           }
@@ -148,37 +148,38 @@
   },
   "active": "62a07ec1da9ca0b9",
   "lastOpenFiles": [
-    "Elements of Data Processing/Lectures/L12 - Mutual Information.md",
-    "Elements of Data Processing/Lectures/L11 - Correlations.md",
-    "Elements of Data Processing/Lectures/L13 - Classification Methodologies.md",
-    "Elements of Data Processing/imgs/decision-tree-split.png",
-    "From the Solar System to the Cosmos/Week 5/L13 - Earth's Atmosphere and Jovian Planets.md",
-    "Probability/Week 7 Summary.md",
+    "Probability/Week 5 Summary.md",
     "Probability/Week 6 Summary.md",
-    "Declarative Programming/Haskell/L4 - Using Haskell Types.md",
-    "Declarative Programming/Haskell/L2 - Introduction to Haskell Types.md",
+    "Probability/Week 7 Summary.md",
+    "From the Solar System to the Cosmos/Week 7/L20 - Surveying Stars.md",
     "Declarative Programming/Haskell/L3 - User-defined Types.md",
+    "Declarative Programming/Haskell/L4 - Using Haskell Types.md",
+    "From the Solar System to the Cosmos/Week 6/L18 - Special and General Relativity.md",
+    "From the Solar System to the Cosmos/Week 7/L19 - The Sun.md",
+    "Elements of Data Processing/Lectures/L10 - Continued Clustering.md",
+    "From the Solar System to the Cosmos/Week 7",
+    "Elements of Data Processing/Lectures/L9 - Data Analysis.md",
+    "Elements of Data Processing/Lectures/L11 - Correlations.md",
+    "Elements of Data Processing/Workshops/W6 - Correlation.md",
+    "Elements of Data Processing/Workshops/W5 - Clustering.md",
+    "Misc/Vector Calculus Exams Notes.md",
+    "Elements of Data Processing/imgs/decision-tree-split.png",
+    "Elements of Data Processing/Lectures/L13 - Classification Methodologies.md",
+    "Declarative Programming/Haskell/L2 - Introduction to Haskell Types.md",
+    "Elements of Data Processing/Lectures/L12 - Mutual Information.md",
     "From the Solar System to the Cosmos/Subject Overview.md",
     "From the Solar System to the Cosmos/Week 1/L1 - History of the Universe.md",
     "From the Solar System to the Cosmos/Week 5/L15 - Light.md",
     "From the Solar System to the Cosmos/Week 6/L16 - Telescopes.md",
+    "From the Solar System to the Cosmos/Week 5/L13 - Earth's Atmosphere and Jovian Planets.md",
     "From the Solar System to the Cosmos/Week 5/L14 - Asteroids, Comets, and Dwarf Planets.md",
     "From the Solar System to the Cosmos/Week 3/L7 - Solar System Overview.md",
     "From the Solar System to the Cosmos/Week 2/L5 - Laws of Motion.md",
     "From the Solar System to the Cosmos/Week 1/L3 & L4 - Kepler's Laws and Orbital Motion.md",
-    "From the Solar System to the Cosmos/Week 4/L10 - Composition of Terrestrial Planets.md",
-    "From the Solar System to the Cosmos/Week 4/L11 - Terrestrial Planets, Continued.md",
     "Elements of Data Processing/imgs/pearson-vs-nmi.png",
     "Elements of Data Processing/imgs/conditional-entropy.png",
     "From the Solar System to the Cosmos/imgs/Interstellar Travel.png",
     "From the Solar System to the Cosmos/imgs/Gravitational field spacetime.png",
-    "From the Solar System to the Cosmos/Week 6/L18 - Special and General Relativity.md",
-    "Declarative Programming/Haskell/L1 - Introduction to Functional Programming.md",
-    "Probability/Week 5 Summary.md",
-    "Declarative Programming/Prolog/L7 - Higher Order Programming.md",
-    "Declarative Programming/Prolog/L8 - Constraint Logic Programming.md",
-    "Declarative Programming/Prolog/L5 - Debugging and Efficiency.md",
-    "From the Solar System to the Cosmos/Week 6/L17 - Special Relativity.md",
     "From the Solar System to the Cosmos/Week 6",
     "From the Solar System to the Cosmos/Week 5",
     "From the Solar System to the Cosmos/Week 4",
@@ -192,7 +193,6 @@
     "From the Solar System to the Cosmos/imgs/Keeling Curve.png",
     "Declarative Programming/imgs",
     "Elements of Data Processing/imgs",
-    "Elements of Data Processing/Workshops",
-    "Elements of Data Processing/Lectures"
+    "Elements of Data Processing/Workshops"
   ]
 }
