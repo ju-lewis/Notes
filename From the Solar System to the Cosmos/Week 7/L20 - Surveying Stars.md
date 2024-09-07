@@ -62,7 +62,7 @@ So we can now determine luminosity for our H-R Diagram! *But how we determine te
 
 ### Determining Stellar Temperature
 
-- Blackbody radiation peak
+- Blackbody radiation peak - (Wein's Law), good in theory, difficult in practice
 - Presence of spectral absorption lines
 	- Atoms and molecules are fragile
 	- If there are lots of absorption lines then there are lots of different types of atoms/molecules

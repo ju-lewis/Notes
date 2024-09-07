@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability/Week 6 Summary.md",
+                "file": "From the Solar System to the Cosmos/Week 7/L21 - Surveying Stars Continued.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability/Week 6 Summary.md",
+                "file": "From the Solar System to the Cosmos/Week 7/L21 - Surveying Stars Continued.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability/Week 6 Summary.md",
+                "file": "From the Solar System to the Cosmos/Week 7/L21 - Surveying Stars Continued.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability/Week 6 Summary.md"
+                "file": "From the Solar System to the Cosmos/Week 7/L21 - Surveying Stars Continued.md"
               }
             }
           }
@@ -148,14 +148,15 @@
   },
   "active": "62a07ec1da9ca0b9",
   "lastOpenFiles": [
-    "Probability/Week 5 Summary.md",
-    "Probability/Week 6 Summary.md",
-    "Probability/Week 7 Summary.md",
     "From the Solar System to the Cosmos/Week 7/L20 - Surveying Stars.md",
+    "From the Solar System to the Cosmos/Week 7/L19 - The Sun.md",
+    "From the Solar System to the Cosmos/Week 7/L21 - Surveying Stars Continued.md",
+    "Probability/Week 6 Summary.md",
+    "Probability/Week 5 Summary.md",
+    "Probability/Week 7 Summary.md",
     "Declarative Programming/Haskell/L3 - User-defined Types.md",
     "Declarative Programming/Haskell/L4 - Using Haskell Types.md",
     "From the Solar System to the Cosmos/Week 6/L18 - Special and General Relativity.md",
-    "From the Solar System to the Cosmos/Week 7/L19 - The Sun.md",
     "Elements of Data Processing/Lectures/L10 - Continued Clustering.md",
     "From the Solar System to the Cosmos/Week 7",
     "Elements of Data Processing/Lectures/L9 - Data Analysis.md",
@@ -175,7 +176,6 @@
     "From the Solar System to the Cosmos/Week 5/L14 - Asteroids, Comets, and Dwarf Planets.md",
     "From the Solar System to the Cosmos/Week 3/L7 - Solar System Overview.md",
     "From the Solar System to the Cosmos/Week 2/L5 - Laws of Motion.md",
-    "From the Solar System to the Cosmos/Week 1/L3 & L4 - Kepler's Laws and Orbital Motion.md",
     "Elements of Data Processing/imgs/pearson-vs-nmi.png",
     "Elements of Data Processing/imgs/conditional-entropy.png",
     "From the Solar System to the Cosmos/imgs/Interstellar Travel.png",
