@@ -101,7 +101,7 @@ Much shorter than low mass stars
 - Concentric shells of increasing temperature and pressure produce heavier and heavier elements.
 - The energy created by each shell sustains pressure
 
-Succesive shells are hotter, denser, and shorter lived
+Successive shells are hotter, denser, and shorter lived
 - H -> He lasts 8.1 Myr
 - Si -> Fe lasts *11 days* (at 3.3 BILLION K)
 
@@ -111,7 +111,7 @@ Iron doesn't release much energy through either fission or fusion
 Electron degeneracy pressure supports the star for a bit
 - until iron core gets too heavy
 
-Eventually when the pressure is large enough, iron atoms get compressed into *pure neutrons*
+Eventually when the pressure is large enough, iron atoms get compressed into *pure neutrons* (Regular matter becomes *neutronium*)
 
 protons + electrons -> neutrons + neutrinos
 
@@ -121,6 +121,7 @@ protons + electrons -> neutrons + neutrinos
 The collapse is stopped very abruptly by neutron degeneracy pressure.
 
 This causes a massive explosion (supernova)
+- The supernova is the light atmosphere 'bouncing' off the heavy core
 - *All* heavier elements are produced in mere seconds.
 
 

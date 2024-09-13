@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Declarative Programming/Haskell/L4 - Using Haskell Types.md",
+                "file": "From the Solar System to the Cosmos/Week 7/L20 - Surveying Stars.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Declarative Programming/Haskell/L4 - Using Haskell Types.md",
+                "file": "From the Solar System to the Cosmos/Week 7/L20 - Surveying Stars.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Declarative Programming/Haskell/L4 - Using Haskell Types.md",
+                "file": "From the Solar System to the Cosmos/Week 7/L20 - Surveying Stars.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Declarative Programming/Haskell/L4 - Using Haskell Types.md"
+                "file": "From the Solar System to the Cosmos/Week 7/L20 - Surveying Stars.md"
               }
             }
           }
@@ -148,32 +148,33 @@
   },
   "active": "62a07ec1da9ca0b9",
   "lastOpenFiles": [
-    "Declarative Programming/Haskell/L5 - Adapting to Declarative Programming.md",
-    "Declarative Programming/Haskell/L6 - Polymorphism.md",
-    "Declarative Programming/Haskell/L4 - Using Haskell Types.md",
-    "Declarative Programming/Haskell/L3 - User-defined Types.md",
-    "Declarative Programming/Haskell/L2 - Introduction to Haskell Types.md",
-    "Declarative Programming/Haskell/L1 - Introduction to Functional Programming.md",
-    "Elements of Data Processing/Lectures/L15 - Regression.md",
-    "Probability/Week 7 Summary.md",
+    "From the Solar System to the Cosmos/Week 7/L21 - Surveying Stars Continued.md",
+    "From the Solar System to the Cosmos/Week 7/L20 - Surveying Stars.md",
     "From the Solar System to the Cosmos/Week 8/L22 - The Birth of Stars.md",
+    "From the Solar System to the Cosmos/Week 7/L19 - The Sun.md",
     "From the Solar System to the Cosmos/Week 8/L24 - The Death of Stars.md",
     "From the Solar System to the Cosmos/Week 8/L23 - The Lives of Stars.md",
-    "Elements of Data Processing/Lectures/L6 - More Text Processing.md",
-    "Elements of Data Processing/Lectures/L5 - Text Processing.md",
-    "Elements of Data Processing/Lectures/L7 - Document Processing (Unstructured Data).md",
+    "From the Solar System to the Cosmos/Subject Overview.md",
     "Probability/Week 8 Summary.md",
-    "Misc/Vector Calculus Exams Notes.md",
-    "Elements of Data Processing/Lectures/L12 - Mutual Information.md",
-    "Elements of Data Processing/Lectures/L13 - Classification Methodologies.md",
-    "Elements of Data Processing/Lectures/L14 - Classifiers Continued.md",
+    "Probability/Week 7 Summary.md",
     "Elements of Data Processing/Workshops/W7 - Machine Learning.md",
-    "Elements of Data Processing/Workshops/W6 - Correlation.md",
-    "Probability/Week 5 Summary.md",
-    "Probability/Week 6 Summary.md",
+    "From the Solar System to the Cosmos/Week 8/L22 - Stellar Formation Overview.md",
+    "Declarative Programming/Haskell/L5 - Adapting to Declarative Programming.md",
+    "From the Solar System to the Cosmos/Week 8/Untitled",
     "From the Solar System to the Cosmos/Week 8",
+    "From the Solar System to the Cosmos/Untitled.md",
+    "Untitled.md",
+    "Declarative Programming/Haskell/L4 - Using Haskell Types.md",
+    "Declarative Programming/Haskell/L7 - Higher Order Functions.md",
+    "Declarative Programming/Haskell/L6 - Polymorphism.md",
+    "Declarative Programming/Haskell/L3 - User-defined Types.md",
+    "Elements of Data Processing/Lectures/L15 - Regression.md",
+    "Elements of Data Processing/Lectures/L14 - Classifiers Continued.md",
     "Elements of Data Processing/Assignment 2 - Research Project.md",
-    "Elements of Data Processing/Subject Overview.md",
+    "Elements of Data Processing/Workshops/W6 - Correlation.md",
+    "Probability/Week 6 Summary.md",
+    "Probability/Week 5 Summary.md",
+    "From the Solar System to the Cosmos/Week 6/L18 - Special and General Relativity.md",
     "Elements of Data Processing/Lectures/L10 - Continued Clustering.md",
     "From the Solar System to the Cosmos/Week 7",
     "Elements of Data Processing/imgs/decision-tree-split.png",
@@ -192,7 +193,6 @@
     "From the Solar System to the Cosmos/imgs/Blackbody Radiation.png",
     "Elements of Data Processing/imgs/VAT ordering.png",
     "From the Solar System to the Cosmos/imgs/Keeling Curve.png",
-    "Declarative Programming/imgs",
-    "Elements of Data Processing/imgs"
+    "Declarative Programming/imgs"
   ]
 }
