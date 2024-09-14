@@ -2,6 +2,17 @@
 
 ## Bivariate Random Variables
 
+Bivariate random variables are pairs of random variables that are fundamentally linked.
+- If we know the distribution of $X$ and the distribution of $Y$ (the *marginal distributions*), we don't necessarily know the distribution of $(X, Y)$
+
+Marginal distributions can be determined by considering the probability distribution of 1 variable across all possible instances of the other variable:
+
+**Discrete case:**
+$$p_X(x) = \sum_{y \in S_Y}{P(X = x, Y=y)}$$
+
+**Continuous case:**
+$$f_X(x) = \int_{-\infty}^{\infty}{f_{(X, Y)}(x,y)}dy$$
+
 
 ### Discrete Bivariate Random Variables
 
@@ -41,5 +52,6 @@ Continuous bivariate random variables have a *bivariate probability density func
 **Computing cumulative probability**
 $$F(x,y) = \int^{b}_{a}{\int^{d}_{c}{f(x,y)} \ dx} \ dy$$
 Remember, order of integration can be changed according to Fubini's theorem!
+
 
 
