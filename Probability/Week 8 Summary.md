@@ -13,6 +13,6 @@ If $\rho$ is 0, the PDF's contour plot forms a set of concentric circles
 
 ## General Bivariate Normal Distribution
 
-$$(X, Y) \sim N_2(\mu_1, \mu_2, \sigma_1, \sigma_2)$$
+$$(X, Y) \sim N_2(\rho, \mu_1, \mu_2, \sigma_1, \sigma_2)$$
 
 

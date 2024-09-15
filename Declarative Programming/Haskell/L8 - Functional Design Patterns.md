@@ -136,4 +136,3 @@ plugin3 = ...
 Framework is simply a library function
 - No code is generated, we're just using higher order functions!
 
-
