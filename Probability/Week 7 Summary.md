@@ -55,3 +55,19 @@ Remember, order of integration can be changed according to Fubini's theorem!
 
 
 
+## Conditional Distributions
+
+We have previously established we can condition probability on events (e.g. $P(A|B)$)
+This also applies to random variables.
+
+Given a bivariate distribution $(X, Y)$ with:
+- PMF (for *discrete case*) $p_{(X,Y)}(x,y)$
+- PDF (for *continuous case*) $f_{(X,Y)}(x,y)$
+
+$$p_{X|Y}(x|y) = \frac{p_{(X,Y)}(x,y)}{p_{y}(y)}$$
+$$f_{X|Y}(x|y) = \frac{f_{(X,Y)}(x,y)}{f_{y}(y)}$$
+
+
+
+
+
