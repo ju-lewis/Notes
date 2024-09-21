@@ -48,8 +48,6 @@ In the early 1900s we weren't sure if "spiral nebulae" were inside the Milky Way
 **Spirals**
 - Disk
 	- Contains spiral arms
-	- Gas and dust
-	- Extremely thin (~1000 ly) compared to diameter (~ 100,000 ly)
 - Bulge and Halo
 	- Globular clusters
 
