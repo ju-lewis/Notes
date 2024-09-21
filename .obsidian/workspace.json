@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "From the Solar System to the Cosmos/Week 9/L25 - Black Holes.md",
+                "file": "Elements of Data Processing/Lectures/L17 - LLMs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "From the Solar System to the Cosmos/Week 9/L25 - Black Holes.md",
+                "file": "Elements of Data Processing/Lectures/L17 - LLMs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "From the Solar System to the Cosmos/Week 9/L25 - Black Holes.md",
+                "file": "Elements of Data Processing/Lectures/L17 - LLMs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "From the Solar System to the Cosmos/Week 9/L25 - Black Holes.md"
+                "file": "Elements of Data Processing/Lectures/L17 - LLMs.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   "active": "62a07ec1da9ca0b9",
   "lastOpenFiles": [
     "Probability/Week 8 Summary.md",
+    "Elements of Data Processing/Lectures/L17 - LLMs.md",
+    "From the Solar System to the Cosmos/Week 9/L26 - The Milky Way.md",
     "From the Solar System to the Cosmos/Week 9/L25 - Black Holes.md",
     "From the Solar System to the Cosmos/Week 9",
     "Probability/Week 7 Summary.md",
@@ -173,8 +175,6 @@
     "Misc/Vector Calculus Exams Notes.md",
     "Elements of Data Processing/Lectures/L12 - Mutual Information.md",
     "Elements of Data Processing/Lectures/L13 - Classification Methodologies.md",
-    "Elements of Data Processing/Lectures/L14 - Classifiers Continued.md",
-    "Elements of Data Processing/Workshops/W7 - Machine Learning.md",
     "From the Solar System to the Cosmos/Week 8",
     "From the Solar System to the Cosmos/Week 7",
     "Elements of Data Processing/imgs/decision-tree-split.png",
