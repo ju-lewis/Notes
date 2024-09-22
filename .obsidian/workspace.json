@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "From the Solar System to the Cosmos/Week 9/L27 - Other Galaxies.md",
+                "file": "Probability/Week 9 Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "From the Solar System to the Cosmos/Week 9/L27 - Other Galaxies.md",
+                "file": "Probability/Week 9 Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "From the Solar System to the Cosmos/Week 9/L27 - Other Galaxies.md",
+                "file": "Probability/Week 9 Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "From the Solar System to the Cosmos/Week 9/L27 - Other Galaxies.md"
+                "file": "Probability/Week 9 Summary.md"
               }
             }
           }
@@ -146,21 +146,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2dc6831b1d2a9c63",
+  "active": "62a07ec1da9ca0b9",
   "lastOpenFiles": [
+    "Probability/Week 8 Summary.md",
+    "Probability/Week 9 Summary.md",
+    "From the Solar System to the Cosmos/Week 9/L27 - Other Galaxies.md",
+    "Declarative Programming/Haskell/L8 - Functional Design Patterns.md",
     "From the Solar System to the Cosmos/imgs/Quasar.png",
     "From the Solar System to the Cosmos/imgs/Gas Recycling.png",
     "From the Solar System to the Cosmos/imgs/Hubble Galaxies.png",
     "From the Solar System to the Cosmos/Week 9/L26 - The Milky Way.md",
-    "From the Solar System to the Cosmos/Week 9/L27 - Other Galaxies.md",
-    "Probability/Week 8 Summary.md",
     "From the Solar System to the Cosmos/Week 9/L25 - Black Holes.md",
     "From the Solar System to the Cosmos/Week 9",
     "Elements of Data Processing/Lectures/L17 - LLMs.md",
     "Probability/Week 7 Summary.md",
     "Probability/Week 5 Summary.md",
     "Probability/Week 4 Summary.md",
-    "Declarative Programming/Haskell/L8 - Functional Design Patterns.md",
     "Elements of Data Processing/Lectures/L16 - ML Continued.md",
     "Elements of Data Processing/Lectures/L15 - Regression.md",
     "Declarative Programming/Haskell/L4 - Using Haskell Types.md",
@@ -192,7 +193,6 @@
     "From the Solar System to the Cosmos/Week 1",
     "From the Solar System to the Cosmos/imgs/Angular Resolution.png",
     "From the Solar System to the Cosmos/imgs/Ionization Graph.png",
-    "From the Solar System to the Cosmos/imgs/Blackbody Radiation.png",
     "Declarative Programming/imgs"
   ]
 }

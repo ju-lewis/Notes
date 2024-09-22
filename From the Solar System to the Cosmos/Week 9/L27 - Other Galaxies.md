@@ -129,6 +129,23 @@ Emitted radio jets are far larger than the galaxy.
 
 ### How are SMBHs found?
 
+We don't know anything larger than $10^3-10^4 M_{Sun}$ black holes form
+- Combining lower mass black holes maxes out around here
+
 Will the Milk Way ever become an active galaxy?
 - Maybe
-- 
+- Sagittarius A* is large enough to power a modest quasar
+- Not really enough gas in the inner galaxy to feed a SMBH into AGN activity
+
+*However*
+we have observed giant gamma ray bubbles above and below the milky way
+- Implying previous AGN activity
+
+
+**Remaining Questions:**
+- Do all galaxies have SMBHs?
+	- *Probably all large ones*
+- How do you form SMBHs?
+- Where are all the intermediate mass BHs?
+- What is the "*duty cycle*" of AGN activity?
+	- How often are they turned on vs dormant?
