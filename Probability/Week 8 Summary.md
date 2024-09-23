@@ -53,10 +53,14 @@ $$F_G(g) = \sum_{x \in S_X}{P(\psi(x,Y) \leq g \ | \ X = x)}P(X = x)$$
 
 **Continuous Case**:
 $$F_G(g) = \int_{S_X}{P(\psi(x,Y) \leq g \ | \ X = x)}f_X(x)dx$$
+
 As we've conditioned $\psi(X,Y)$ on $X$ taking the value $x$, we have effectively removed one random variable from the equation - as we're using the *law of total probability* to consider all possible instances of $X$ (and their corresponding likelihood).
 
+>[!example] Note
+>Remember we can condition on the value of a continuous random variable (e.g. $X = x$) because we're assuming it to have taken that value already.
+
 This means we can compute the inverse function of $\psi$ allowing us to transform the expression:
-$$P(\psi(X,Y) \leq g \ | \ X = x)$$
+$$P(\psi(x,Y) \leq g \ | \ X = x)$$
 to isolate $Y$ in the form:
 $$P(Y \leq \ ... \ | \ X = x)$$
 Now we have an expression only dependent on the *marginal distributions*
@@ -71,7 +75,6 @@ Now we have an expression only dependent on the *marginal distributions*
 >$$F_G(g) = \sum_{x \in S_X}{P(Y \leq \ ...)P(X = x)}$$
 >
 >Where the instance of $Y$ is a kind of inverse application of $\psi$
-
 
 
 
