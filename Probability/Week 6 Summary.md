@@ -6,7 +6,7 @@
 
 $$X \sim \text{Pareto}(\alpha, \gamma)$$
 $\alpha$ describes the 'starting point' (as $x \geq \alpha$)
-$\gamma$ is the *decay rate* ($\gamma > 0$)
+$\gamma$ is the *decay rate* ($\gamma > 0$) (the smaller the value of $\gamma$, the heavier the tail)
 
 *How does it increase tail probability?*
 - The distribution is no longer exponential, rather a *power function*

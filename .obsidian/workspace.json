@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Declarative Programming/Haskell/L10 - Monads.md",
+                "file": "Probability/Week 9 Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Declarative Programming/Haskell/L10 - Monads.md",
+                "file": "Probability/Week 9 Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Declarative Programming/Haskell/L10 - Monads.md",
+                "file": "Probability/Week 9 Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Declarative Programming/Haskell/L10 - Monads.md"
+                "file": "Probability/Week 9 Summary.md"
               }
             }
           }
@@ -148,8 +148,20 @@
   },
   "active": "41f8efd8cd113ba8",
   "lastOpenFiles": [
-    "Declarative Programming/Haskell/L9 - Exploiting the Type System.md",
+    "Probability/Week 2 Summary.md",
+    "Probability/Week 1 Summary.md",
+    "Probability/Topics for Revision.md",
+    "Probability/Week 5 Summary.md",
+    "Probability/Week 3 Summary.md",
+    "Probability/Week 4 Summary.md",
+    "Probability/Week 6 Summary.md",
+    "Probability/Week 7 Summary.md",
+    "Probability/Week 8 Summary.md",
+    "Probability/Week 9 Summary.md",
+    "Probability/imgs",
+    "Probability/imgs/conditional-expectation.png",
     "Declarative Programming/Haskell/L10 - Monads.md",
+    "Declarative Programming/Haskell/L9 - Exploiting the Type System.md",
     "Elements of Data Processing/Lectures/L18 - Generative Language Models.md",
     "Elements of Data Processing/Lectures/L17 - LLMs.md",
     "Elements of Data Processing/Lectures/L1 - Foundations.md",
@@ -157,12 +169,6 @@
     "From the Solar System to the Cosmos/Week 8/L23 - The Lives of Stars.md",
     "From the Solar System to the Cosmos/Week 8/L24 - The Death of Stars.md",
     "From the Solar System to the Cosmos/Week 9/L26 - The Milky Way.md",
-    "Probability/Week 9 Summary.md",
-    "Probability/Week 8 Summary.md",
-    "Probability/Week 5 Summary.md",
-    "Probability/Week 6 Summary.md",
-    "Probability/Week 4 Summary.md",
-    "Probability/Week 7 Summary.md",
     "From the Solar System to the Cosmos/Week 9/L27 - Other Galaxies.md",
     "Declarative Programming/Haskell/L8 - Functional Design Patterns.md",
     "From the Solar System to the Cosmos/imgs/Quasar.png",
@@ -175,10 +181,6 @@
     "Declarative Programming/Haskell/L4 - Using Haskell Types.md",
     "Declarative Programming/Haskell/L5 - Adapting to Declarative Programming.md",
     "Declarative Programming/Haskell/L6 - Polymorphism.md",
-    "Declarative Programming/Haskell/L3 - User-defined Types.md",
-    "Declarative Programming/Haskell/L2 - Introduction to Haskell Types.md",
-    "Declarative Programming/Haskell/L1 - Introduction to Functional Programming.md",
-    "From the Solar System to the Cosmos/Week 8/L22 - The Birth of Stars.md",
     "From the Solar System to the Cosmos/Week 8",
     "From the Solar System to the Cosmos/Week 7",
     "Elements of Data Processing/imgs/decision-tree-split.png",
@@ -191,8 +193,6 @@
     "From the Solar System to the Cosmos/Week 4",
     "From the Solar System to the Cosmos/Week 3",
     "From the Solar System to the Cosmos/Week 2",
-    "From the Solar System to the Cosmos/Week 1",
-    "From the Solar System to the Cosmos/imgs/Angular Resolution.png",
-    "Declarative Programming/imgs"
+    "From the Solar System to the Cosmos/Week 1"
   ]
 }
