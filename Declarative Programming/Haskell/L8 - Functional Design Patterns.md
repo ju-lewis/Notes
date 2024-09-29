@@ -17,6 +17,11 @@ Balanced fold: $((X_1 \odot X_2) \odot (X_3 \odot X_4)) \odot ...$
 
 This works when $\odot$ is any *binary* (two argument) function and $I$ is the *identity* value.
 
+
+>[!note]
+>`foldr` is almost always preferred (compared to `foldl`), as `foldr` traverses from the head to the tail of the list, accumulating on the right side - meaning we could 'stop execution' at any point and still have a value (lazy evaluation). `foldl` forces us to compute the entire list in order to return a value, since you start at the most 'deeply nested' point.
+
+
 **Built-in folds:**
 `sum`
 `product`

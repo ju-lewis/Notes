@@ -45,6 +45,12 @@ $$p_{X,Y}(x,y) = p_X(x)p_Y(y)$$
 $$\text{cov}(X,Y) = E(XY)-E(X)E(Y)$$
 $$\text{cov(X, Y)} = E[(X-\mu_X)(Y-\mu_Y)]$$
 
+Remember that $\text{cov}(X, Y)$ describes the *relationship* between these variables - so we can examine the effect of the variance of a sum of RVs:
+$$V(X + Y) = V(X) + V(Y) + 2\text{cov}(X, Y)$$
+
+
+
+
 
 $\text{Independence } \implies \text{cov}(X, Y) = 0$
 $\text{cov(X,Y) = 0} \ \ \not \! \! \! \implies \text{ independence}$
