@@ -124,17 +124,29 @@ Since the distribution of $E(X|Y)$ is dependent on $Y$, $P(E(X|Y) = \eta(y)) = p
 >[!note]
 >If $Y$ is discrete, $E(X|Y)$ takes value $\eta(y)$ with probability $p_Y(y)$
 
-$E(\eta(Y)) = E(E(X \vert Y)) = E(X)$
-
-
 
 ### Conditional Variance
+
+
+In the same way we can examine the expectation of $X$ given that $Y$ has taken a value $y$, we can look at the effect of conditioning variance on $Y$:
+
+$$v(y) = V(X|Y=y) = E(X^2|Y=y)-E(X|Y=y)^2$$
+**Discrete Case**
+$$E(X|Y=y)=\sum_{x\in S_X}xp_{X|Y}(x|y)$$
+$$E(X^2|Y=y)=\sum_{x\in S_X}x^2p_{X|Y}(x|y)$$
+**Continuous Case**
+$$E(X|Y=y)=\int_{-\infty}^{\infty}{xf_{X|Y}(x|y)}dx$$
+$$E(X^2|Y=y)=\int_{-\infty}^{\infty}{x^2f_{X|Y}(x|y)}dx$$
+
+
 
 $V(\eta(Y)) = E(\eta(Y)^2) - E(\eta(Y))^2$
 $\ \ \ \ \ \ \ \ \ \ \ \ \ \  =E(\eta(Y)^2)-E(X)^2$   Using our previous identity
 
 
-
->[!example] Important Identity
+>[!example] Important Identities
+>#### Law of Total Expectation
+$E(\eta(Y)) = E(E(X \vert Y)) = E(X)$
+>#### Law of Total Variance
 > $V(E(X \vert Y)) + E(V(X \vert Y)) = V(X)$
 
