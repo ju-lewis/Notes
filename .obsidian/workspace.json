@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability/Week 9 Summary.md",
+                "file": "Elements of Data Processing/Lectures/L19 - Recommender Systems.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability/Week 9 Summary.md",
+                "file": "Elements of Data Processing/Lectures/L19 - Recommender Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability/Week 9 Summary.md",
+                "file": "Elements of Data Processing/Lectures/L19 - Recommender Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability/Week 9 Summary.md"
+                "file": "Elements of Data Processing/Lectures/L19 - Recommender Systems.md"
               }
             }
           }
@@ -148,6 +148,13 @@
   },
   "active": "41f8efd8cd113ba8",
   "lastOpenFiles": [
+    "Probability/Week 10 Summary.md",
+    "Elements of Data Processing/Lectures/L19 - Recommender Systems.md",
+    "Probability/Week 9 Summary.md",
+    "Elements of Data Processing/Lectures/L11 - Correlations.md",
+    "Elements of Data Processing/Workshops/W6 - Correlation.md",
+    "Elements of Data Processing/Workshops/W5 - Clustering.md",
+    "Elements of Data Processing/Workshops/W7 - Machine Learning.md",
     "Declarative Programming/Haskell/L10 - Monads.md",
     "Declarative Programming/Haskell/L8 - Functional Design Patterns.md",
     "Probability/imgs/conditional-expectation.png",
@@ -162,7 +169,6 @@
     "From the Solar System to the Cosmos/Week 8/L23 - The Lives of Stars.md",
     "From the Solar System to the Cosmos/Week 8/L24 - The Death of Stars.md",
     "From the Solar System to the Cosmos/Week 9/L26 - The Milky Way.md",
-    "Probability/Week 9 Summary.md",
     "Probability/Week 8 Summary.md",
     "Probability/Week 5 Summary.md",
     "Probability/Week 6 Summary.md",
@@ -175,11 +181,6 @@
     "From the Solar System to the Cosmos/Week 9/L25 - Black Holes.md",
     "From the Solar System to the Cosmos/Week 9",
     "Elements of Data Processing/Lectures/L16 - ML Continued.md",
-    "Elements of Data Processing/Lectures/L15 - Regression.md",
-    "Declarative Programming/Haskell/L4 - Using Haskell Types.md",
-    "Declarative Programming/Haskell/L6 - Polymorphism.md",
-    "Declarative Programming/Haskell/L3 - User-defined Types.md",
-    "Declarative Programming/Haskell/L2 - Introduction to Haskell Types.md",
     "From the Solar System to the Cosmos/Week 8",
     "From the Solar System to the Cosmos/Week 7",
     "Elements of Data Processing/imgs/decision-tree-split.png",
