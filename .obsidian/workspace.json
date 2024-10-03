@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "92e6fb008dde2dc7",
+    "id": "b83c8ddbcbb77097",
     "type": "split",
     "children": [
       {
-        "id": "093789a15e85427a",
+        "id": "33e6e40157929f6e",
         "type": "tabs",
         "children": [
           {
-            "id": "41f8efd8cd113ba8",
+            "id": "b150ed0bd490e0ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elements of Data Processing/Lectures/L19 - Recommender Systems.md",
+                "file": "From the Solar System to the Cosmos/Week 10/L29 - Galaxy Formation.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "602d7ba6836aceac",
+    "id": "36ef329368b68662",
     "type": "split",
     "children": [
       {
-        "id": "487b0ca5dfd22bdc",
+        "id": "a1c2d51b5c0bcf3a",
         "type": "tabs",
         "children": [
           {
-            "id": "2dc6831b1d2a9c63",
+            "id": "6c97bbfdf07a7dc8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "5109b06c58331451",
+            "id": "5756be5d8d6576b5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "6139a79235f9f4af",
+            "id": "fc12e502eebba113",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "810f95506c44441e",
+    "id": "2188a648274fc901",
     "type": "split",
     "children": [
       {
-        "id": "36f061623f4c6631",
+        "id": "1c38f600e4451aec",
         "type": "tabs",
         "children": [
           {
-            "id": "7fd69a55a31de020",
+            "id": "6f2966646477c401",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elements of Data Processing/Lectures/L19 - Recommender Systems.md",
+                "file": "From the Solar System to the Cosmos/Week 10/L29 - Galaxy Formation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "6358757026677a43",
+            "id": "950b98a0580e065b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elements of Data Processing/Lectures/L19 - Recommender Systems.md",
+                "file": "From the Solar System to the Cosmos/Week 10/L29 - Galaxy Formation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "7b8e2a191049e715",
+            "id": "d86063875c059623",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "7376c577de7a4cbc",
+            "id": "e3a3b8e9abbd0357",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Elements of Data Processing/Lectures/L19 - Recommender Systems.md"
+                "file": "From the Solar System to the Cosmos/Week 10/L29 - Galaxy Formation.md"
               }
             }
           }
@@ -146,69 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "41f8efd8cd113ba8",
+  "active": "b150ed0bd490e0ea",
   "lastOpenFiles": [
-    "Probability/Week 10 Summary.md",
-    "Elements of Data Processing/Lectures/L19 - Recommender Systems.md",
-    "Probability/Week 9 Summary.md",
-    "Elements of Data Processing/Lectures/L11 - Correlations.md",
-    "Elements of Data Processing/Workshops/W6 - Correlation.md",
-    "Elements of Data Processing/Workshops/W5 - Clustering.md",
-    "Elements of Data Processing/Workshops/W7 - Machine Learning.md",
-    "Declarative Programming/Haskell/L10 - Monads.md",
-<<<<<<< HEAD
-    "Declarative Programming/Haskell/L9 - Exploiting the Type System.md",
-    "Probability/Week 9 Summary.md",
-    "Probability/Week 2 Summary.md",
-    "Probability/Week 1 Summary.md",
-    "Probability/Topics for Revision.md",
-    "Probability/Week 5 Summary.md",
-    "Probability/Week 3 Summary.md",
-    "Probability/Week 4 Summary.md",
-    "Probability/Week 6 Summary.md",
-    "Probability/Week 7 Summary.md",
-    "Probability/Week 8 Summary.md",
-    "Probability/imgs",
-    "Probability/imgs/conditional-expectation.png",
-=======
-    "Declarative Programming/Haskell/L8 - Functional Design Patterns.md",
-    "Probability/imgs/conditional-expectation.png",
-    "Probability/imgs",
-    "Declarative Programming/Haskell/L7 - Higher Order Functions.md",
-    "Declarative Programming/Haskell/L5 - Adapting to Declarative Programming.md",
-    "Declarative Programming/Haskell/L9 - Exploiting the Type System.md",
->>>>>>> eec0039878fa279f2b575c27518fdc1cc3750d77
-    "Elements of Data Processing/Lectures/L18 - Generative Language Models.md",
-    "Elements of Data Processing/Lectures/L17 - LLMs.md",
-    "Elements of Data Processing/Lectures/L1 - Foundations.md",
-    "Elements of Data Processing/imgs/unicode.png",
-    "From the Solar System to the Cosmos/Week 8/L23 - The Lives of Stars.md",
-    "From the Solar System to the Cosmos/Week 8/L24 - The Death of Stars.md",
-    "From the Solar System to the Cosmos/Week 9/L26 - The Milky Way.md",
-    "Probability/Week 8 Summary.md",
-    "Probability/Week 5 Summary.md",
-    "Probability/Week 6 Summary.md",
-    "Probability/Week 4 Summary.md",
-    "Probability/Week 7 Summary.md",
     "From the Solar System to the Cosmos/Week 9/L27 - Other Galaxies.md",
-    "From the Solar System to the Cosmos/imgs/Quasar.png",
-    "From the Solar System to the Cosmos/imgs/Gas Recycling.png",
-    "From the Solar System to the Cosmos/imgs/Hubble Galaxies.png",
-    "From the Solar System to the Cosmos/Week 9/L25 - Black Holes.md",
-    "From the Solar System to the Cosmos/Week 9",
-    "Elements of Data Processing/Lectures/L16 - ML Continued.md",
-    "From the Solar System to the Cosmos/Week 8",
-    "From the Solar System to the Cosmos/Week 7",
-    "Elements of Data Processing/imgs/decision-tree-split.png",
-    "Elements of Data Processing/imgs/pearson-vs-nmi.png",
-    "Elements of Data Processing/imgs/conditional-entropy.png",
-    "From the Solar System to the Cosmos/imgs/Interstellar Travel.png",
-    "From the Solar System to the Cosmos/imgs/Gravitational field spacetime.png",
-    "From the Solar System to the Cosmos/Week 6",
-    "From the Solar System to the Cosmos/Week 5",
-    "From the Solar System to the Cosmos/Week 4",
-    "From the Solar System to the Cosmos/Week 3",
-    "From the Solar System to the Cosmos/Week 2",
-    "From the Solar System to the Cosmos/Week 1"
+    "From the Solar System to the Cosmos/Week 10/L29 - Galaxy Formation.md",
+    "From the Solar System to the Cosmos/Week 10/L28 - Space Exploration.md",
+    "From the Solar System to the Cosmos/Week 10"
   ]
 }

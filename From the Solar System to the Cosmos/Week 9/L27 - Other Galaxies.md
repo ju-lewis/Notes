@@ -48,7 +48,6 @@ Hubble came up with the **'tuning fork'** diagram..
 
 ![[Hubble Galaxies.png]]
 
-
 ## Nebulae
 
 ### Warm gas and dust
