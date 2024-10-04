@@ -16,4 +16,6 @@ Instances of a random variable become less and less likely the further they are 
 
 
 
+## Probability Generating Functions
+
 
