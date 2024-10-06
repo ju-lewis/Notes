@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Declarative Programming/Haskell/L11 - Monads, continued.md",
+                "file": "Probability/Week 4 Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Declarative Programming/Haskell/L11 - Monads, continued.md",
+                "file": "Probability/Week 4 Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Declarative Programming/Haskell/L11 - Monads, continued.md",
+                "file": "Probability/Week 4 Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Declarative Programming/Haskell/L11 - Monads, continued.md"
+                "file": "Probability/Week 4 Summary.md"
               }
             }
           }
@@ -148,14 +148,16 @@
   },
   "active": "b150ed0bd490e0ea",
   "lastOpenFiles": [
-    "Declarative Programming/Haskell/L10 - Monads.md",
+    "Probability/Week 3 Summary.md",
+    "Probability/Week 4 Summary.md",
+    "Probability/Week 10 Summary.md",
     "Declarative Programming/Haskell/L11 - Monads, continued.md",
+    "Declarative Programming/Haskell/L10 - Monads.md",
     "Declarative Programming/Haskell/L9 - Exploiting the Type System.md",
     "Declarative Programming/Haskell/L6 - Polymorphism.md",
     "Declarative Programming/Haskell/L2 - Introduction to Haskell Types.md",
     "Declarative Programming/Haskell/L8 - Functional Design Patterns.md",
     "Design of Algorithms/Lectures.md",
-    "Probability/Week 10 Summary.md",
     "Elements of Data Processing/Lectures/L20 - Assignment 2.md",
     "From the Solar System to the Cosmos/Week 10/L30 - Dark Matter.md",
     "From the Solar System to the Cosmos/Week 10/L29 - Galaxy Formation.md",

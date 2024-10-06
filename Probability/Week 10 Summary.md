@@ -16,6 +16,13 @@ Instances of a random variable become less and less likely the further they are 
 
 
 
-## Probability Generating Functions
+## Generating Functions
+
+### Overview
+### Probability Generating Function
+### Moment Generating Function
+### Central Moment Generating Function
+### Cumulant Generating Function
+
 
 
