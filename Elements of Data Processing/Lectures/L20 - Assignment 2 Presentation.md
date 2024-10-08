@@ -24,6 +24,18 @@ Part 2 - Viva-style questions: (*individual* mark)
 - Showcase your *depth of understanding*
 - Clearly describe and justify methodologies
 - Respond in a confident and professional manner
+- Follow-up questions can be asked
+
+
+### Question Section:
+1-2 questions may be asked
+- 4 minutes total
+
+
+
+
+
+
 
 
 
