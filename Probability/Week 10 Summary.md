@@ -19,6 +19,10 @@ Instances of a random variable become less and less likely the further they are 
 ## Generating Functions
 
 ### Overview
+
+Generating functions unique describe a probability distribution.
+- They can be thought of like an *encoding* of the distribution
+
 ### Probability Generating Function
 ### Moment Generating Function
 ### Central Moment Generating Function
