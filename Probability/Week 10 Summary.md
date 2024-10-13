@@ -13,7 +13,7 @@ $$\psi_{\mu}(X) \approx \sum_{k=0}^{\infty}{\frac{\psi^{(k)}(\mu)}{k!}(X-\mu)^k}
 We can acceptably use a second order expansion
 ### Approximating Expectation
 $$E(\psi(X)) \approx E( \ \psi(\mu) + \psi'(\mu)(X-\mu))+\frac{1}{2}\psi''(\mu)(X-\mu)^2 \ )$$
-$$E(\psi(X)) \approx \psi(\mu) + \psi'(\mu)E(X-\mu) + \psi''(\mu)E((X-\mu)^2)$$
+$$E(\psi(X)) \approx \psi(\mu) + \psi'(\mu)E(X-\mu) + \frac{1}{2}\psi''(\mu)E((X-\mu)^2)$$
 
 ### Approximating Variance
 In a similar way, we can also use the Taylor expansion to approximate the variance

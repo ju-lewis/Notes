@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "From the Solar System to the Cosmos/Week 9/L27 - Other Galaxies.md",
+                "file": "Probability/Week 10 Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "From the Solar System to the Cosmos/Week 9/L27 - Other Galaxies.md",
+                "file": "Probability/Week 10 Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "From the Solar System to the Cosmos/Week 9/L27 - Other Galaxies.md",
+                "file": "Probability/Week 10 Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "From the Solar System to the Cosmos/Week 9/L27 - Other Galaxies.md"
+                "file": "Probability/Week 10 Summary.md"
               }
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "b150ed0bd490e0ea",
   "lastOpenFiles": [
+    "Probability/Week 9 Summary.md",
+    "Probability/Week 10 Summary.md",
+    "Probability/Week 11 Summary.md",
+    "From the Solar System to the Cosmos/Week 9/L27 - Other Galaxies.md",
     "From the Solar System to the Cosmos/Week 9/L25 - Black Holes.md",
     "From the Solar System to the Cosmos/Week 9/L26 - The Milky Way.md",
     "From the Solar System to the Cosmos/Week 8/L24 - The Death of Stars.md",
@@ -158,7 +162,6 @@
     "From the Solar System to the Cosmos/Week 10/L29 - Galaxy Formation.md",
     "From the Solar System to the Cosmos/Week 10/L28 - Space Exploration.md",
     "From the Solar System to the Cosmos/Week 11/L31 - Large Scale Structures.md",
-    "From the Solar System to the Cosmos/Week 9/L27 - Other Galaxies.md",
     "From the Solar System to the Cosmos/Week 10/L30 - Dark Matter.md",
     "Elements of Data Processing/Lectures/L22 - Privacy Continued.md",
     "Elements of Data Processing/imgs/privacy-budget.png",
@@ -170,8 +173,6 @@
     "From the Solar System to the Cosmos/imgs/Spacetime Diagram.png",
     "From the Solar System to the Cosmos/imgs/Expansion Models.png",
     "From the Solar System to the Cosmos/imgs/Pasted image 20241011133845.png",
-    "Probability/Week 10 Summary.md",
-    "Probability/Week 11 Summary.md",
     "From the Solar System to the Cosmos/Week 11/L32 - Expansion of the Universe.md",
     "From the Solar System to the Cosmos/Week 11",
     "Probability/Week 6 Summary.md",
@@ -179,7 +180,6 @@
     "Probability/Week 4 Summary.md",
     "Probability/Week 7 Summary.md",
     "Probability/Week 8 Summary.md",
-    "Probability/Week 9 Summary.md",
     "Probability/Week 3 Summary.md",
     "From the Solar System to the Cosmos/Week 10"
   ]
