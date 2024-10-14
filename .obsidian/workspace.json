@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Declarative Programming/Haskell/L14 - FFI.md",
+                "file": "Probability/Topics for Revision.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Declarative Programming/Haskell/L14 - FFI.md",
+                "file": "Probability/Topics for Revision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Declarative Programming/Haskell/L14 - FFI.md",
+                "file": "Probability/Topics for Revision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Declarative Programming/Haskell/L14 - FFI.md"
+                "file": "Probability/Topics for Revision.md"
               }
             }
           }
@@ -146,39 +146,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c97bbfdf07a7dc8",
+  "active": "b150ed0bd490e0ea",
   "lastOpenFiles": [
+    "Probability/Exam Revision Topics.md",
+    "Probability/Topics for Revision.md",
+    "Probability/Subject Overview.md",
+    "Probability/imgs/conditional-expectation.png",
+    "Probability/Week 11 Summary.md",
+    "Probability/Week 8 Summary.md",
+    "Probability/Week 10 Summary.md",
+    "Probability/Week 9 Summary.md",
+    "Probability/Week 7 Summary.md",
+    "Declarative Programming/Haskell/L14 - FFI.md",
     "Declarative Programming/imgs/ROBDD.png",
     "Declarative Programming/imgs/BDD.png",
     "Declarative Programming/Haskell/L13 - Performance and Optimisation.md",
     "Declarative Programming/Haskell/L11 - Monads, continued.md",
     "Declarative Programming/Haskell/L12 - Laziness.md",
-    "Declarative Programming/Haskell/L14 - FFI.md",
     "Declarative Programming/Prolog/L4 - Logic and Resolution.md",
-    "Probability/Week 10 Summary.md",
     "From the Solar System to the Cosmos/imgs/Spacetime Diagram.png",
     "From the Solar System to the Cosmos/Week 11/L32 - Expansion, Continued.md",
     "Elements of Data Processing/imgs/privacy-budget.png",
     "Elements of Data Processing/imgs/global-privacy.png",
     "Elements of Data Processing/Lectures/L22 - Privacy Continued.md",
-    "Probability/Week 11 Summary.md",
     "From the Solar System to the Cosmos/Week 11/L32 - Expansion of the Universe.md",
     "From the Solar System to the Cosmos/Week 11/L31 - Large Scale Structures.md",
     "From the Solar System to the Cosmos/Week 11",
     "Probability/Week 6 Summary.md",
     "Probability/Week 5 Summary.md",
     "Probability/Week 4 Summary.md",
-    "Probability/Week 7 Summary.md",
-    "Probability/Week 8 Summary.md",
-    "Probability/Week 9 Summary.md",
     "Probability/Week 3 Summary.md",
     "Probability/Week 2 Summary.md",
     "Probability/Week 1 Summary.md",
     "Elements of Data Processing/Lectures/L19 - Recommender Systems.md",
     "Elements of Data Processing/Lectures/L21 - Ethics.md",
     "Elements of Data Processing/Lectures/L20 - Assignment 2 Presentation.md",
-    "From the Solar System to the Cosmos/Week 10/L30 - Dark Matter.md",
-    "From the Solar System to the Cosmos/Week 10/L29 - Galaxy Formation.md",
     "From the Solar System to the Cosmos/Week 10"
   ]
 }
