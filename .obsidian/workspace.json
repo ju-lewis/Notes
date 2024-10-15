@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability/Topics for Revision.md",
+                "file": "Probability/Week 11 Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability/Topics for Revision.md",
+                "file": "Probability/Week 11 Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability/Topics for Revision.md",
+                "file": "Probability/Week 11 Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability/Topics for Revision.md"
+                "file": "Probability/Week 11 Summary.md"
               }
             }
           }
@@ -148,15 +148,25 @@
   },
   "active": "b150ed0bd490e0ea",
   "lastOpenFiles": [
-    "Probability/Exam Revision Topics.md",
-    "Probability/Topics for Revision.md",
-    "Probability/Subject Overview.md",
-    "Probability/imgs/conditional-expectation.png",
+    "Probability/Week 12 Summary.md",
     "Probability/Week 11 Summary.md",
-    "Probability/Week 8 Summary.md",
     "Probability/Week 10 Summary.md",
-    "Probability/Week 9 Summary.md",
+    "Elements of Data Processing/Lectures/L22 - Privacy Continued.md",
+    "Elements of Data Processing/Lectures/L21 - Ethics.md",
+    "Elements of Data Processing/Lectures/L14 - Classifiers Continued.md",
+    "Elements of Data Processing/Lectures/L17 - LLMs.md",
+    "Elements of Data Processing/Lectures/L11 - Correlations.md",
+    "Elements of Data Processing/Lectures/L12 - Mutual Information.md",
+    "Elements of Data Processing/Lectures/L20 - Assignment 2 Presentation.md",
+    "Elements of Data Processing/Lectures/L19 - Recommender Systems.md",
+    "Elements of Data Processing/Lectures/L18 - Generative Language Models.md",
+    "Elements of Data Processing/Lectures/L15 - Regression.md",
+    "Elements of Data Processing/Lectures/L10 - Continued Clustering.md",
+    "Probability/Week 5 Summary.md",
+    "Probability/Week 4 Summary.md",
+    "Probability/Week 3 Summary.md",
     "Probability/Week 7 Summary.md",
+    "Probability/Week 6 Summary.md",
     "Declarative Programming/Haskell/L14 - FFI.md",
     "Declarative Programming/imgs/ROBDD.png",
     "Declarative Programming/imgs/BDD.png",
@@ -168,19 +178,8 @@
     "From the Solar System to the Cosmos/Week 11/L32 - Expansion, Continued.md",
     "Elements of Data Processing/imgs/privacy-budget.png",
     "Elements of Data Processing/imgs/global-privacy.png",
-    "Elements of Data Processing/Lectures/L22 - Privacy Continued.md",
     "From the Solar System to the Cosmos/Week 11/L32 - Expansion of the Universe.md",
-    "From the Solar System to the Cosmos/Week 11/L31 - Large Scale Structures.md",
     "From the Solar System to the Cosmos/Week 11",
-    "Probability/Week 6 Summary.md",
-    "Probability/Week 5 Summary.md",
-    "Probability/Week 4 Summary.md",
-    "Probability/Week 3 Summary.md",
-    "Probability/Week 2 Summary.md",
-    "Probability/Week 1 Summary.md",
-    "Elements of Data Processing/Lectures/L19 - Recommender Systems.md",
-    "Elements of Data Processing/Lectures/L21 - Ethics.md",
-    "Elements of Data Processing/Lectures/L20 - Assignment 2 Presentation.md",
     "From the Solar System to the Cosmos/Week 10"
   ]
 }
