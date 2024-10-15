@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability/Week 11 Summary.md",
+                "file": "Elements of Data Processing/Lectures/L23 - Record Linkage.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability/Week 11 Summary.md",
+                "file": "Elements of Data Processing/Lectures/L23 - Record Linkage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability/Week 11 Summary.md",
+                "file": "Elements of Data Processing/Lectures/L23 - Record Linkage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability/Week 11 Summary.md"
+                "file": "Elements of Data Processing/Lectures/L23 - Record Linkage.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "b150ed0bd490e0ea",
   "lastOpenFiles": [
-    "Probability/Week 12 Summary.md",
     "Probability/Week 11 Summary.md",
+    "Elements of Data Processing/Lectures/L23 - Record Linkage.md",
+    "Probability/Week 12 Summary.md",
     "Probability/Week 10 Summary.md",
     "Elements of Data Processing/Lectures/L22 - Privacy Continued.md",
     "Elements of Data Processing/Lectures/L21 - Ethics.md",
@@ -178,7 +179,6 @@
     "From the Solar System to the Cosmos/Week 11/L32 - Expansion, Continued.md",
     "Elements of Data Processing/imgs/privacy-budget.png",
     "Elements of Data Processing/imgs/global-privacy.png",
-    "From the Solar System to the Cosmos/Week 11/L32 - Expansion of the Universe.md",
     "From the Solar System to the Cosmos/Week 11",
     "From the Solar System to the Cosmos/Week 10"
   ]
