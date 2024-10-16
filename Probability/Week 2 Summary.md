@@ -20,14 +20,14 @@ We likely won't be told to determine the mutual independence of more than 3 even
 
 ## Bayesian Probability
 
-**Law of complete probability:**
+**Law of total probability:**
 $$P(H) = \sum_{i}{P(H | A_i)P(A_i)}$$
-The law of complete probability tells us that if we know the probability of a result occurring because of specific (probabilistic) causes, we can determine the overall probability of the event H occurring.
+The law of total probability tells us that if we know the probability of a result occurring because of specific (probabilistic) causes, we can determine the overall probability of the event H occurring.
 
 
 **Bayes' Formula:**
-$$P(H|A_i) = \frac{P(H|A_i)P(A_i)}{\sum_{j}P(H|A_j)P(A_j)}$$
-This equation tells us how to compute the probability of a given 'cause', given the probabilities of the overall event (H) occurring.
+$$P(A_i|H) = \frac{P(H|A_i)P(A_i)}{\sum_{j}P(H|A_j)P(A_j)}$$
+This equation tells us how to compute the probability of a given 'cause', given the probability of the overall event (H) occurring.
 
 
 ## Random Variables
