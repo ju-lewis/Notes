@@ -115,9 +115,16 @@ $\ \ \  \ \ \ \ \ P(N(t) = k) = P(N^N(t) + N^S(t) = k) = \sum_{n \in S_{N^N(t)}}
 ## Question 5
 *Topic*: continuous bivariate random vectors
 
-5a: **Easy (with notes)** 
+5ai: **Easy (with notes)** 
 	$S_X = \{x \ | \ 0 \leq x \leq \frac{2-y}{2}\}$
 	$S_Y = \{y \ | \ 0 \leq y \leq 2(1-x)\}$
 
+5aii:  **Easy**
+	$\iint_{S_{X,Y}}kxy \ dxdy = 1$
 
+5aiii: **Easy (potentially time consuming)**
+	Determine marginals:
+	For $X$, integrate over all $y$ values
+	For $Y$, integrate over all $x$ values
+	Verify they're pdfs by ensuring total probability is 1
 

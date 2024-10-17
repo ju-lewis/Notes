@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability/Past Exams/2021 Semester 2.md",
+                "file": "Declarative Programming/Haskell/L10 - Monads.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability/Past Exams/2021 Semester 2.md",
+                "file": "Declarative Programming/Haskell/L10 - Monads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability/Past Exams/2021 Semester 2.md",
+                "file": "Declarative Programming/Haskell/L10 - Monads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability/Past Exams/2021 Semester 2.md"
+                "file": "Declarative Programming/Haskell/L10 - Monads.md"
               }
             }
           }
@@ -148,10 +148,24 @@
   },
   "active": "b150ed0bd490e0ea",
   "lastOpenFiles": [
+    "Declarative Programming/Haskell/L14 - FFI.md",
+    "Declarative Programming/Haskell/L13 - Performance and Optimisation.md",
+    "Elements of Data Processing/Lectures/L9 - Data Analysis.md",
+    "Elements of Data Processing/Lectures/L10 - Continued Clustering.md",
+    "Elements of Data Processing/Lectures/L11 - Correlations.md",
+    "Elements of Data Processing/Lectures/L12 - Mutual Information.md",
+    "Elements of Data Processing/Lectures/L13 - Classification Methodologies.md",
+    "Elements of Data Processing/Lectures/L8 - Visualisation and Document Comparison.md",
+    "Probability/Past Exams/2021 Semester 2.md",
+    "Declarative Programming/Haskell/L12 - Laziness.md",
+    "From the Solar System to the Cosmos/Week 12/L34 - The Big Bang.md",
+    "From the Solar System to the Cosmos/Week 11/L31 - Large Scale Structures.md",
+    "From the Solar System to the Cosmos/imgs/Time vs Temp.png",
+    "From the Solar System to the Cosmos/Week 11/L33 - Expansion, Continued.md",
+    "From the Solar System to the Cosmos/Week 12",
     "Probability/Week 12 Summary.md",
     "Probability/Week 11 Summary.md",
     "Probability/Week 10 Summary.md",
-    "Probability/Past Exams/2021 Semester 2.md",
     "Probability/Topics for Revision.md",
     "Probability/Subject Overview.md",
     "Probability/Week 6 Summary.md",
@@ -163,18 +177,6 @@
     "Probability/Week 1 Summary.md",
     "Elements of Data Processing/Lectures/L23 - Record Linkage.md",
     "Probability/Past Exams",
-    "Probability/Untitled.md",
-    "Elements of Data Processing/Lectures/L22 - Privacy Continued.md",
-    "Elements of Data Processing/Lectures/L21 - Ethics.md",
-    "Elements of Data Processing/Lectures/L14 - Classifiers Continued.md",
-    "Elements of Data Processing/Lectures/L17 - LLMs.md",
-    "Elements of Data Processing/Lectures/L11 - Correlations.md",
-    "Elements of Data Processing/Lectures/L12 - Mutual Information.md",
-    "Elements of Data Processing/Lectures/L20 - Assignment 2 Presentation.md",
-    "Elements of Data Processing/Lectures/L19 - Recommender Systems.md",
-    "Elements of Data Processing/Lectures/L18 - Generative Language Models.md",
-    "Elements of Data Processing/Lectures/L15 - Regression.md",
-    "Elements of Data Processing/Lectures/L10 - Continued Clustering.md",
     "Declarative Programming/imgs/ROBDD.png",
     "Declarative Programming/imgs/BDD.png",
     "From the Solar System to the Cosmos/imgs/Spacetime Diagram.png",
