@@ -15,10 +15,15 @@
 - [ ] Random Variable Transformations (*add to notes*)
 ## Week 7:
 ## Week 8:
+- [ ] Transformations of bivariate distributions  (*add to notes*)
+	- [ ] Particularly converting to polar coordinates (*add to notes*)
 ## Week 9:
 - [ ] Conditional Distributions
 - [ ] Conditioning on an event
 - [ ] Conditioning on a RV
+- [ ] Definition of covariance (*add to notes*)
+- [ ] Definition of correlation (*add to notes*)
+- [ ] Proof related to correlation (particularly bivariate normal dist.) (*add to notes*)
 
 ## Week 10:
 - [ ] Approximation ( *formula on notes* )

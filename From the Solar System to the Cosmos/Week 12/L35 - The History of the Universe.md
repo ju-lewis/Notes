@@ -1,6 +1,6 @@
 
 ## Big Bang Recap
-[[L34 - The Big Bang]]
+[[L34 - The Big Bang|The Big Bang]]
 
 At 0.001s annihilation of particles and anti-particles occurred
 
@@ -19,14 +19,14 @@ Universal inflation helps explain the homogeneity and isotropy of the modern uni
 
 
 ### Particle Era
-[[L34 - The Big Bang#Particle Era]]
+[[L34 - The Big Bang#Particle Era|The Particle Era]]
 "Quark soup" ($10^{-3}s$)
 
 Very slight excess of matter vs antimatter
 
 
 ### Cosmic Microwave Background
-[[L34 - The Big Bang#Cosmic Microwave Background]]
+[[L34 - The Big Bang#Cosmic Microwave Background|Cosmic Microwave Background]]
 
 **Recombination**
 $t \approx 380,000$ years

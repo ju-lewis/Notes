@@ -128,3 +128,100 @@ $\ \ \  \ \ \ \ \ P(N(t) = k) = P(N^N(t) + N^S(t) = k) = \sum_{n \in S_{N^N(t)}}
 	For $Y$, integrate over all $x$ values
 	Verify they're pdfs by ensuring total probability is 1
 
+5aiv: **Pretty Easy**
+	$f_{Y|X}(y|X=\frac{1}{2}) = \frac{f_{Y,X}(y,\frac{1}{2})}{f_X(\frac{1}{2})}$
+	Then, integrate over the domain of y (when X = 1/2) to verify the result=1 (valid PDF)
+
+5bi: **Easy**
+	This question is simply applying the law of total probability 
+	Don't use convolution formula! Justification is needed.
+
+5bii: **Easy**
+	Using the derived convolution formula:
+$$f_Z(z) = \int_{0}^{\infty}{ \alpha^2(z-x)e^{-\alpha (z-x)} e^{-\alpha x} }dx$$
+
+## Question 6
+*Topic*: Generating functions
+
+6a: **Easy**
+	$P_C(z) = \sum_{i \in S_C}{z^i P(C=i)}$
+	$P_C(z) = z^0(\frac{1}{4}) + z^1(\frac{1}{4}) + z^2(\frac{1}{2})$
+
+6b: **Easy**
+	$E(C) = P'_C(1)$
+	$P''_C(z) = \sum_{i \in S_C}i(i-1)z^{i-2}P(C=i)$, so $P''_C(1)=E(X^2)-E(X)$, we can easily compute the value from here
+
+6c: **Relatively Easy**
+	We can use a basic application of the law of total expectation
+	(and the law of total variance)
+	If $G=\sum^{C}_{i=1}{C_I}$, then $E(G|C=c) = \sum^{c}_{i=1}E(C_i)$
+	So $E(G) = E(\sum^{c}_{i=1}E(C_i))$
+	also
+	$V(G) = E(V(G|C))+V(E(G|C))$
+
+## Question 7
+*Topic*: Generating functions, CLT
+
+7a: **Easy**
+	$M_Z(t) = E(e^{tZ}) = \int_{-\infty}^{\infty}{e^{tz} \ \frac{1}{\sqrt{2\pi}} \exp(-\frac{1}{2}z^2) }dz$
+	This is a simple integral
+7b: **Need notes..**
+	I have 2 initial thoughts for this:
+	1. simply swap out occurrences of $z$ for $\frac{x-\mu}{\sigma}$
+	2. Start with $E(e^{t\frac{X-\mu}{\sigma}})$ and integrate from there
+	I'm pretty sure MGF allows you to do the first one, but I'll need to research and write notes.
+
+7c: **Ok**
+	Note: I'm assuming we can't use the central limit theorem here, 
+	so my approach would be to write: 
+	$$M_{\bar X_n}(t)=E(e^{t\frac{S_n}{n}})$$
+	And I can evaluate the integral from there
+
+7di: **Pretty Easy**
+	This is just going through and evaluating the derivatives of the MGF
+
+7dii: **Easy**
+	Let $E(X_i)=\mu$, $V(X_i)=\sigma^2$
+	Using a Taylor Series approximation:
+	$M_{X_i}(t) \approx M_{X_i}(\mu) + M'_{X_i}(\mu)E(X-\mu)+\frac{1}{2}M''_{X_i}(\mu)E((X-\mu)^2)$
+	Just sub values in
+
+7diii: **Pretty Easy**
+	This question seems like it'll be solving a calc-2 style limit
+	First take the MGF of $\frac{S_n}{\sqrt{n}}$, then compute the limit
+
+## Question 8
+*Topic*: Markov Chains
+
+8a: **Easy**
+	$M = \{0, 1, 2\}$
+
+8b: **Easy**
+	Go through all $i$ and $j$ and determine the probabilities:
+	There are 3 possible states, so there'll be 9 possible transitions
+	$P(D_{k+1}=0|D_k=0) = 1$ (population can't grow from nothing)
+	
+8c: **Extremely Easy**
+	Just writing the already computed values as a transition matrix
+
+8di: **Easy**
+	Use transition matrix to find probability of transitioning directly from 2 $\to$ 0
+
+8dii: **Easy**
+	Square transition matrix to find probabilities after 2nd generation
+	Look at the value corresponding to 2 $\to$ 0
+
+8e: **Easy**
+	Using the static nature of the equilibrium (long term) distribution,
+	$\pi \! \! \! \! ^\rightharpoonup = P \ \pi \! \! \! \! ^\rightharpoonup$
+	This will provide a very easy set of linear equations to solve using Gauss-Jordan elimination (or just by eye)
+	We can then determine the long term state for the system
+
+
+
+
+
+# Final Remarks / Notes
+
+Question 7:
+- Write notes on properties of generating functions
