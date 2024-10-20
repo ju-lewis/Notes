@@ -1,4 +1,6 @@
 
+PDFs for Beta, Pareto, Weibull, Cauchy will be given.
+
 ## Week 1:
 - [ ] Kolmogorov's axiomatic probability 
 - [ ] ~~Interpreting worded event/set problems (e.g. Q4, Q5)
@@ -17,6 +19,7 @@
 ## Week 4:
 **Sample Solutions**:
 ## Week 5:
+- [ ] When to use Poisson Approximation
 **Sample Solutions**:
 ## Week 6:
 - [ ] Random Variable Transformations (*add to notes*)
@@ -54,6 +57,8 @@
 - [ ] Kurtosis ( *formula on notes* )
 - [ ] Laplace Transformation
 - [ ] Stochastic Process Interpretation
+- [ ] Convergent Distributions (little-o notation)
+	- Use MGF for proofs!!
 
 **Sample Solutions**:
 ## Week 12:
