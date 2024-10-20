@@ -24,8 +24,11 @@ $V(X) = np(1-p)$
 ### Geometric Distribution
 How many failures before there is a success?
 $$N \sim Ge(p)$$
+
+$p_X(x)=(1-p)^xp$
+
 $E(X) = \frac{1-p}{p}$
-$V(X) =$
+$V(X) = \frac{1-p}{p^2}$
 
 **Proof**:
 $E(N) = \int^{\infty}_{0}{(1-F_N(x))}dx$ (Using tail probabilities)

@@ -49,9 +49,6 @@ Remember that $\text{cov}(X, Y)$ describes the *relationship* between these vari
 $$V(X + Y) = V(X) + V(Y) + 2\text{cov}(X, Y)$$
 
 
-
-
-
 $\text{Independence } \implies \text{cov}(X, Y) = 0$
 $\text{cov(X,Y) = 0} \ \ \not \! \! \! \implies \text{ independence}$
 
