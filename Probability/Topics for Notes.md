@@ -2,7 +2,7 @@
 PDFs for Beta, Pareto, Weibull, Cauchy will be given.
 
 ## Week 1:
-- [ ] Kolmogorov's axiomatic probability 
+- [x] Kolmogorov's axiomatic probability 
 - [ ] ~~Interpreting worded event/set problems (e.g. Q4, Q5)
 - [ ] Elementwise proofs
 

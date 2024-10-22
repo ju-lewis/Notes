@@ -13,26 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability/Week 10 Summary.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 10 Summary"
-            }
-          }
-        ]
-      },
-      {
-        "id": "33e6e40157929f6e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b150ed0bd490e0ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Probability/Topics for Notes.md",
                 "mode": "source",
                 "source": false
@@ -184,6 +164,22 @@
   },
   "active": "210bfbfd37b281b2",
   "lastOpenFiles": [
+    "Probability/Week 1 Summary.md",
+    "Elements of Data Processing/Lectures/L7 - Document Processing (Unstructured Data).md",
+    "Elements of Data Processing/Lectures/L6 - More Text Processing.md",
+    "Elements of Data Processing/Lectures/L8 - Visualisation and Document Comparison.md",
+    "Elements of Data Processing/Lectures/L9 - Data Analysis.md",
+    "Declarative Programming/Haskell/L8 - Functional Design Patterns.md",
+    "Declarative Programming/Haskell/L7 - Higher Order Functions.md",
+    "Probability/Week 5 Summary.md",
+    "Probability/Week 6 Summary.md",
+    "Probability/Week 4 Summary.md",
+    "Elements of Data Processing/Lectures/L22 - Privacy Continued.md",
+    "Elements of Data Processing/Lectures/L21 - Ethics.md",
+    "Elements of Data Processing/Lectures/L17 - LLMs.md",
+    "Elements of Data Processing/Lectures/L18 - Generative Language Models.md",
+    "Elements of Data Processing/Lectures/L16 - ML Continued.md",
+    "Probability/Week 10 Summary.md",
     "Probability/Week 11 Summary.md",
     "Probability/Week 9 Summary.md",
     "Declarative Programming/Haskell/L15 - Parsing.md",
@@ -191,23 +187,10 @@
     "Probability/Topics for Notes.md",
     "Probability/Week 8 Summary.md",
     "Probability/Week 7 Summary.md",
-    "Probability/Week 6 Summary.md",
-    "Probability/Week 5 Summary.md",
-    "Probability/Week 4 Summary.md",
     "Probability/Week 3 Summary.md",
     "Probability/Week 2 Summary.md",
-    "Probability/Week 1 Summary.md",
     "Probability/Past Exams/2021 Semester 2.md",
     "Declarative Programming/imgs/Final DCG.png",
-    "Declarative Programming/Haskell/L14 - FFI.md",
-    "Declarative Programming/Prolog/L6 - Tail Recursion.md",
-    "Declarative Programming/Prolog/L2 & L3 - Datatypes in Prolog.md",
-    "From the Solar System to the Cosmos/Week 12/L34 - The Big Bang.md",
-    "From the Solar System to the Cosmos/Week 12/L35 - The History of the Universe.md",
-    "From the Solar System to the Cosmos/Week 11/L31 - Large Scale Structures.md",
-    "From the Solar System to the Cosmos/Week 11/L32 - Expansion of the Universe.md",
-    "Probability/Week 12 Summary.md",
-    "Object Oriented Software Development/Lectures.md",
     "Object Oriented Software Development/Strategy-Pattern.png",
     "Object Oriented Software Development/Observer-Pattern.png",
     "Object Oriented Software Development/Template Pattern.png",
@@ -216,9 +199,6 @@
     "Object Oriented Software Development/UML-association-2.png",
     "Object Oriented Software Development/UML-realization.png",
     "Object Oriented Software Development/Java-Observer.png",
-    "Probability/Week 10 Summary.md",
-    "Elements of Data Processing/Lectures/L24 - Course Summary and Exam Prep.md",
-    "From the Solar System to the Cosmos/Week 12/L36 - Life in the Universe.md",
     "From the Solar System to the Cosmos/imgs/Time vs Temp.png",
     "From the Solar System to the Cosmos/Week 12",
     "Probability/Past Exams",
