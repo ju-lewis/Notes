@@ -31,7 +31,7 @@ Theories:
 
 ## Atomic Structure
 - Atomic number $Z$ = number of protons
-- \\# protons = \# electrons
+- \# protons = # electrons
 - Mass number $A$ = number of nucleons
 
 

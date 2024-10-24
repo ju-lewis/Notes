@@ -3,51 +3,51 @@ PDFs for Beta, Pareto, Weibull, Cauchy will be given.
 
 ## Week 1:
 - [x] Kolmogorov's axiomatic probability 
-- [ ] ~~Interpreting worded event/set problems (e.g. Q4, Q5)
-- [ ] Elementwise proofs
+- [x] ~~Interpreting worded event/set problems (e.g. Q4, Q5)
+- [x] Elementwise proofs
 
 **Sample Solutions**:
 - Q5 - elementwise proof
 
 ## Week 2:
-- [ ] ~~Law of total probability 
-- [ ] Bayesian Probability formula
-- [ ] Mutual independence
+- [x] ~~Law of total probability 
+- [x] Bayesian Probability formula
+- [x] Mutual independence
 
 **Sample Solutions**:
 ## Week 3:
 **Sample Solutions**:
 ## Week 4:
-- [ ] Tail probability formula for moments (INCLUDING LIMITATIONS)
-- [ ] Binomial: (cdf, expectation, variance)
-- [ ] Geometric: (pmf, cdf, expectation, variance)
-- [ ] Negative binomial: (pmf, cdf, expectation, variance)
+- [x] Tail probability formula for moments (INCLUDING LIMITATIONS)
+- [x] Binomial: (cdf, expectation, variance)
+- [x] Geometric: (pmf, cdf, expectation, variance)
+- [x] Negative binomial: (pmf, cdf, expectation, variance)
 
 
 **Sample Solutions**:
 ## Week 5:
-- [ ] Hypergeometric: (pmf, cdf, expectation, variance)
-- [ ] Poisson: (pmf, cdf, expectation, variance)
-- [ ] Exponential: (pdf, cdf, expectation, variance)
-- [ ] Gamma: (pdf, cdf, expectation, variance)
-- [ ] When to use Poisson Approximation
+- [x] Hypergeometric: (pmf, cdf, expectation, variance)
+- [x] Poisson: (pmf, cdf, expectation, variance)
+- [x] Exponential: (pdf, cdf, expectation, variance)
+- [x] Gamma: (pdf, cdf, expectation, variance)
+- [x] When to use Poisson Approximation
 **Sample Solutions**:
 ## Week 6:
-- [ ] Normal dist: (pdf, cdf, expectation, variance)
-- [ ] Properties of: Pareto, Weibull, Cauchy
-- [ ] Random Variable Transformations (*add to notes*)
+- [x] Normal dist: (pdf, cdf, expectation, variance)
+- [x] Properties of: Pareto, Weibull, Cauchy
+- [x] Random Variable Transformations (*add to notes*)
 
 **Sample Solutions**:
 ## Week 7:
-- [ ] Converting *discrete* bivariate PMF to CDF
-- [ ] Converting *discrete* bivariate CDF to PMF
+- [x] Converting *discrete* bivariate PMF to CDF
+- [x] Converting *discrete* bivariate CDF to PMF
 **Sample Solutions**:
 
 ## Week 8:
-- [ ] Standard bivariate normal distribution
-- [ ] Regular and vector definition of bivariate normal dist
-- [ ] Transformations of bivariate distributions  
-	- [ ] Particularly converting to polar coordinates
+- [x] Standard bivariate normal distribution
+- [x] Regular and vector definition of bivariate normal dist
+- [x] Transformations of bivariate distributions  
+	- [x] Particularly converting to polar coordinates
 **Sample Solutions**:
 ## Week 9:
 - [ ] Conditional Distributions
