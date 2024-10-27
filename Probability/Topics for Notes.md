@@ -50,33 +50,35 @@ PDFs for Beta, Pareto, Weibull, Cauchy will be given.
 	- [x] Particularly converting to polar coordinates
 **Sample Solutions**:
 ## Week 9:
-- [ ] Conditional Distributions
-- [ ] Conditioning on an event
-- [ ] Conditioning on a RV
-- [ ] Definition of covariance (*add to notes*)
-- [ ] Definition of correlation (*add to notes*)
-- [ ] Proof related to correlation (particularly bivariate normal dist.) (*add to notes*)
+- [x] Conditional Distributions
+- [x] Conditioning on an event
+- [x] Conditioning on a RV
+- [x] Definition of covariance (*add to notes*)
+- [x] Definition of correlation (*add to notes*)
+- [x] Proof related to correlation (particularly bivariate normal dist.) (*add to notes*)
 
 **Sample Solutions**:
 - [ ] 2021 Semester 1 Q.8a
 ## Week 10:
-- [ ] Approximation ( *formula on notes* )
-- [ ] Probability Generating Function
-- [ ] Moment Generating Function
-- [ ] Cumulant Generating Function
-- [ ] Laplace Transformation
+- [x] Approximation ( *formula on notes* )
+- [x] Probability Generating Function
+- [x] Moment Generating Function
+- [x] Cumulant Generating Function
+- [x] Laplace Transformation (including inversion)
 	- [ ] Application example
-- [ ] Characteristic function (fourier transform)
+- [x] Characteristic function (fourier transform)
 
 **Sample Solutions**:
 - [ ] 2021 Semester 1 Q.9c
 - [ ] 2021 Semester 1 Q.9d (little-o-notation)
 ## Week 11:
-- [ ] Skewness ( *formula on notes* )
-- [ ] Kurtosis ( *formula on notes* )
-- [ ] Laplace Transformation
-- [ ] Stochastic Process Interpretation
-- [ ] Convergent Distributions (little-o notation)
+- [x] Skewness ( *formula on notes* )
+- [x] Kurtosis ( *formula on notes* )
+- [x] Laplace Transformation
+- [x] Law of Large Numbers
+- [x] Central Limit Theorem
+- [x] Stochastic Process Interpretation
+- [x] Convergent Distributions (little-o notation)
 	- Use MGF for proofs!!
 
 **Sample Solutions**:
