@@ -52,6 +52,19 @@ If you repeat for than $N$ words of someone's *text* you must use attribution
 **k-anonymity** is satisfied if every record in the table is indistinguishable from at least $k-1$ other records
 - For example *3-anonymous* implies  there are at least 3 identical records for any given record in the dataset; if there are any fewer, then the k-anonymity is reduced.
 
+>[!danger] Problems with K-Anonymity
+>*Sensitive Data Homogeneity Problem*
+>
+>If a k-anonymous group has a lack of diversity, information can be leaked - as we can infer the sensitive attribute simply by knowing what k-anonymous group an individual is in.
+>
+>*Background Information Problem*
+>
+>k-anonymity does not protect against attacks based on background knowledge.
+>For example, if a k-anonymous group is only 2-diverse, based on our background knowledge of the sensitive attribute (and aspects of the individual), we can infer with a high likelihood what the sensitive attribute is for an individual./
+
+*These issues are addressed by l-diversity*
+
+
 **l-diversity**: For each $k$ anonymous group, make sure there are at least $l$ different sensitive attribute values.
 - Takes the *minimum* value of the dataset 
 - Very difficult to achieve
