@@ -30,6 +30,7 @@ Noise is added by the DB owner
 
 *Adding different amounts of noise*:
 Generate random values with a distribution with mean 0
+- Standard deviation is 1/(privacy loss budget)
 
 This prevents characterising data from being obtained from a single query
 - But the data is still accurate as it still averages out to the true value
