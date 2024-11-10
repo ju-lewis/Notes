@@ -9,7 +9,7 @@
 1ai. **Easy**
 	disjoint $\implies A \cap B = \emptyset$ 
 1aii. **Easy**
-	exhaustive $\implies A \cup B = \textbf{A}$ 
+	exhaustive $\implies A \cup B = \Omega$ 
 
 1b. **Easy (with notes)**
 	Probability is always non-negative, $P(\Omega) = 1$, For disjoint events $A$, $B$; $P(A+B) = P(A) + P(B)$
@@ -42,7 +42,7 @@
 	P(defaults) = 1/50 * 0.3 + 1/25 * 0.25 + 1/20 * 0.25
 
 2biii: **Easy**
-	P(defaults | $A_3$) = $\frac{P(\text{defaults}, \ A_3)}{P(A_3)}$
+	P($A_3$ | defaults) = $\frac{P(\text{defaults}, \ A_3)}{P(D)}$
 
 
 ## Question 3:
