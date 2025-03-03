@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAST20004 - Prob/Week 11 Summary.md",
+                "file": "SWEN30006 - SMD/Lectures/L1 - SMD Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week 11 Summary"
+              "title": "L1 - SMD Overview"
             }
           }
         ]
@@ -164,12 +164,17 @@
   },
   "active": "b25a438795d51293",
   "lastOpenFiles": [
+    "COMP30027 - ML/Subject Overview.md",
+    "SWEN30006 - SMD/Lectures/L1 - SMD Overview.md",
+    "SWEN30006 - SMD/Subject Overview.md",
+    "SWEN30006 - SMD/Lectures",
+    "COMP30023 - CS/Subject Overview.md",
+    "COMP30023 - CS/Workshops",
+    "MAST20004 - Prob/Week 11 Summary.md",
     "MAST20004 - Prob/Week 10 Summary.md",
     "MAST20004 - Prob/Week 7 Summary.md",
     "MAST20004 - Prob/Week 5 Summary.md",
-    "COMP30027 - ML/Subject Overview.md",
     "COMP30027 - ML/Lectures/L1 - Machine Learning Overview.md",
-    "SWEN30006 - SMD/Subject Overview.md",
     "SWEN30006 - SMD/Workshops",
     "MAST20004 - Prob/Week 2 Summary.md",
     "MAST20004 - Prob/Week 1 Summary.md",
@@ -189,9 +194,6 @@
     "COMP30020 - DP/Haskell/L8 - Functional Design Patterns.md",
     "COMP30020 - DP/Haskell/L4 - Using Haskell Types.md",
     "COMP30020 - DP/Prolog/L4 - Logic and Resolution.md",
-    "Digital Criminology/Lectures.md",
-    "MUR/Manufacturing Rep.md",
-    "MUR/Low Voltage.md",
     "MUR",
     "MAST20004 - Prob/imgs/conditional-expectation.png",
     "COMP30023 - CS",
@@ -207,8 +209,6 @@
     "Object Oriented Software Development/UML-association-2.png",
     "Object Oriented Software Development/UML-realization.png",
     "Object Oriented Software Development/Java-Observer.png",
-    "From the Solar System to the Cosmos/Week 12",
-    "MAST20004 - Prob/Past Exams",
-    "From the Solar System to the Cosmos/Week 11"
+    "From the Solar System to the Cosmos/Week 12"
   ]
 }
