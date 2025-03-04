@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a9e4e2662652ef11",
+        "id": "8f5dc24aa328374e",
         "type": "tabs",
         "children": [
           {
-            "id": "b25a438795d51293",
+            "id": "a8cd81d3487af719",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SWEN30006 - SMD/Lectures/L1 - SMD Overview.md",
+                "file": "COMP30027 - ML/Lectures/L1 - Machine Learning Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L1 - SMD Overview"
+              "title": "L1 - Machine Learning Overview"
             }
           }
         ]
@@ -162,13 +162,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b25a438795d51293",
+  "active": "a8cd81d3487af719",
   "lastOpenFiles": [
-    "COMP30027 - ML/Subject Overview.md",
-    "SWEN30006 - SMD/Lectures/L1 - SMD Overview.md",
     "SWEN30006 - SMD/Subject Overview.md",
-    "SWEN30006 - SMD/Lectures",
     "COMP30023 - CS/Subject Overview.md",
+    "COMP30023 - CS/Lectures/L1.md",
+    "SWEN30006 - SMD/Lectures/L1 - SMD Overview.md",
+    "COMP30023 - CS/Lectures",
+    "COMP30027 - ML/Subject Overview.md",
+    "SWEN30006 - SMD/Lectures",
     "COMP30023 - CS/Workshops",
     "MAST20004 - Prob/Week 11 Summary.md",
     "MAST20004 - Prob/Week 10 Summary.md",
@@ -193,7 +195,6 @@
     "MAST20004 - Prob/Week 4 Summary.md",
     "COMP30020 - DP/Haskell/L8 - Functional Design Patterns.md",
     "COMP30020 - DP/Haskell/L4 - Using Haskell Types.md",
-    "COMP30020 - DP/Prolog/L4 - Logic and Resolution.md",
     "MUR",
     "MAST20004 - Prob/imgs/conditional-expectation.png",
     "COMP30023 - CS",
@@ -208,7 +209,6 @@
     "Object Oriented Software Development/UML-association.png",
     "Object Oriented Software Development/UML-association-2.png",
     "Object Oriented Software Development/UML-realization.png",
-    "Object Oriented Software Development/Java-Observer.png",
-    "From the Solar System to the Cosmos/Week 12"
+    "Object Oriented Software Development/Java-Observer.png"
   ]
 }

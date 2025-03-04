@@ -39,6 +39,7 @@ Project groups need to be formed before week 2
 
 ## Assessments
 8% for *workshop* active participation
+- This counts 8/11 of the workshops
 32% for 2 *project assignments* (in groups)
 60% for *final examination*
 
