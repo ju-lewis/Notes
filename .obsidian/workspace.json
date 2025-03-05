@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP30027 - ML/Lectures/L1 - Machine Learning Overview.md",
+                "file": "COMP30024 - AI/Lectures/L1 - What is AI?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L1 - Machine Learning Overview"
+              "title": "L1 - What is AI?"
             }
           }
         ]
@@ -164,9 +164,17 @@
   },
   "active": "a8cd81d3487af719",
   "lastOpenFiles": [
+    "COMP30024 - AI/Subject Overview.md",
+    "COMP30024 - AI/Lectures/L1 - What is AI?.md",
+    "Digital Criminology/Lectures.md",
+    "Digital Criminology/Final Essay.md",
+    "COMP30023 - CS/Lectures/L1.md",
+    "COMP30024 - AI/Lectures",
+    "MUR/Manufacturing Rep.md",
+    "MUR/Low Voltage.md",
+    "COMP30027 - ML/Lectures/L1 - Machine Learning Overview.md",
     "SWEN30006 - SMD/Subject Overview.md",
     "COMP30023 - CS/Subject Overview.md",
-    "COMP30023 - CS/Lectures/L1.md",
     "SWEN30006 - SMD/Lectures/L1 - SMD Overview.md",
     "COMP30023 - CS/Lectures",
     "COMP30027 - ML/Subject Overview.md",
@@ -176,7 +184,6 @@
     "MAST20004 - Prob/Week 10 Summary.md",
     "MAST20004 - Prob/Week 7 Summary.md",
     "MAST20004 - Prob/Week 5 Summary.md",
-    "COMP30027 - ML/Lectures/L1 - Machine Learning Overview.md",
     "SWEN30006 - SMD/Workshops",
     "MAST20004 - Prob/Week 2 Summary.md",
     "MAST20004 - Prob/Week 1 Summary.md",
@@ -188,19 +195,12 @@
     "COMP20008 - EoDP/Lectures/L9 - Data Analysis.md",
     "COMP20008 - EoDP/Lectures/L15 - Regression.md",
     "COMP20008 - EoDP/Lectures/L12 - Mutual Information.md",
-    "COMP20008 - EoDP/Lectures/L11 - Correlations.md",
-    "COMP20008 - EoDP/Lectures/L10 - Continued Clustering.md",
     "COMP30027 - ML/Lectures",
-    "COMP30020 - DP/Haskell/L10 - Monads.md",
-    "MAST20004 - Prob/Week 4 Summary.md",
-    "COMP30020 - DP/Haskell/L8 - Functional Design Patterns.md",
-    "COMP30020 - DP/Haskell/L4 - Using Haskell Types.md",
     "MUR",
     "MAST20004 - Prob/imgs/conditional-expectation.png",
     "COMP30023 - CS",
     "SWEN30006 - SMD",
     "COMP30027 - ML",
-    "COMP30024 - AI",
     "COMP30020 - DP/imgs/Final DCG.png",
     "Object Oriented Software Development/Strategy-Pattern.png",
     "Object Oriented Software Development/Observer-Pattern.png",
