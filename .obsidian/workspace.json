@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "35d60b2e6794ddf7",
+        "id": "3ce0f36fbf93eb86",
         "type": "tabs",
         "children": [
           {
-            "id": "4dcf1076e01612ac",
+            "id": "c582ce990d7b94e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP30023 - Computer Systems/Lectures/L2 - Operating System Overview.md",
+                "file": "COMP30024 - Artificial Intelligence/Lectures/L2 - Intelligent Agents.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L2 - Operating System Overview"
+              "title": "L2 - Intelligent Agents"
             }
           }
         ]
@@ -162,10 +162,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4dcf1076e01612ac",
+  "active": "c582ce990d7b94e3",
   "lastOpenFiles": [
-    "COMP30023 - Computer Systems/Lectures/L1 - Subject Introduction.md",
+    "COMP30024 - Artificial Intelligence/Lectures/L1 - What is AI?.md",
+    "COMP30024 - Artificial Intelligence/Lectures/L2 - Intelligent Agents.md",
+    "COMP30024 - Artificial Intelligence/imgs/utility-based-agent.png",
+    "COMP30024 - Artificial Intelligence/imgs/goal-based-agent.png",
+    "Screenshot 2025-03-06 at 4.27.06 pm.png",
+    "Screenshot 2025-03-06 at 4.26.49 pm.png",
+    "COMP30024 - Artificial Intelligence/imgs/model-based-reflex-agent.png",
+    "COMP30024 - Artificial Intelligence/imgs/simple-reflex-agent.png",
+    "COMP30024 - Artificial Intelligence/imgs",
+    "MUR/Manufacturing Rep.md",
+    "COMP30020 - Declarative Programming/Haskell/L10 - Monads.md",
+    "COMP30020 - Declarative Programming/Haskell/L9 - Exploiting the Type System.md",
+    "COMP30020 - Declarative Programming/Haskell/L8 - Functional Design Patterns.md",
+    "COMP30020 - Declarative Programming/Haskell/L7 - Higher Order Functions.md",
+    "COMP30020 - Declarative Programming/Haskell/L5 - Adapting to Declarative Programming.md",
+    "COMP30020 - Declarative Programming/Haskell/L4 - Using Haskell Types.md",
+    "COMP30027 - Machine Learning/Lectures/L2 - Basics of Machine Learning.md",
+    "COMP30020 - Declarative Programming/imgs/CLPFD Example.png",
+    "MAST20004 - Probability/Week 9 Summary.md",
+    "MAST20004 - Probability/Week 8 Summary.md",
+    "MAST20004 - Probability/Week 7 Summary.md",
     "COMP30023 - Computer Systems/Lectures/L2 - Operating System Overview.md",
+    "COMP30023 - Computer Systems/Lectures/L1 - Subject Introduction.md",
     "CRIM20007 - Digital Criminology/Lectures.md",
     "SWEN20003 - Object Oriented Software Development/Final Exam.md",
     "COMP20004 - Design of Algorithms/Lectures.md",
@@ -176,39 +197,17 @@
     "COMP30020 - Declarative Programming/Prolog/L7 - Higher Order Programming.md",
     "COMP30020 - Declarative Programming/Prolog/L6 - Tail Recursion.md",
     "COMP30020 - Declarative Programming/Prolog/L5 - Debugging and Efficiency.md",
-    "COMP30020 - Declarative Programming/Haskell/L8 - Functional Design Patterns.md",
-    "COMP30020 - Declarative Programming/Haskell/L4 - Using Haskell Types.md",
-    "COMP30027 - Machine Learning/Lectures/L2 - Basics of Machine Learning.md",
-    "MUR/Manufacturing Rep.md",
-    "COMP30024 - Artificial Intelligence/Lectures/L1 - What is AI?.md",
     "COMP30024 - Artificial Intelligence/Subject Overview.md",
     "CRIM20007 - Digital Criminology/Final Essay.md",
     "COMP30024 - Artificial Intelligence/Lectures",
-    "MUR/Low Voltage.md",
-    "COMP30027 - Machine Learning/Lectures/L1 - Machine Learning Overview.md",
-    "SWEN30006 - Software Modelling and Design/Subject Overview.md",
-    "COMP30023 - Computer Systems/Subject Overview.md",
-    "SWEN30006 - Software Modelling and Design/Lectures/L1 - SMD Overview.md",
     "COMP30023 - Computer Systems/Lectures",
-    "COMP30027 - Machine Learning/Subject Overview.md",
     "SWEN30006 - Software Modelling and Design/Lectures",
     "COMP30023 - Computer Systems/Workshops",
-    "MAST20004 - Probability/Week 11 Summary.md",
-    "MAST20004 - Probability/Week 10 Summary.md",
-    "MAST20004 - Probability/Week 7 Summary.md",
     "SWEN30006 - Software Modelling and Design/Workshops",
     "COMP30027 - Machine Learning/Lectures",
     "MUR",
     "MAST20004 - Probability/imgs/conditional-expectation.png",
-    "COMP30023 - Computer Systems",
     "COMP30020 - Declarative Programming/imgs/Final DCG.png",
-    "SWEN20003 - Object Oriented Software Development/imgs/Strategy-Pattern.png",
-    "SWEN20003 - Object Oriented Software Development/imgs/Observer-Pattern.png",
-    "SWEN20003 - Object Oriented Software Development/imgs/Template Pattern.png",
-    "SWEN20003 - Object Oriented Software Development/imgs/UML Example.png",
-    "SWEN20003 - Object Oriented Software Development/imgs/UML-association.png",
-    "SWEN20003 - Object Oriented Software Development/imgs/UML-association-2.png",
-    "SWEN20003 - Object Oriented Software Development/imgs/UML-realization.png",
-    "SWEN20003 - Object Oriented Software Development/imgs/Java-Observer.png"
+    "SWEN20003 - Object Oriented Software Development/imgs/Strategy-Pattern.png"
   ]
 }
