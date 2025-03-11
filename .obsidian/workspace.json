@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3ce0f36fbf93eb86",
+        "id": "2f1de407a126f74c",
         "type": "tabs",
         "children": [
           {
-            "id": "c582ce990d7b94e3",
+            "id": "0194a6e20e45431b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SWEN30006 - Software Modelling and Design/Lectures/L2 - Domain Models and System Sequence Diagrams.md",
+                "file": "SWEN30006 - Software Modelling and Design/Workshops/W1 - Use Cases.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L2 - Domain Models and System Sequence Diagrams"
+              "title": "W1 - Use Cases"
             }
           }
         ]
@@ -40,8 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -163,25 +162,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c97bbfdf07a7dc8",
+  "active": "0194a6e20e45431b",
   "lastOpenFiles": [
-    "SWEN30006 - Software Modelling and Design/imgs/system-sequence-diagram.png",
-    "SWEN30006 - Software Modelling and Design/imgs/category-list.png",
-    "COMP30023 - Computer Systems/Readings/Week 1 - Operating Systems Overview.md",
-    "SWEN30006 - Software Modelling and Design/imgs",
-    "SWEN30006 - Software Modelling and Design/imgs.canvas",
+    "SWEN30006 - Software Modelling and Design/Lectures/L1 - SMD Overview.md",
+    "SWEN30006 - Software Modelling and Design/Workshops/W1 - Use Cases.md",
+    "SWEN30006 - Software Modelling and Design/imgs/workshop-use-case-diagram.png",
+    "SWEN30006 - Software Modelling and Design/imgs/use-case-diagram.png",
+    "Screenshot 2025-03-11 at 3.08.04 pm.png",
     "SWEN30006 - Software Modelling and Design/Lectures/L2 - Domain Models and System Sequence Diagrams.md",
-    "SWEN30006 - Software Modelling and Design/imgs/domain-model.png",
+    "SWEN30006 - Software Modelling and Design/Subject Overview.md",
+    "COMP30023 - Computer Systems/Lectures/L3 - Computer Architecture Continued.md",
+    "COMP30023 - Computer Systems/imgs",
+    "COMP30023 - Computer Systems/imgs/os-diagram.png",
     "COMP30023 - Computer Systems/Lectures/L2 - Operating System Overview.md",
     "COMP30024 - Artificial Intelligence/Lectures/L2 - Intelligent Agents.md",
+    "SWEN30006 - Software Modelling and Design/imgs/system-sequence-diagram.png",
+    "SWEN30006 - Software Modelling and Design/imgs/domain-model.png",
+    "SWEN30006 - Software Modelling and Design/imgs/category-list.png",
+    "SWEN30006 - Software Modelling and Design/imgs",
+    "COMP30023 - Computer Systems/Readings/Week 1 - Operating Systems Overview.md",
     "COMP30023 - Computer Systems/Readings",
     "COMP30024 - Artificial Intelligence/Lectures/L1 - What is AI?.md",
     "COMP30024 - Artificial Intelligence/imgs/utility-based-agent.png",
     "COMP30024 - Artificial Intelligence/imgs/goal-based-agent.png",
     "Screenshot 2025-03-06 at 4.27.06 pm.png",
-    "Screenshot 2025-03-06 at 4.26.49 pm.png",
-    "COMP30024 - Artificial Intelligence/imgs/model-based-reflex-agent.png",
-    "COMP30024 - Artificial Intelligence/imgs/simple-reflex-agent.png",
     "COMP30024 - Artificial Intelligence/imgs",
     "MUR/Manufacturing Rep.md",
     "COMP30020 - Declarative Programming/Haskell/L10 - Monads.md",
@@ -191,7 +195,6 @@
     "COMP30020 - Declarative Programming/Haskell/L5 - Adapting to Declarative Programming.md",
     "COMP30020 - Declarative Programming/Haskell/L4 - Using Haskell Types.md",
     "COMP30027 - Machine Learning/Lectures/L2 - Basics of Machine Learning.md",
-    "COMP30020 - Declarative Programming/imgs/CLPFD Example.png",
     "MAST20004 - Probability/Week 9 Summary.md",
     "MAST20004 - Probability/Week 8 Summary.md",
     "MAST20004 - Probability/Week 7 Summary.md",
@@ -202,15 +205,9 @@
     "SWEN20003 - Object Oriented Software Development/imgs",
     "COMP20004 - Design of Algorithms/Exams.md",
     "COMP20004 - Design of Algorithms/imgs",
-    "COMP20004 - Design of Algorithms/Subject Overview.md",
-    "COMP30020 - Declarative Programming/Prolog/L7 - Higher Order Programming.md",
-    "COMP30020 - Declarative Programming/Prolog/L6 - Tail Recursion.md",
-    "COMP30020 - Declarative Programming/Prolog/L5 - Debugging and Efficiency.md",
     "COMP30024 - Artificial Intelligence/Lectures",
     "COMP30023 - Computer Systems/Lectures",
     "SWEN30006 - Software Modelling and Design/Lectures",
-    "COMP30023 - Computer Systems/Workshops",
-    "SWEN30006 - Software Modelling and Design/Workshops",
-    "MAST20004 - Probability/imgs/conditional-expectation.png"
+    "COMP30023 - Computer Systems/Workshops"
   ]
 }

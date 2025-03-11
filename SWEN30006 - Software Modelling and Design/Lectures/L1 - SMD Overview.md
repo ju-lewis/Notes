@@ -68,3 +68,6 @@ Use cases should be strongly driven by the goals of the project
 - Leaves data in a consistent state
 	- E.g. not just "delete a line item"
 
+
+![[SWEN30006 - Software Modelling and Design/imgs/use-case-diagram.png]]
+
