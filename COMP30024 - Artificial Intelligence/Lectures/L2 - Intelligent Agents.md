@@ -76,8 +76,10 @@ The distinction between the utility function and a goal-seeking agent is a utili
 **Observable**: Percepts contain all relevant information about the world
 **Deterministic**: Current state of the world uniquely determines the next
 **Episodic**: Only the current (or recent) percept is relevant, and short-term actions do not have long-term consequences
+- *Episodic*: Object classification
+- *Sequential*: Chess
 **Static**: Environment doesn't change while the agent is deliberating (turn-based)
-**Discrete**: Finite number of possible percepts/actions
+**Discrete**: Finite number of possible environment states
 
 
 
