@@ -101,6 +101,15 @@ The `expand` function creates new nodes, filling in various fields and using `op
 
 ### General Search algorithm implementation
 ```
-function general_search()
+function general_search(problem, queueing_fn) returns a solution or failure
+	nodes <- make_queue(make_node(initial_state[problem]))
+	loop do
+		if nodes is empty then return false
+		node <- remove_front(nodes)
+		if goal_test(problem) applied to state(node) succeeds then
+			return node
+		nodes <- queueing_fn(nodes, expand(node, operators(problem)))
+	end
 ```
+
 

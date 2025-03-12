@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP30023 - Computer Systems/Workshops/W2 - OS Overview.md",
+                "file": "COMP30024 - Artificial Intelligence/Lectures/L3 - Problem Solving and Search.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "W2 - OS Overview"
+              "title": "L3 - Problem Solving and Search"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -164,8 +165,8 @@
   },
   "active": "9f709c6bc7f3605d",
   "lastOpenFiles": [
-    "COMP30024 - Artificial Intelligence/Lectures/L3 - Problem Solving and Search.md",
     "COMP30023 - Computer Systems/Workshops/W2 - OS Overview.md",
+    "COMP30024 - Artificial Intelligence/Lectures/L3 - Problem Solving and Search.md",
     "COMP30024 - Artificial Intelligence/workshops/W1 - Intelligent Agents.md",
     "COMP30024 - Artificial Intelligence/Lectures/L2 - Intelligent Agents.md",
     "COMP30024 - Artificial Intelligence/Lectures/L1 - What is AI?.md",
