@@ -68,5 +68,9 @@ For a system with $N$ outcomes, entropy range is $0 \text{ to } \log(N)$
 
 Higher entropy also suggests there is more embedded information
 - For ML typically low entropy is helpful because the system is more predictable
+- For sensors/reading information high entropy is good because it implies more can be learned from observations
 
 ![[entropy.png]]
+
+
+

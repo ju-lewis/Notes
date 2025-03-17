@@ -66,7 +66,7 @@ $$\hat c = \arg \max_{c_j \in C}P(T|C_j)P(c_j)$$
 
 Classify an instance $T = \langle x_1, x_2, ..., x_n \rangle$
 
-Naive bayes assumes all attributes are *independent*, conditional only on the class
+Naive Bayes assumes all attributes are *independent*, conditional only on the class
 - This makes the problems tractable, but is almost always untrue
 - Despite this, it works well enough
 
@@ -121,4 +121,6 @@ What if an instance is missing some attributes?
 Missing values at test can simply be ignored - compute the likelihood of each class from the non-missing values
 
 Missing values in training can also be ignored - don't include them in the attribute-class counts, and the probabilities will be based on the non-missing values.
+
+
 
