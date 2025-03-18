@@ -108,3 +108,9 @@ Both domain models and SSDs should be expressed at the *abstract level of intent
 - Provide essential abstractions in information required to understand the domain in the context of the current requirements
 - Aid people in understanding the domain
 
+>[!note]
+>In system sequence diagrams, we can draw boxes around:
+>- Loops
+>- Alternative scenarios
+>- References to other 'sub-sequences'
+

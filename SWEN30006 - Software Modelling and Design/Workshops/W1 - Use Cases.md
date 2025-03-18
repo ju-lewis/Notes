@@ -56,7 +56,7 @@ SM = store manager
 ## Q2.1 - Use Case Diagram
 
 
-![[workshop-use-case-diagram.png]]
+![[w1-use-case-diagram.png]]
 
 ## Q2.2 - Show Your Understanding
 

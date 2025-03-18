@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP30023 - Computer Systems/Lectures/L5 - Race Conditions.md",
+                "file": "SWEN30006 - Software Modelling and Design/Workshops/W2 - Domain Models.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L5 - Race Conditions"
+              "title": "W2 - Domain Models"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -77,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2188a648274fc901",
@@ -163,14 +163,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "059da0bbebdfe24a",
+  "active": "6c97bbfdf07a7dc8",
   "lastOpenFiles": [
-    "SWEN30006 - Software Modelling and Design/imgs/design-full-example.png",
-    "COMP30023 - Computer Systems/Lectures/L5 - Race Conditions.md",
+    "SWEN30006 - Software Modelling and Design/imgs/w2-use-case-diagram.png",
     "SWEN30006 - Software Modelling and Design/Lectures/L3 - Object Oriented Design Models.md",
+    "SWEN30006 - Software Modelling and Design/Workshops/W2 - Domain Models.md",
+    "SWEN30006 - Software Modelling and Design/imgs/w2-ssd-1.png",
+    "SWEN30006 - Software Modelling and Design/imgs/w2-ssd-2.png",
     "SWEN30006 - Software Modelling and Design/Lectures/L1 - SMD Overview.md",
-    "SWEN30006 - Software Modelling and Design/imgs/design-sequence-diagram.png",
+    "CRIM20007 - Digital Criminology/Assignments.md",
+    "SWEN20003 - Object Oriented Software Development/Assignments.md",
     "SWEN30006 - Software Modelling and Design/Lectures/L2 - Domain Models and System Sequence Diagrams.md",
+    "SWEN30006 - Software Modelling and Design/imgs/w2-domain-class-diagram.png",
+    "SWEN30006 - Software Modelling and Design/imgs/w2-use-case-diagram.png",
+    "SWEN30006 - Software Modelling and Design/imgs/w2-domain-class-diagram.png",
+    "SWEN30006 - Software Modelling and Design/Workshops/W1 - Use Cases.md",
+    "COMP30023 - Computer Systems/Lectures/L5 - IPC and Race Conditions.md",
+    "SWEN30006 - Software Modelling and Design/imgs/design-full-example.png",
+    "SWEN30006 - Software Modelling and Design/imgs/design-sequence-diagram.png",
     "SWEN30006 - Software Modelling and Design/imgs/representational-gap.png",
     "SWEN30006 - Software Modelling and Design/imgs/class-design-model.png",
     "MUR/Manufacturing Rep.md",
@@ -193,16 +203,7 @@
     "COMP30027 - Machine Learning/Lectures/L2 - Basics of Machine Learning.md",
     "COMP30027 - Machine Learning/Lectures/L1 - Machine Learning Overview.md",
     "COMP20008 - Elements of Data Processing/Lectures/L14 - Classifiers Continued.md",
-    "COMP20008 - Elements of Data Processing/Lectures/L13 - Classification Methodologies.md",
-    "COMP20008 - Elements of Data Processing/Lectures/L15 - Regression.md",
-    "COMP20008 - Elements of Data Processing/Lectures/L19 - Recommender Systems.md",
-    "SWEN30006 - Software Modelling and Design/Workshops/W1 - Use Cases.md",
-    "SWEN30006 - Software Modelling and Design/imgs/workshop-use-case-diagram.png",
-    "SWEN30006 - Software Modelling and Design/imgs/use-case-diagram.png",
-    "Screenshot 2025-03-11 at 3.08.04 pm.png",
     "COMP30023 - Computer Systems/imgs",
-    "COMP30023 - Computer Systems/imgs/os-diagram.png",
-    "SWEN30006 - Software Modelling and Design/imgs/system-sequence-diagram.png",
     "SWEN30006 - Software Modelling and Design/imgs",
     "COMP30023 - Computer Systems/Readings",
     "COMP30024 - Artificial Intelligence/imgs",
