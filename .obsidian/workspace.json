@@ -11,12 +11,14 @@
             "id": "059da0bbebdfe24a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "SWEN30006 - Software Modelling and Design/imgs/design-full-example.png"
+                "file": "COMP30023 - Computer Systems/Lectures/L5 - Race Conditions.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "design-full-example"
+              "icon": "lucide-file",
+              "title": "L5 - Race Conditions"
             }
           }
         ]
@@ -75,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2188a648274fc901",
@@ -162,8 +165,9 @@
   },
   "active": "059da0bbebdfe24a",
   "lastOpenFiles": [
-    "SWEN30006 - Software Modelling and Design/Lectures/L3 - Object Oriented Design Models.md",
     "SWEN30006 - Software Modelling and Design/imgs/design-full-example.png",
+    "COMP30023 - Computer Systems/Lectures/L5 - Race Conditions.md",
+    "SWEN30006 - Software Modelling and Design/Lectures/L3 - Object Oriented Design Models.md",
     "SWEN30006 - Software Modelling and Design/Lectures/L1 - SMD Overview.md",
     "SWEN30006 - Software Modelling and Design/imgs/design-sequence-diagram.png",
     "SWEN30006 - Software Modelling and Design/Lectures/L2 - Domain Models and System Sequence Diagrams.md",
@@ -196,7 +200,6 @@
     "SWEN30006 - Software Modelling and Design/imgs/workshop-use-case-diagram.png",
     "SWEN30006 - Software Modelling and Design/imgs/use-case-diagram.png",
     "Screenshot 2025-03-11 at 3.08.04 pm.png",
-    "SWEN30006 - Software Modelling and Design/Subject Overview.md",
     "COMP30023 - Computer Systems/imgs",
     "COMP30023 - Computer Systems/imgs/os-diagram.png",
     "SWEN30006 - Software Modelling and Design/imgs/system-sequence-diagram.png",
