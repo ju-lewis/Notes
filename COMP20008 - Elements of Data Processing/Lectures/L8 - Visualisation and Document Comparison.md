@@ -100,7 +100,7 @@ pd.DataFrame.describe()
 	- Outliers
 - **Binning**
 	- We need to work out the best 'resolution' (number of bins) for our histogram
-	- ![[binning.png]]
+	- ![[COMP20008 - Elements of Data Processing/imgs/binning.png]]
 	- Too many bins -> many empty bins
 	- Too few bins -> outliers in frequent bins
 - **Boxplots**
