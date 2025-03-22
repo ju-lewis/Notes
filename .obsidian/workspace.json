@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP30027 - Machine Learning/Lectures/L5 - Probabilistic Learning Continued.md",
+                "file": "COMP30024 - Artificial Intelligence/Lectures/L6 - Heuristics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L5 - Probabilistic Learning Continued"
+              "title": "L6 - Heuristics"
             }
           }
         ]
@@ -165,12 +165,13 @@
   },
   "active": "059da0bbebdfe24a",
   "lastOpenFiles": [
-    "COMP30027 - Machine Learning/imgs/gaussian-naive-bayes.png",
-    "COMP30027 - Machine Learning/imgs/binning.png",
+    "COMP30024 - Artificial Intelligence/Lectures/L4 - Uninformed Search Strategies.md",
+    "COMP30024 - Artificial Intelligence/Lectures/L6 - Heuristics.md",
     "COMP30024 - Artificial Intelligence/Lectures/L5 - Informed Search Strategies.md",
     "COMP30027 - Machine Learning/Lectures/L5 - Probabilistic Learning Continued.md",
+    "COMP30027 - Machine Learning/imgs/gaussian-naive-bayes.png",
+    "COMP30027 - Machine Learning/imgs/binning.png",
     "COMP30027 - Machine Learning/Lectures/L4 - Probabilistic Learning.md",
-    "COMP30024 - Artificial Intelligence/Lectures/L4 - Uninformed Search Strategies.md",
     "COMP30024 - Artificial Intelligence/workshops/W2 - Uninformed Search Strategies.md",
     "COMP20004 - Design of Algorithms/Lectures.md",
     "COMP30024 - Artificial Intelligence/workshops/W1 - Intelligent Agents.md",
@@ -190,7 +191,6 @@
     "COMP30023 - Computer Systems/Lectures/L5 - IPC and Race Conditions.md",
     "SWEN30006 - Software Modelling and Design/imgs/design-full-example.png",
     "SWEN30006 - Software Modelling and Design/imgs/design-sequence-diagram.png",
-    "SWEN30006 - Software Modelling and Design/imgs/representational-gap.png",
     "MUR/Manufacturing Rep.md",
     "COMP30023 - Computer Systems/Lectures/L3 - Computer Architecture Continued.md",
     "COMP30023 - Computer Systems/Lectures/L4 - Multiprogramming.md",
