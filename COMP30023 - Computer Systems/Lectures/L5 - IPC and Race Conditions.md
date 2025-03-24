@@ -67,6 +67,7 @@ Scheduling rules: $P_{high}$ always gets to run as long as its not *blocked*
 At a particular moment:
 - $P_{low}$ is in the critical region
 - $P_{high}$ becomes ready to run (e.g. I/O operation completes)
+- Current quantum ends ($P_{low}$ stops running)
 - $P_{high}$ starts running and begins busy waiting (can't enter critical period because $P_{low}$ is in it.)
 - $P_{low}$ can never exit the critical region because it never gets scheduled to use the CPU while $P_{high}$ is running
 - $P_{high}$ loops forever
@@ -100,7 +101,7 @@ A busy waiting approach in which 2 processes/threads take turns running the crit
 This works because the threads have different critical region entry conditions, so by design there is no way both threads can simultaneous enter the critical region, regardless of time-multiplexing/context-switching
 
 ### Test and Set Lock (TSL)
-TSL is an assembly mnemonic representing and instruction for hardware register locking
+TSL is an assembly mnemonic representing and instruction for *hardware* register locking
 
 `TSL REGISTER, LOCK`
 1. Copy contents of `LOCK` into `REGISTER`
@@ -108,6 +109,9 @@ TSL is an assembly mnemonic representing and instruction for hardware register l
 
 TSL's operations are *atomic*
 Atomic operations are indivisible, all or nothing.
+
+This is important, because there *CANNOT* be a context switch between testing the lock's value and setting it.
+- This means we can't have multiple threads reading the lock as unset and entering the critical region.
 
 ### Mutex Using TSL and Busy Waiting
 **To enter critical region:**
@@ -129,6 +133,8 @@ When a thread wants to enter its critical region
 - Approach-specific (e.g. starvation, overhead of system calls, overhead of context switches)
 
 ### Yield Mutex
+
+Hardware support for the process/thread to voluntarily yield access to the CPU.
 
 ```asm
 mutex_lock:
