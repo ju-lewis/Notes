@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SWEN30006 - Software Modelling and Design/Workshops/W3 - Design Models and Programming.md",
+                "file": "COMP30023 - Computer Systems/Lectures/L7 - Memory Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "W3 - Design Models and Programming"
+              "title": "L7 - Memory Management"
             }
           }
         ]
@@ -165,12 +165,19 @@
   },
   "active": "059da0bbebdfe24a",
   "lastOpenFiles": [
+    "COMP30023 - Computer Systems/Lectures/L2 - Operating System Overview.md",
+    "COMP30023 - Computer Systems/Lectures/L3 - Computer Architecture Continued.md",
+    "COMP30023 - Computer Systems/Lectures/L4 - Multiprogramming.md",
+    "COMP30023 - Computer Systems/Lectures/L1 - Subject Introduction.md",
+    "COMP30023 - Computer Systems/Lectures/L7 - Memory Management.md",
+    "COMP30023 - Computer Systems/Lectures/L6 - CPU Scheduling.md",
+    "SWEN30006 - Software Modelling and Design/Workshops/W1 - Use Cases.md",
+    "SWEN30006 - Software Modelling and Design/Workshops/W2 - Domain Models.md",
+    "SWEN30006 - Software Modelling and Design/Workshops/W3 - Design Models and Programming.md",
     "SWEN30006 - Software Modelling and Design/imgs/design-sequence-diagram.png",
     "SWEN30006 - Software Modelling and Design/imgs/representational-gap.png",
     "SWEN30006 - Software Modelling and Design/imgs/design-class-model.png",
-    "SWEN30006 - Software Modelling and Design/Workshops/W3 - Design Models and Programming.md",
     "Screenshot 2025-03-25 at 3.21.53 pm.png",
-    "SWEN30006 - Software Modelling and Design/Workshops/W2 - Domain Models.md",
     "SWEN20003 - Object Oriented Software Development/Lectures.md",
     "SWEN30006 - Software Modelling and Design/Lectures/L4 - Responsibility Driven Design.md",
     "SWEN30006 - Software Modelling and Design/Lectures/L3 - Object Oriented Design Models.md",
@@ -180,12 +187,8 @@
     "MUR/Electronics Housing.md",
     "COMP30023 - Computer Systems/Workshops/W4 - Scheduling.md",
     "COMP30023 - Computer Systems/Lectures/L5 - IPC and Race Conditions.md",
-    "COMP30023 - Computer Systems/Lectures/L4 - Multiprogramming.md",
-    "COMP30023 - Computer Systems/Lectures/L3 - Computer Architecture Continued.md",
-    "COMP30023 - Computer Systems/Lectures/L6 - CPU Scheduling.md",
     "COMP30027 - Machine Learning/Lectures/L6 - Model Evaluation.md",
     "COMP30023 - Computer Systems/Readings/Week 1 - Operating Systems Overview.md",
-    "COMP30023 - Computer Systems/Lectures/L2 - Operating System Overview.md",
     "COMP30023 - Computer Systems/imgs/context-switch-diagram.png",
     "COMP20008 - Elements of Data Processing/Lectures/L16 - ML Continued.md",
     "COMP20008 - Elements of Data Processing/Lectures/L10 - Continued Clustering.md",
@@ -193,14 +196,11 @@
     "COMP20008 - Elements of Data Processing/Lectures/L8 - Visualisation and Document Comparison.md",
     "COMP20008 - Elements of Data Processing/Lectures/L7 - Document Processing (Unstructured Data).md",
     "COMP20008 - Elements of Data Processing/Assignment 2 - Research Project.md",
-    "COMP20008 - Elements of Data Processing/Lectures/L20 - Assignment 2 Presentation.md",
-    "COMP20008 - Elements of Data Processing/Lectures/L13 - Classification Methodologies.md",
     "COMP30027 - Machine Learning/imgs/gaussian-naive-bayes.png",
     "COMP30027 - Machine Learning/imgs/binning.png",
     "SWEN30006 - Software Modelling and Design/imgs/w2-use-case-diagram.png",
     "SWEN30006 - Software Modelling and Design/imgs/w2-ssd-1.png",
     "SWEN30006 - Software Modelling and Design/imgs/w2-ssd-2.png",
-    "SWEN30006 - Software Modelling and Design/imgs/w2-domain-class-diagram.png",
     "COMP30027 - Machine Learning/imgs",
     "COMP30024 - Artificial Intelligence/workshops",
     "COMP30023 - Computer Systems/imgs",
