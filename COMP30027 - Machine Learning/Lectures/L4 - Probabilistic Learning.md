@@ -94,6 +94,7 @@ There are several *probabilistic smoothing* solutions
 
 **Solution 1**:
 The solution to this is typically picking a small value $\epsilon$
+- *Epsilon Smoothing*
 - This is essentially treating all unobserved combinations/events as unlikely
 - This is another naive assumption (if we haven't seen it in training, it must be pretty unlikely)
 
