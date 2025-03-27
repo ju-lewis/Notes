@@ -189,3 +189,5 @@ Not all pages have to be in physical memory at the same time to run a process
 The operating system maintains a *page table* which records the mappings from pages to frames
 - Each entry indicates where each page is placed in physical memory
 
+The *Page Table Base Register (PTBR)* points to the start of the page table
+

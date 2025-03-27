@@ -11,10 +11,14 @@
             "id": "b201f64a629e417c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "COMP30023 - Computer Systems/Lectures/L8 - Virtual Paged Memory Continued.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "L8 - Virtual Paged Memory Continued"
             }
           }
         ]
@@ -161,6 +165,8 @@
   },
   "active": "b201f64a629e417c",
   "lastOpenFiles": [
+    "COMP30023 - Computer Systems/Lectures/L7 - Memory Management.md",
+    "COMP30023 - Computer Systems/Lectures/L8 - Virtual Paged Memory Continued.md",
     "COMP30027 - Machine Learning/Lectures/L7 - Evaluation and Decision Trees.md",
     "MUR/Electronics Housing/Interview Notes.md",
     "MUR/Manufacturing Rep.md",
@@ -177,7 +183,6 @@
     "MUR/Electronics Housing/High Voltage Junction Box.md",
     "COMP30027 - Machine Learning/Lectures/L5 - Probabilistic Learning Continued.md",
     "SWEN30006 - Software Modelling and Design/Workshops/W3 - Design Models and Programming.md",
-    "COMP30023 - Computer Systems/Lectures/L7 - Memory Management.md",
     "SWEN30006 - Software Modelling and Design/imgs/design-sequence-diagram.png",
     "SWEN30006 - Software Modelling and Design/imgs/representational-gap.png",
     "SWEN30006 - Software Modelling and Design/imgs/design-class-model.png",
@@ -191,7 +196,6 @@
     "MUR/Electronics Housing.md",
     "COMP30023 - Computer Systems/Workshops/W4 - Scheduling.md",
     "COMP30023 - Computer Systems/Lectures/L5 - IPC and Race Conditions.md",
-    "COMP30023 - Computer Systems/Lectures/L4 - Multiprogramming.md",
     "COMP30023 - Computer Systems/imgs/context-switch-diagram.png",
     "COMP30027 - Machine Learning/imgs/gaussian-naive-bayes.png",
     "COMP30027 - Machine Learning/imgs/binning.png",
