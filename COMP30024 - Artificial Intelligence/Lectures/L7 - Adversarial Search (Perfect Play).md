@@ -86,6 +86,7 @@ function MinimaxValue(state, game) returns a utility value
 		return lowest MinimaxValue of successors(state)
 ```
 
+`MinimaxDecision` is effectively a wrapper function that translates the value search into an operator for the agent. 
 
 ### Minimax Properties
 

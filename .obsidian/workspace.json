@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP30023 - Computer Systems/Lectures/L8 - Virtual Paged Memory Continued.md",
+                "file": "COMP30024 - Artificial Intelligence/Lectures/L8 - Adversarial Search Continued.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L8 - Virtual Paged Memory Continued"
+              "title": "L8 - Adversarial Search Continued"
             }
           }
         ]
@@ -163,17 +163,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b201f64a629e417c",
+  "active": "6c97bbfdf07a7dc8",
   "lastOpenFiles": [
-    "COMP30023 - Computer Systems/Lectures/L7 - Memory Management.md",
+    "COMP30024 - Artificial Intelligence/imgs/minimax-weights.png",
+    "COMP30024 - Artificial Intelligence/Lectures/L7 - Adversarial Search (Perfect Play).md",
+    "COMP30024 - Artificial Intelligence/Lectures/L8 - Adversarial Search Continued.md",
+    "COMP30024 - Artificial Intelligence/imgs/alpha-beta-pruning.png",
     "COMP30023 - Computer Systems/Lectures/L8 - Virtual Paged Memory Continued.md",
+    "COMP30023 - Computer Systems/Lectures/L7 - Memory Management.md",
     "COMP30027 - Machine Learning/Lectures/L7 - Evaluation and Decision Trees.md",
     "MUR/Electronics Housing/Interview Notes.md",
     "MUR/Manufacturing Rep.md",
     "MAST20004 - Probability/Week 11 Summary.md",
     "MUR/Electronics Housing/Responsibilities.md",
     "MUR/Electronics Housing/Meeting Notes.md",
-    "COMP30024 - Artificial Intelligence/Lectures/L7 - Adversarial Search (Perfect Play).md",
     "COMP30024 - Artificial Intelligence/imgs/minimax-tree.png",
     "COMP30024 - Artificial Intelligence/Lectures/L6 - Heuristics.md",
     "COMP30024 - Artificial Intelligence/workshops/W3 - Informed Search.md",
@@ -194,13 +197,10 @@
     "COMP30024 - Artificial Intelligence/Lectures/L5 - Informed Search Strategies.md",
     "MUR/Low Voltage.md",
     "MUR/Electronics Housing.md",
-    "COMP30023 - Computer Systems/Workshops/W4 - Scheduling.md",
-    "COMP30023 - Computer Systems/Lectures/L5 - IPC and Race Conditions.md",
     "COMP30023 - Computer Systems/imgs/context-switch-diagram.png",
     "COMP30027 - Machine Learning/imgs/gaussian-naive-bayes.png",
     "COMP30027 - Machine Learning/imgs/binning.png",
     "SWEN30006 - Software Modelling and Design/imgs/w2-use-case-diagram.png",
-    "SWEN30006 - Software Modelling and Design/imgs/w2-ssd-1.png",
     "COMP30027 - Machine Learning/imgs",
     "COMP30024 - Artificial Intelligence/workshops",
     "COMP30023 - Computer Systems/imgs",
