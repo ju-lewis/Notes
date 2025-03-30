@@ -88,3 +88,10 @@ $$\text{Precision} = \frac{TP}{TP + FP}$$
 **Recall**
 Disincentivises false negatives
 $$\text{Recall} = \frac{TP}{TP + FN}$$
+>[!note]
+>Also called sensitivity!
+
+**Specificity**
+Proportion of true negative cases the model was able to detect
+$$\text{Specificity} = \frac{TN}{TN+FP}$$
+
