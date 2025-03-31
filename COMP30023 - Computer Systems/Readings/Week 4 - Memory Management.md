@@ -41,6 +41,61 @@ Saving/loading execution contexts from disk
 
 ## Memory Management with Linked Lists
 
+You can store a linked list between holes / occupied regions
+- Each region stores a base/limit pointer
+
 
 # Paged Virtual Memory
+
+Each program has its own address space, which is broken up into chunks called *pages*
+Pages are mapped onto physical memory
+
+Not all pages have to be in physical memory at the same time to run the program!
+
+
+## Paging
+
+Program-generated addresses are called *virtual addresses* and form the *virtual address space*
+
+Physical memory is divided into *frames*.
+
+
+Typically there are more pages than frames in a system.
+
+Modern operating systems often support mixed size pages:
+	e.g. 4KB for user applications and 1GB for the kernel
+
+
+Page faults occur when a program references an address in a page that doesn't currently occupy a frame.
+- Present/Absent bit = 0 in page table entry
+
+
+### Page Tables
+
+A common size for a page table entry is 32 bits
+
+Entries often contain:
+- Page frame number
+- Present/absent bit
+- Protection bit (read/write access locks)
+- Modified bit
+- Referenced bit
+
+### Translation Lookaside Buffer
+
+Hardware cache supporting much faster address resolution
+
+### Page Replacement
+
+When a page fault occurs, the OS has to choose a page to evict to make room for the new page.
+
+If the page has been modified while in memory, it must be rewritten to the disk to bring the disk copy up to date
+- If it hasn't no rewrite is needed.
+
+
+See specific page replacement algorithms [[L8 - Virtual Paged Memory Continued#Page Replacement Algorithms|here]].
+- Generally the premise is to store a data structure of tables (either an order preserving one like a linked list for FIFO related algorithms) or a table using a set of counter bits for a LRU implementation
+
+
+
 
