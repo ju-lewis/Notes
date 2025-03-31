@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP30023 - Computer Systems/Readings/Week 4 - Memory Management.md",
+                "file": "COMP30024 - Artificial Intelligence/Lectures/L8 - Adversarial Search Continued.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week 4 - Memory Management"
+              "title": "L8 - Adversarial Search Continued"
             }
           }
         ]
@@ -165,6 +165,9 @@
   },
   "active": "059da0bbebdfe24a",
   "lastOpenFiles": [
+    "COMP30024 - Artificial Intelligence/readings/W4 - Adversarial Search.md",
+    "COMP30023 - Computer Systems/Readings/Week 4 - Memory Management.md",
+    "COMP30024 - Artificial Intelligence/readings",
     "MUR/Electronics Housing/Interview Notes.md",
     "SWEN30006 - Software Modelling and Design/Lectures/L5 - Design Models Continued.md",
     "MUR/Electronics Housing/Meeting Notes.md",
@@ -177,7 +180,6 @@
     "COMP30023 - Computer Systems/Workshops/W4 - Scheduling.md",
     "COMP30023 - Computer Systems/Workshops/W2 - OS Overview.md",
     "COMP30027 - Machine Learning/Lectures/L8 - Instance-based Learning.md",
-    "COMP30023 - Computer Systems/Readings/Week 4 - Memory Management.md",
     "COMP30027 - Machine Learning/Lectures/L7 - Evaluation and Decision Trees.md",
     "COMP30027 - Machine Learning/Lectures/L6 - Model Evaluation.md",
     "COMP30024 - Artificial Intelligence/Lectures/L8 - Adversarial Search Continued.md",
@@ -197,7 +199,6 @@
     "SWEN30006 - Software Modelling and Design/imgs/representational-gap.png",
     "SWEN30006 - Software Modelling and Design/imgs/design-class-model.png",
     "Screenshot 2025-03-25 at 3.21.53 pm.png",
-    "SWEN20003 - Object Oriented Software Development/Lectures.md",
     "COMP30023 - Computer Systems/imgs/context-switch-diagram.png",
     "COMP30027 - Machine Learning/imgs/gaussian-naive-bayes.png",
     "COMP30027 - Machine Learning/imgs/binning.png",
@@ -209,7 +210,6 @@
     "COMP30024 - Artificial Intelligence/imgs",
     "SWEN20003 - Object Oriented Software Development/imgs",
     "COMP20004 - Design of Algorithms/imgs",
-    "COMP30024 - Artificial Intelligence/Lectures",
-    "COMP30023 - Computer Systems/Lectures"
+    "COMP30024 - Artificial Intelligence/Lectures"
   ]
 }
