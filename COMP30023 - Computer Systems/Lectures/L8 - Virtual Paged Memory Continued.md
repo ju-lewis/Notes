@@ -22,8 +22,6 @@ $m$ bits to represent the logical address
 $n$ bits to represent the page offset
 - The page size is $2^n$
 
-$m-n$ bits to represent the page number
-
 This allows the CPU to efficiently lookup the frame number and add the offset, as they're separate numbers
 - No multiplication is required because we can directly store the frame address, instead of the frame *number*
 
