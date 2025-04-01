@@ -17,7 +17,7 @@ Assign responsibility to an intermediate object to mediate between other compone
 
 ## Discussion
 
-The motivation for indirection is usually Low Coupling (i.ee, decouple objects for future reuse)
+The motivation for indirection is usually Low Coupling (i.e, decouple objects for future reuse)
 
 Old adage:
 	"Most problems in computer science are solve by another level of indirection."
