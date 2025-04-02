@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP30023 - Computer Systems/Lectures/L9 - End of MMU & Secure Communication.md",
+                "file": "COMP30027 - Machine Learning/Lectures/L7 - Evaluation and Decision Trees.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L9 - End of MMU & Secure Communication"
+              "title": "L7 - Evaluation and Decision Trees"
             }
           }
         ]
@@ -165,12 +165,19 @@
   },
   "active": "059da0bbebdfe24a",
   "lastOpenFiles": [
-    "COMP30024 - Artificial Intelligence/Lectures/L5 - Informed Search Strategies.md",
+    "COMP30027 - Machine Learning/Lectures/L6 - Model Evaluation.md",
+    "COMP30027 - Machine Learning/Lectures/L4 - Probabilistic Learning.md",
+    "COMP30027 - Machine Learning/Lectures/L5 - Probabilistic Learning Continued.md",
+    "COMP30027 - Machine Learning/Lectures/L7 - Evaluation and Decision Trees.md",
+    "COMP30024 - Artificial Intelligence/workshops/W4 - Adversarial Search.md",
+    "COMP30024 - Artificial Intelligence/Lectures/L7 - Adversarial Search (Perfect Play).md",
+    "COMP30024 - Artificial Intelligence/Lectures/L4 - Uninformed Search Strategies.md",
+    "COMP30024 - Artificial Intelligence/workshops/W3 - Informed Search.md",
     "COMP30023 - Computer Systems/Lectures/L9 - End of MMU & Secure Communication.md",
+    "COMP30024 - Artificial Intelligence/Lectures/L5 - Informed Search Strategies.md",
     "COMP30024 - Artificial Intelligence/Lectures/L6 - Heuristics.md",
     "COMP30024 - Artificial Intelligence/Lectures/L8 - Adversarial Search Continued.md",
     "COMP30024 - Artificial Intelligence/Lectures/L2 - Intelligent Agents.md",
-    "COMP30024 - Artificial Intelligence/Lectures/L4 - Uninformed Search Strategies.md",
     "SWEN30006 - Software Modelling and Design/Workshops/W4 - GRASP Design Patterns.md",
     "SWEN30006 - Software Modelling and Design/Lectures/L5 - Design Models Continued.md",
     "SWEN30006 - Software Modelling and Design/Lectures/L3 - Object Oriented Design Models.md",
@@ -184,14 +191,7 @@
     "PHYC10008 - From the Solar System to the Cosmos/Week 4/L11 - Terrestrial Planets, Continued.md",
     "SWEN30006 - Software Modelling and Design/Lectures/L2 - Domain Models and System Sequence Diagrams.md",
     "MUR/Electronics Housing/Responsibilities.md",
-    "COMP30024 - Artificial Intelligence/readings/W4 - Adversarial Search.md",
     "COMP30024 - Artificial Intelligence/readings",
-    "MUR/Electronics Housing/Meeting Notes.md",
-    "MUR/Electronics Housing/Interview Notes.md",
-    "SWEN30006 - Software Modelling and Design/Workshops/W3 - Design Models and Programming.md",
-    "COMP30023 - Computer Systems/Workshops/W5 - Memory Management.md",
-    "COMP30023 - Computer Systems/Lectures/L8 - Virtual Paged Memory Continued.md",
-    "COMP30023 - Computer Systems/Lectures/L7 - Memory Management.md",
     "COMP30024 - Artificial Intelligence/imgs/minimax-weights.png",
     "COMP30024 - Artificial Intelligence/imgs/minimax-tree.png",
     "COMP30024 - Artificial Intelligence/imgs/alpha-beta-pruning.png",
