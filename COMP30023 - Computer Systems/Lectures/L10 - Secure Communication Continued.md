@@ -31,7 +31,7 @@ A MAC function:
 - Is typically a cryptographic hash function that takes as input *the secret key* and *the message* concatenated somehow
 
 ### MAC Message Exchange Protocol
-Alice ad Bob have a shared secret key $K_s$ and want to verify the integrity of the messages they exchange:
+Alice and Bob have a shared secret key $K_s$ and want to verify the integrity of the messages they exchange:
 1. Alice generates a message $m$ she wants to share
 2. Alice generates a tag $t=mac(m, K_s)$
 3. Alice send $m$ and $t$ to Bob

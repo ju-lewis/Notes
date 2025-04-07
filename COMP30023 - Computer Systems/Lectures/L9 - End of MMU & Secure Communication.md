@@ -77,7 +77,7 @@ AES, and block ciphers in general, have different modes of operation
 	- CBC - Cipher Block Chaining
 
 
-### Electronic Codebook
+### ECB - Electronic Codebook
 
 Each block is encrypted and decrypted independently using $K_s$
 - *Deterministic Encryption*
@@ -112,7 +112,8 @@ Must be done sequentially
 Can be done in parallel
 - No need to decrypt block $n-1$ before descrypting block $n$
 
-
+>[!note]
+>If a ciphertext block is lost/corrupted, it only impacts itself and the block immediately after
 
 ## Asymmetric Encryption
 

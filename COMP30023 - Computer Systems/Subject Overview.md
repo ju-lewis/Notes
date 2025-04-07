@@ -1,5 +1,5 @@
 
-## Assessment Structure
+# Assessment Structure
 
 **Weekly Quizzes**
 - Worth 10% total
@@ -20,4 +20,18 @@
 - Written, closed book
 
 
+
+# MST Preparation Notes
+
+## Week 1 - Operating System Overview
+## Week 2 & 3 - Multiprogramming
+
+
+**Process Creation (`fork`ing)**:
+- If asked "how many threads were created?", we don't consider calling `fork` creating a thread (as it's only implicit)
+	- *Example*: tutorial-03 Q.5
+
+
+
+## Week 4 - Memory Management
 
