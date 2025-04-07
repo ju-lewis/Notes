@@ -1,4 +1,18 @@
 
+## Q1. Interrupt-based Mutex
+**1a.** This method provides mutual exclusion as disabling interrupts prevents the OS from triggering context switches to other processes or threads. This means that once a process enters its critical region, it will run uninterrupted until it can exit and re-enable  interrupts.
+
+**1b.** Providing the ability to enable and disable interrupts for user-space programs is a security vulnerability as a single bug in one of the programs can completely stop the OS (until force rebooted).
+
+
+## Q2. Yield Mutex Context Switching
+
+If there is a pre-emptive scheduling algorithm (like round-robin) that will attempt to provide all processes with CPU time and many processes waiting to access a single critical region, the scheduler will select processes to run just for them to check the lock and return to the ready queue. This leads to unnecessary switching and 'polling' the ready processes until the critical region is free.
+
+## Q3. Priority Inversion with Non-Priority Algorithms
+
+No, priority inversion is not possible with round-robin scheduling as there is no low-priority process that is starved of CPU time. The process in the critical region will eventually be given enough CPU time to exit the critical region and allow the waiting process(es) to enter the region.
+
 ## Q5. Batch Job Scheduling
 5 batch jobs arrive at the same time - (A,B,C,D,E)
 They have estimated running times  - (10, 6, 2, 4, 8) in minutes
