@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP30023 - Computer Systems/Lectures/L10 - Secure Communication Continued.md",
+                "file": "COMP30023 - Computer Systems/Lectures/L8 - Virtual Paged Memory Continued.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L10 - Secure Communication Continued"
+              "title": "L8 - Virtual Paged Memory Continued"
             }
           }
         ]
@@ -165,15 +165,17 @@
   },
   "active": "059da0bbebdfe24a",
   "lastOpenFiles": [
-    "COMP30023 - Computer Systems/Lectures/L9 - End of MMU & Secure Communication.md",
-    "COMP30023 - Computer Systems/Lectures/L10 - Secure Communication Continued.md",
+    "COMP30027 - Machine Learning/Lectures/L6 - Model Evaluation.md",
+    "COMP30024 - Artificial Intelligence/Lectures/L10 - Monte Carlo Tree Search.md",
     "COMP30027 - Machine Learning/Lectures/L9 - Support Vector Machines.md",
+    "COMP30024 - Artificial Intelligence/imgs/mcts-example.png",
+    "COMP30023 - Computer Systems/Lectures/L10 - Secure Communication Continued.md",
+    "COMP30023 - Computer Systems/Lectures/L9 - End of MMU & Secure Communication.md",
     "COMP30027 - Machine Learning/imgs/non-linear-svm.png",
     "COMP30027 - Machine Learning/imgs/svm-margin.png",
     "COMP30024 - Artificial Intelligence/Lectures/L9 - Machine Learning in Game Search.md",
     "COMP30024 - Artificial Intelligence/Lectures/L8 - Adversarial Search Continued.md",
     "COMP30027 - Machine Learning/Lectures/L7 - Evaluation and Decision Trees.md",
-    "COMP30027 - Machine Learning/Lectures/L6 - Model Evaluation.md",
     "COMP30027 - Machine Learning/Lectures/L4 - Probabilistic Learning.md",
     "COMP30027 - Machine Learning/Lectures/L5 - Probabilistic Learning Continued.md",
     "COMP30024 - Artificial Intelligence/workshops/W4 - Adversarial Search.md",
@@ -191,8 +193,6 @@
     "PHYC10008 - From the Solar System to the Cosmos/Week 9/L26 - The Milky Way.md",
     "SWEN20003 - Object Oriented Software Development/Lectures.md",
     "MAST20004 - Probability/Week 9 Summary.md",
-    "MAST20004 - Probability/Week 8 Summary.md",
-    "MAST20004 - Probability/Week 11 Summary.md",
     "COMP30024 - Artificial Intelligence/readings",
     "COMP30024 - Artificial Intelligence/imgs/minimax-weights.png",
     "COMP30024 - Artificial Intelligence/imgs/minimax-tree.png",
@@ -201,7 +201,6 @@
     "SWEN30006 - Software Modelling and Design/imgs/representational-gap.png",
     "SWEN30006 - Software Modelling and Design/imgs/design-class-model.png",
     "Screenshot 2025-03-25 at 3.21.53 pm.png",
-    "COMP30023 - Computer Systems/imgs/context-switch-diagram.png",
     "COMP30027 - Machine Learning/imgs",
     "COMP30024 - Artificial Intelligence/workshops",
     "COMP30023 - Computer Systems/imgs",
