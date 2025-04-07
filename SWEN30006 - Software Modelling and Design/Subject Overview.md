@@ -43,3 +43,5 @@ Project groups need to be formed before week 2
 32% for 2 *project assignments* (in groups)
 60% for *final examination*
 
+
+
