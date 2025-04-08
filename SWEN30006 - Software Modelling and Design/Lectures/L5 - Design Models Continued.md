@@ -25,7 +25,7 @@ Old adage:
 There is however, a performance overhead associated with indirection.
 
 
-# Graps Patterns Continued
+# GRASP Patterns Continued
 
 ## Pure Fabrication
 
