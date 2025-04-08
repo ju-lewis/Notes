@@ -31,7 +31,8 @@
 - If asked "how many threads were created?", we don't consider calling `fork` creating a thread (as it's only implicit)
 	- *Example*: tutorial-03 Q.5
 
-
+**Scheduling Algorithms**
+- [ ] Review readings on MLFQ (how does scheduling work within the levels?)
 
 ## Week 4 - Memory Management
 
