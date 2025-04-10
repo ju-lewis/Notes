@@ -119,7 +119,13 @@ This is important, because there *CANNOT* be a context switch between testing th
 2. if `REGISTER` is 0, enter critical region
 3. is `REGISTER` is *not* 0, lock is set so go back to step 1 (busy wait)
 **When leaving the critical region**:
-1. Set lock to 0
+4. Set lock to 0
+
+```asm
+enter_region:
+	TSL REGISTER, LOCK
+	CO
+```
 
 ## Blocking
 
@@ -138,15 +144,22 @@ Hardware support for the process/thread to voluntarily yield access to the CPU.
 
 ```asm
 mutex_lock:
-	TSL REGISTER, MUTEX
-	CMP REGISTER, #0
-	JZE ok
-	CALL thread_yield
-	JMP mutex_lock
-ok:	RET
+	TSL REGISTER, MUTEX ; Copy value of mutex and set mutex to 1 (atomic)
+	CMP REGISTER, #0    ; See if the mutex was unlocked
+	JZE ok              ; If it was unlocked at test, jump to `ok`
+	CALL thread_yield   ; If it wasn't unlocked, yield CPU
+	JMP mutex_lock      ; Check lock status again
+ok:	RET                 ; Return if unlocked (enter critical region)
 
 mutex_unlock:
-	MOV MUTEX, #0
+	MOV MUTEX, #0       ; Set the MUTEX to be unlocked
 	RET
 ```
+
+
+>[!Note]
+>This approach *can* cause excessive context switching with round-robin-like scheduling algorithms if multiple processes/threads are waiting for a single critical region. (Each thread/process will continuously be scheduled just to poll the lock and return to the ready queue when they yield control)
+
+
+
 

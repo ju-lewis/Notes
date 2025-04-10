@@ -61,6 +61,6 @@ System call execution:
 
 
 # Why Processes?
-Support the ability to run multiple programs simultaneously on a single CPU
+Support the ability to run multiple programs concurrently on a single CPU
 
 
