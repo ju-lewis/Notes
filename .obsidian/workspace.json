@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SWEN30006 - Software Modelling and Design/Lectures/L7 - GOF Design Patterns.md",
+                "file": "COMP30023 - Computer Systems/Lectures/L12 - Socket Programming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L7 - GOF Design Patterns"
+              "title": "L12 - Socket Programming"
             }
           }
         ]
@@ -163,13 +163,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c97bbfdf07a7dc8",
+  "active": "059da0bbebdfe24a",
   "lastOpenFiles": [
+    "SWEN30006 - Software Modelling and Design/Lectures/L7 - GOF Design Patterns.md",
+    "COMP30023 - Computer Systems/Lectures/L12 - Socket Programming.md",
     "SWEN30006 - Software Modelling and Design/imgs/builder-juice-example.png",
     "SWEN30006 - Software Modelling and Design/imgs/decorator-pattern.png",
     "SWEN30006 - Software Modelling and Design/imgs/facade-pattern.png",
     "SWEN30006 - Software Modelling and Design/Lectures/L2 - Domain Models and System Sequence Diagrams.md",
-    "SWEN30006 - Software Modelling and Design/Lectures/L7 - GOF Design Patterns.md",
     "SWEN30006 - Software Modelling and Design/Lectures/L5 - Design Models Continued.md",
     "SWEN30006 - Software Modelling and Design/Lectures/L6 - State Machines.md",
     "COMP30023 - Computer Systems/Workshops/W6 - Network Protocols.md",
@@ -201,7 +202,6 @@
     "COMP30024 - Artificial Intelligence/readings",
     "COMP30024 - Artificial Intelligence/imgs/minimax-weights.png",
     "COMP30024 - Artificial Intelligence/imgs/minimax-tree.png",
-    "COMP30024 - Artificial Intelligence/imgs/alpha-beta-pruning.png",
     "COMP30027 - Machine Learning/imgs",
     "COMP30024 - Artificial Intelligence/workshops",
     "COMP30023 - Computer Systems/imgs",
