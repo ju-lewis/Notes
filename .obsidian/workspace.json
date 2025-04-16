@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a9584d7607ec2860",
+        "id": "8dcb077536600df7",
         "type": "tabs",
         "children": [
           {
-            "id": "059da0bbebdfe24a",
+            "id": "4980c5d971673275",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SWEN30006 - Software Modelling and Design/Workshops/W6 - State Machines.md",
+                "file": "COMP30024 - Artificial Intelligence/Lectures/L13 - Constraint Satisfaction Problems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "W6 - State Machines"
+              "title": "L13 - Constraint Satisfaction Problems"
             }
           }
         ]
@@ -163,9 +163,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c97bbfdf07a7dc8",
+  "active": "4980c5d971673275",
   "lastOpenFiles": [
+    "Screenshot 2025-04-16 at 4.40.13 pm.png",
+    "COMP30024 - Artificial Intelligence/imgs/CSP-problem-example.png",
+    "COMP30024 - Artificial Intelligence/Lectures/L13 - Constraint Satisfaction Problems.md",
     "SWEN20003 - Object Oriented Software Development/Lectures.md",
+    "COMP30024 - Artificial Intelligence/workshops/W6 - Project Game Analysis.md",
+    "COMP30024 - Artificial Intelligence/workshops/W5 - Machine Learning in Game Play.md",
     "SWEN30006 - Software Modelling and Design/Workshops/W6 - State Machines.md",
     "SWEN30006 - Software Modelling and Design/imgs/w6-nested-states.png",
     "SWEN30006 - Software Modelling and Design/Lectures/L6 - State Machines.md",
@@ -193,14 +198,9 @@
     "COMP30023 - Computer Systems/Lectures/L4 - Multiprogramming.md",
     "COMP30023 - Computer Systems/Lectures/L7 - Memory Management.md",
     "COMP30023 - Computer Systems/Lectures/L6 - CPU Scheduling.md",
-    "COMP30023 - Computer Systems/Workshops/W2 - OS Overview.md",
-    "COMP30023 - Computer Systems/Workshops/W3 - Processes and Threads.md",
-    "SWEN30006 - Software Modelling and Design/Lectures/L4 - Responsibility Driven Design.md",
-    "SWEN30006 - Software Modelling and Design/Workshops/W2 - Domain Models.md",
     "SWEN30006 - Software Modelling and Design/imgs/state-machine-example.png",
     "COMP30024 - Artificial Intelligence/imgs/mcts-example.png",
     "COMP30027 - Machine Learning/imgs/non-linear-svm.png",
-    "COMP30027 - Machine Learning/imgs/svm-margin.png",
     "COMP30024 - Artificial Intelligence/readings",
     "COMP30027 - Machine Learning/imgs",
     "COMP30024 - Artificial Intelligence/workshops",
