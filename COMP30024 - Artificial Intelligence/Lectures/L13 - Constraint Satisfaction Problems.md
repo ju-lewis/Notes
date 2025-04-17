@@ -41,7 +41,7 @@ where $n$ is the number of variables in the CSP
 >![[CSP-problem-example.png]]
 >
 >We can form the *constraint graph*:
->![[Screenshot 2025-04-16 at 4.40.13 pm.png]]
+>![[cryptarithmetic-csp.png]]
 >
 >**Constraints**:
 >- All different (this it the top square that reaches all variables)
