@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "31f176239a24a4ea",
+            "id": "df7267691a6fe18e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP30027 - Machine Learning/Lectures/L13 - Classifier Combination.md",
+                "file": "COMP30023 - Computer Systems/Lectures/L13 - DNS, SMTP, IMAP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L13 - Classifier Combination"
+              "title": "L13 - DNS, SMTP, IMAP"
             }
           }
         ]
@@ -163,11 +163,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "31f176239a24a4ea",
+  "active": "df7267691a6fe18e",
   "lastOpenFiles": [
+    "Pasted image 20250417144603.png",
+    "COMP30023 - Computer Systems/Lectures/L13 - DNS, SMTP, IMAP.md",
+    "COMP30023 - Computer Systems/imgs/resource-record-example.png",
+    "COMP30027 - Machine Learning/Lectures/L13 - Classifier Combination.md",
     "COMP30027 - Machine Learning/imgs/adaboost-diagram.png",
     "COMP30024 - Artificial Intelligence/imgs/cryptarithmetic-csp.png",
-    "COMP30027 - Machine Learning/Lectures/L13 - Classifier Combination.md",
     "COMP30024 - Artificial Intelligence/Lectures/L13 - Constraint Satisfaction Problems.md",
     "COMP30024 - Artificial Intelligence/imgs/CSP-problem-example.png",
     "SWEN20003 - Object Oriented Software Development/Lectures.md",
@@ -198,8 +201,6 @@
     "COMP30023 - Computer Systems/Subject Overview.md",
     "COMP30023 - Computer Systems/Lectures/L5 - IPC and Race Conditions.md",
     "COMP30023 - Computer Systems/Lectures/L4 - Multiprogramming.md",
-    "COMP30023 - Computer Systems/Lectures/L7 - Memory Management.md",
-    "SWEN30006 - Software Modelling and Design/imgs/state-machine-example.png",
     "COMP30024 - Artificial Intelligence/readings",
     "COMP30027 - Machine Learning/imgs",
     "COMP30024 - Artificial Intelligence/workshops",
