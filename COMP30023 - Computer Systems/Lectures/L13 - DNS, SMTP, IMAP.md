@@ -81,7 +81,7 @@ DNS record names come in two different forms:
 
 >[!Example] Full DNS Resolution Example
 >This example assumes *nothing* is cached (i.e. we need to query for all domain constituents)
-> ![[Pasted image 20250417144603.png]]
+> ![[dns-resolution-example.png]]
 
 # Email
 
