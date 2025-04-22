@@ -1,7 +1,7 @@
 
 # Indirection
 
-**Problem**: Where to assign a responsibility to *avoid direct coupling*  between two (or more) things?
+**Problem**: Where to assign a responsibility to *avoid direct coupling* between two (or more) things?
 - How to de-couple objects so that low coupling is supported and reuse potential remains higher?
 
 **Solution**:

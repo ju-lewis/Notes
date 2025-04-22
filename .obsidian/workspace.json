@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SWEN30006 - Software Modelling and Design/Lectures/L7 - GOF Design Patterns.md",
+                "file": "COMP30024 - Artificial Intelligence/Lectures/L7 - Adversarial Search (Perfect Play).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L7 - GOF Design Patterns"
+              "title": "L7 - Adversarial Search (Perfect Play)"
             }
           }
         ]
@@ -165,6 +165,15 @@
   },
   "active": "df7267691a6fe18e",
   "lastOpenFiles": [
+    "COMP30024 - Artificial Intelligence/Lectures/L6 - Heuristics.md",
+    "COMP30024 - Artificial Intelligence/Lectures/L5 - Informed Search Strategies.md",
+    "SWEN30006 - Software Modelling and Design/Lectures/L5 - Design Models Continued.md",
+    "SWEN30006 - Software Modelling and Design/Lectures/L4 - Responsibility Driven Design.md",
+    "SWEN30006 - Software Modelling and Design/Lectures/L6 - State Machines.md",
+    "SWEN30006 - Software Modelling and Design/Lectures/L7 - GOF Design Patterns.md",
+    "SWEN30006 - Software Modelling and Design/Lectures/L1 - SMD Overview.md",
+    "COMP30024 - Artificial Intelligence/Lectures/L9 - Machine Learning in Game Search.md",
+    "COMP30024 - Artificial Intelligence/Lectures/L10 - Monte Carlo Tree Search.md",
     "SWEN20003 - Object Oriented Software Development/Lectures.md",
     "COMP30023 - Computer Systems/imgs/dns-resolution-example.png",
     "COMP30024 - Artificial Intelligence/Lectures/L14 - CSP Continued.md",
@@ -180,26 +189,18 @@
     "COMP30024 - Artificial Intelligence/workshops/W5 - Machine Learning in Game Play.md",
     "SWEN30006 - Software Modelling and Design/Workshops/W6 - State Machines.md",
     "SWEN30006 - Software Modelling and Design/imgs/w6-nested-states.png",
-    "SWEN30006 - Software Modelling and Design/Lectures/L6 - State Machines.md",
     "SWEN30006 - Software Modelling and Design/Workshops/W3 - Design Models and Programming.md",
     "SWEN30006 - Software Modelling and Design/imgs/w6-state-machine.png",
     "COMP30023 - Computer Systems/Lectures/L12 - Socket Programming.md",
-    "SWEN30006 - Software Modelling and Design/Lectures/L7 - GOF Design Patterns.md",
     "SWEN30006 - Software Modelling and Design/imgs/builder-juice-example.png",
     "SWEN30006 - Software Modelling and Design/imgs/decorator-pattern.png",
     "SWEN30006 - Software Modelling and Design/Lectures/L2 - Domain Models and System Sequence Diagrams.md",
-    "SWEN30006 - Software Modelling and Design/Lectures/L5 - Design Models Continued.md",
     "COMP30023 - Computer Systems/Workshops/W6 - Network Protocols.md",
     "COMP30023 - Computer Systems/Workshops/W5 - Memory Management.md",
     "COMP30027 - Machine Learning/Lectures/L12 - Logistic Regression.md",
     "COMP30027 - Machine Learning/Lectures/L11 - Linear Regression.md",
     "COMP30023 - Computer Systems/Lectures/L11 - Introduction to Networks and OSI Layers.md",
     "COMP30027 - Machine Learning/Lectures/L10 - Interpreting Models.md",
-    "COMP30023 - Computer Systems/Lectures/L3 - Computer Architecture Continued.md",
-    "COMP30023 - Computer Systems/Lectures/L2 - Operating System Overview.md",
-    "COMP30023 - Computer Systems/Workshops/W4 - Scheduling.md",
-    "COMP30023 - Computer Systems/Subject Overview.md",
-    "COMP30023 - Computer Systems/Lectures/L5 - IPC and Race Conditions.md",
     "COMP30024 - Artificial Intelligence/readings",
     "COMP30027 - Machine Learning/imgs",
     "COMP30024 - Artificial Intelligence/workshops",
