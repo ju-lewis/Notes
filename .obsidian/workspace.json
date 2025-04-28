@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP30024 - Artificial Intelligence/Lectures/L7 - Adversarial Search (Perfect Play).md",
+                "file": "COMP30027 - Machine Learning/Lectures/L14 - Feature Selection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L7 - Adversarial Search (Perfect Play)"
+              "title": "L14 - Feature Selection"
             }
           }
         ]
@@ -163,8 +163,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df7267691a6fe18e",
+  "active": "6c97bbfdf07a7dc8",
   "lastOpenFiles": [
+    "COMP30027 - Machine Learning/imgs/contingency-table.png",
+    "COMP30024 - Artificial Intelligence/Lectures/L7 - Adversarial Search (Perfect Play).md",
+    "COMP30027 - Machine Learning/Lectures/L14 - Feature Selection.md",
     "COMP30024 - Artificial Intelligence/Lectures/L6 - Heuristics.md",
     "COMP30024 - Artificial Intelligence/Lectures/L5 - Informed Search Strategies.md",
     "SWEN30006 - Software Modelling and Design/Lectures/L5 - Design Models Continued.md",
@@ -198,9 +201,6 @@
     "COMP30023 - Computer Systems/Workshops/W6 - Network Protocols.md",
     "COMP30023 - Computer Systems/Workshops/W5 - Memory Management.md",
     "COMP30027 - Machine Learning/Lectures/L12 - Logistic Regression.md",
-    "COMP30027 - Machine Learning/Lectures/L11 - Linear Regression.md",
-    "COMP30023 - Computer Systems/Lectures/L11 - Introduction to Networks and OSI Layers.md",
-    "COMP30027 - Machine Learning/Lectures/L10 - Interpreting Models.md",
     "COMP30024 - Artificial Intelligence/readings",
     "COMP30027 - Machine Learning/imgs",
     "COMP30024 - Artificial Intelligence/workshops",
