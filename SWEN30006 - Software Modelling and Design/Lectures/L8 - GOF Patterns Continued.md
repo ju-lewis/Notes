@@ -72,3 +72,11 @@ For each external system we interact with, we define an adapter.
 >[!Note]
 >Use `synchronized` modifier on the `getInstance` method to prevent race conditions.
 
+Not all attributes and methods on the singleton class are static because we may want to perform overriding on subclasses, which isn't possible with static methods.
+
+Also, a class is not always a singleton in all contexts
+
+
+
+
+
