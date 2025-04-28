@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP30027 - Machine Learning/Lectures/L14 - Feature Selection.md",
+                "file": "COMP30023 - Computer Systems/Workshops/W7 - Socket Programming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L14 - Feature Selection"
+              "title": "W7 - Socket Programming"
             }
           }
         ]
@@ -163,11 +163,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c97bbfdf07a7dc8",
+  "active": "df7267691a6fe18e",
   "lastOpenFiles": [
+    "COMP30023 - Computer Systems/Lectures/L13 - DNS, SMTP, IMAP.md",
+    "COMP30023 - Computer Systems/Lectures/L12 - Socket Programming.md",
+    "COMP30023 - Computer Systems/Workshops/W7 - Socket Programming.md",
+    "COMP30023 - Computer Systems/Workshops/W6 - Network Protocols.md",
+    "COMP30023 - Computer Systems/Workshops/W5 - Memory Management.md",
+    "COMP30027 - Machine Learning/Lectures/L14 - Feature Selection.md",
+    "COMP30023 - Computer Systems/Lectures/Untitled.md",
     "COMP30027 - Machine Learning/imgs/contingency-table.png",
     "COMP30024 - Artificial Intelligence/Lectures/L7 - Adversarial Search (Perfect Play).md",
-    "COMP30027 - Machine Learning/Lectures/L14 - Feature Selection.md",
     "COMP30024 - Artificial Intelligence/Lectures/L6 - Heuristics.md",
     "COMP30024 - Artificial Intelligence/Lectures/L5 - Informed Search Strategies.md",
     "SWEN30006 - Software Modelling and Design/Lectures/L5 - Design Models Continued.md",
@@ -181,7 +187,6 @@
     "COMP30023 - Computer Systems/imgs/dns-resolution-example.png",
     "COMP30024 - Artificial Intelligence/Lectures/L14 - CSP Continued.md",
     "COMP30024 - Artificial Intelligence/imgs/tree-csp-arc-consistency.png",
-    "COMP30023 - Computer Systems/Lectures/L13 - DNS, SMTP, IMAP.md",
     "COMP30023 - Computer Systems/imgs/resource-record-example.png",
     "COMP30027 - Machine Learning/Lectures/L13 - Classifier Combination.md",
     "COMP30027 - Machine Learning/imgs/adaboost-diagram.png",
@@ -194,13 +199,8 @@
     "SWEN30006 - Software Modelling and Design/imgs/w6-nested-states.png",
     "SWEN30006 - Software Modelling and Design/Workshops/W3 - Design Models and Programming.md",
     "SWEN30006 - Software Modelling and Design/imgs/w6-state-machine.png",
-    "COMP30023 - Computer Systems/Lectures/L12 - Socket Programming.md",
     "SWEN30006 - Software Modelling and Design/imgs/builder-juice-example.png",
-    "SWEN30006 - Software Modelling and Design/imgs/decorator-pattern.png",
     "SWEN30006 - Software Modelling and Design/Lectures/L2 - Domain Models and System Sequence Diagrams.md",
-    "COMP30023 - Computer Systems/Workshops/W6 - Network Protocols.md",
-    "COMP30023 - Computer Systems/Workshops/W5 - Memory Management.md",
-    "COMP30027 - Machine Learning/Lectures/L12 - Logistic Regression.md",
     "COMP30024 - Artificial Intelligence/readings",
     "COMP30027 - Machine Learning/imgs",
     "COMP30024 - Artificial Intelligence/workshops",
