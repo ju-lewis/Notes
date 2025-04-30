@@ -40,7 +40,7 @@ How can we get more data out of a fixed dataset?
 Randomly sample the original dataset $N$ times, *with replacement*
 - Bootstrap sampling
 - We get a new dataset of the same size, where any individual instance is absent with probability $(1-\frac{1}{N})^N$
-Construct $k$ random datasets for $k$ base classifiers
+Repeat to construct $k$ random datasets for $k$ base classifiers
 
 
 ### Summary
@@ -118,7 +118,7 @@ Iteratively change the distribution and weights of training instances to reflect
 ### Summary
 - Able to combine heterogenous classifiers with varying performance
 - Mathematically simple but computationally expensive method
-- Generally, stacking results in as good better results than the base of the best classifiers
+- Generally, stacking results in as good or better results than the base of the best classifiers
 
 
 

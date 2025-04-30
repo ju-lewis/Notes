@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP30023 - Computer Systems/Lectures/L14 - HTTP and HTML.md",
+                "file": "COMP30027 - Machine Learning/Lectures/L13 - Classifier Combination.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L14 - HTTP and HTML"
+              "title": "L13 - Classifier Combination"
             }
           }
         ]
@@ -165,8 +165,9 @@
   },
   "active": "df7267691a6fe18e",
   "lastOpenFiles": [
-    "COMP30023 - Computer Systems/Lectures/L13 - DNS, SMTP, IMAP.md",
+    "COMP30027 - Machine Learning/Lectures/L12 - Logistic Regression.md",
     "COMP30023 - Computer Systems/Lectures/L14 - HTTP and HTML.md",
+    "COMP30023 - Computer Systems/Lectures/L13 - DNS, SMTP, IMAP.md",
     "COMP30024 - Artificial Intelligence/workshops/W7 - Constraint Satisfaction Problems.md",
     "COMP30024 - Artificial Intelligence/Lectures/L13 - Constraint Satisfaction Problems.md",
     "COMP30024 - Artificial Intelligence/Lectures/L14 - CSP Continued.md",
@@ -194,7 +195,6 @@
     "COMP30023 - Computer Systems/imgs/dns-resolution-example.png",
     "COMP30024 - Artificial Intelligence/imgs/tree-csp-arc-consistency.png",
     "COMP30023 - Computer Systems/imgs/resource-record-example.png",
-    "COMP30027 - Machine Learning/Lectures/L13 - Classifier Combination.md",
     "COMP30027 - Machine Learning/imgs/adaboost-diagram.png",
     "COMP30024 - Artificial Intelligence/imgs/cryptarithmetic-csp.png",
     "COMP30024 - Artificial Intelligence/imgs/CSP-problem-example.png",
