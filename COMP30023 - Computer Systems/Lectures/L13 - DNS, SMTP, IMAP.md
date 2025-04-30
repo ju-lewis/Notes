@@ -108,3 +108,7 @@ Command/response interactions
 
 SMTP performs all of the *transfer* (up to the mail sever), but not the *delivery*.
 - A different protocol is used to actually deliver the mail to the recipient's user agent
+
+## POP/IMAP
+Pull protocols
+Used by the final receiver to pull the emails to their device
