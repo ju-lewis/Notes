@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SWEN30006 - Software Modelling and Design/Lectures/L8 - GOF Patterns Continued.md",
+                "file": "COMP30024 - Artificial Intelligence/workshops/W7 - Constraint Satisfaction Problems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L8 - GOF Patterns Continued"
+              "title": "W7 - Constraint Satisfaction Problems"
             }
           }
         ]
@@ -165,6 +165,12 @@
   },
   "active": "df7267691a6fe18e",
   "lastOpenFiles": [
+    "COMP30024 - Artificial Intelligence/Lectures/L13 - Constraint Satisfaction Problems.md",
+    "COMP30024 - Artificial Intelligence/Lectures/L14 - CSP Continued.md",
+    "COMP30024 - Artificial Intelligence/readings/W4 - Adversarial Search.md",
+    "COMP30024 - Artificial Intelligence/workshops/W7 - Constraint Satisfaction Problems.md",
+    "COMP30024 - Artificial Intelligence/workshops/W4 - Adversarial Search.md",
+    "COMP30024 - Artificial Intelligence/workshops/W6 - Project Game Analysis.md",
     "SWEN30006 - Software Modelling and Design/Lectures/L7 - GOF Design Patterns.md",
     "SWEN30006 - Software Modelling and Design/Lectures/L8 - GOF Patterns Continued.md",
     "COMP30023 - Computer Systems/Workshops/W7 - Socket Programming.md",
@@ -186,19 +192,13 @@
     "COMP30024 - Artificial Intelligence/Lectures/L10 - Monte Carlo Tree Search.md",
     "SWEN20003 - Object Oriented Software Development/Lectures.md",
     "COMP30023 - Computer Systems/imgs/dns-resolution-example.png",
-    "COMP30024 - Artificial Intelligence/Lectures/L14 - CSP Continued.md",
     "COMP30024 - Artificial Intelligence/imgs/tree-csp-arc-consistency.png",
     "COMP30023 - Computer Systems/imgs/resource-record-example.png",
     "COMP30027 - Machine Learning/Lectures/L13 - Classifier Combination.md",
     "COMP30027 - Machine Learning/imgs/adaboost-diagram.png",
     "COMP30024 - Artificial Intelligence/imgs/cryptarithmetic-csp.png",
-    "COMP30024 - Artificial Intelligence/Lectures/L13 - Constraint Satisfaction Problems.md",
     "COMP30024 - Artificial Intelligence/imgs/CSP-problem-example.png",
-    "COMP30024 - Artificial Intelligence/workshops/W6 - Project Game Analysis.md",
-    "COMP30024 - Artificial Intelligence/workshops/W5 - Machine Learning in Game Play.md",
-    "SWEN30006 - Software Modelling and Design/Workshops/W6 - State Machines.md",
     "SWEN30006 - Software Modelling and Design/imgs/w6-nested-states.png",
-    "SWEN30006 - Software Modelling and Design/Workshops/W3 - Design Models and Programming.md",
     "SWEN30006 - Software Modelling and Design/imgs/w6-state-machine.png",
     "SWEN30006 - Software Modelling and Design/imgs/builder-juice-example.png",
     "COMP30024 - Artificial Intelligence/readings",
