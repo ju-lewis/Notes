@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP30023 - Computer Systems/Lectures/L15 - Transport Layer Protocols.md",
+                "file": "COMP30024 - Artificial Intelligence/Lectures/L16 - Probability Continued.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L15 - Transport Layer Protocols"
+              "title": "L16 - Probability Continued"
             }
           }
         ]
@@ -165,8 +165,9 @@
   },
   "active": "df7267691a6fe18e",
   "lastOpenFiles": [
-    "COMP30023 - Computer Systems/Lectures/L12 - Socket Programming.md",
     "COMP30023 - Computer Systems/Lectures/L15 - Transport Layer Protocols.md",
+    "COMP30024 - Artificial Intelligence/Lectures/L16 - Probability Continued.md",
+    "COMP30023 - Computer Systems/Lectures/L12 - Socket Programming.md",
     "COMP30023 - Computer Systems/Lectures/L11 - Introduction to Networks and OSI Layers.md",
     "COMP30023 - Computer Systems/Lectures/L10 - Secure Communication Continued.md",
     "COMP30023 - Computer Systems/Workshops/W7 - Socket Programming.md",
@@ -190,7 +191,6 @@
     "SWEN30006 - Software Modelling and Design/Lectures/L8 - GOF Patterns Continued.md",
     "COMP30023 - Computer Systems/Workshops/W6 - Network Protocols.md",
     "COMP30023 - Computer Systems/Workshops/W5 - Memory Management.md",
-    "COMP30027 - Machine Learning/Lectures/L14 - Feature Selection.md",
     "COMP30027 - Machine Learning/imgs/contingency-table.png",
     "COMP30023 - Computer Systems/imgs/dns-resolution-example.png",
     "COMP30024 - Artificial Intelligence/imgs/tree-csp-arc-consistency.png",
