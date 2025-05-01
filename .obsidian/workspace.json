@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP30024 - Artificial Intelligence/Lectures/L15 - Uncertainty.md",
+                "file": "COMP30027 - Machine Learning/Lectures/L15 - Evaluation of Supervised ML.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L15 - Uncertainty"
+              "title": "L15 - Evaluation of Supervised ML"
             }
           }
         ]
@@ -165,8 +165,9 @@
   },
   "active": "df7267691a6fe18e",
   "lastOpenFiles": [
-    "COMP30027 - Machine Learning/Lectures/L13 - Classifier Combination.md",
     "COMP30024 - Artificial Intelligence/Lectures/L15 - Uncertainty.md",
+    "COMP30027 - Machine Learning/Lectures/L15 - Evaluation of Supervised ML.md",
+    "COMP30027 - Machine Learning/Lectures/L13 - Classifier Combination.md",
     "COMP30027 - Machine Learning/Lectures/L12 - Logistic Regression.md",
     "COMP30023 - Computer Systems/Lectures/L14 - HTTP and HTML.md",
     "COMP30023 - Computer Systems/Lectures/L13 - DNS, SMTP, IMAP.md",
@@ -191,7 +192,6 @@
     "SWEN30006 - Software Modelling and Design/Lectures/L4 - Responsibility Driven Design.md",
     "SWEN30006 - Software Modelling and Design/Lectures/L6 - State Machines.md",
     "SWEN30006 - Software Modelling and Design/Lectures/L1 - SMD Overview.md",
-    "COMP30024 - Artificial Intelligence/Lectures/L9 - Machine Learning in Game Search.md",
     "COMP30023 - Computer Systems/imgs/dns-resolution-example.png",
     "COMP30024 - Artificial Intelligence/imgs/tree-csp-arc-consistency.png",
     "COMP30023 - Computer Systems/imgs/resource-record-example.png",
