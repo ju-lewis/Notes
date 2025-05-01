@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP30027 - Machine Learning/Lectures/L15 - Evaluation of Supervised ML.md",
+                "file": "COMP30023 - Computer Systems/Lectures/L15 - Transport Layer Protocols.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L15 - Evaluation of Supervised ML"
+              "title": "L15 - Transport Layer Protocols"
             }
           }
         ]
@@ -165,12 +165,21 @@
   },
   "active": "df7267691a6fe18e",
   "lastOpenFiles": [
-    "COMP30024 - Artificial Intelligence/Lectures/L15 - Uncertainty.md",
-    "COMP30027 - Machine Learning/Lectures/L15 - Evaluation of Supervised ML.md",
-    "COMP30027 - Machine Learning/Lectures/L13 - Classifier Combination.md",
-    "COMP30027 - Machine Learning/Lectures/L12 - Logistic Regression.md",
+    "COMP30023 - Computer Systems/Lectures/L12 - Socket Programming.md",
+    "COMP30023 - Computer Systems/Lectures/L15 - Transport Layer Protocols.md",
+    "COMP30023 - Computer Systems/Lectures/L11 - Introduction to Networks and OSI Layers.md",
+    "COMP30023 - Computer Systems/Lectures/L10 - Secure Communication Continued.md",
+    "COMP30023 - Computer Systems/Workshops/W7 - Socket Programming.md",
     "COMP30023 - Computer Systems/Lectures/L14 - HTTP and HTML.md",
     "COMP30023 - Computer Systems/Lectures/L13 - DNS, SMTP, IMAP.md",
+    "COMP30023 - Computer Systems/Lectures/L9 - End of MMU & Secure Communication.md",
+    "COMP30023 - Computer Systems/Lectures/L8 - Virtual Paged Memory Continued.md",
+    "COMP30023 - Computer Systems/Lectures/L7 - Memory Management.md",
+    "COMP30023 - Computer Systems/Lectures/L2 - Operating System Overview.md",
+    "COMP30027 - Machine Learning/Lectures/L15 - Evaluation of Supervised ML.md",
+    "COMP30024 - Artificial Intelligence/Lectures/L15 - Uncertainty.md",
+    "COMP30027 - Machine Learning/Lectures/L13 - Classifier Combination.md",
+    "COMP30027 - Machine Learning/Lectures/L12 - Logistic Regression.md",
     "COMP30024 - Artificial Intelligence/workshops/W7 - Constraint Satisfaction Problems.md",
     "COMP30024 - Artificial Intelligence/Lectures/L13 - Constraint Satisfaction Problems.md",
     "COMP30024 - Artificial Intelligence/Lectures/L14 - CSP Continued.md",
@@ -179,19 +188,10 @@
     "COMP30024 - Artificial Intelligence/workshops/W6 - Project Game Analysis.md",
     "SWEN30006 - Software Modelling and Design/Lectures/L7 - GOF Design Patterns.md",
     "SWEN30006 - Software Modelling and Design/Lectures/L8 - GOF Patterns Continued.md",
-    "COMP30023 - Computer Systems/Workshops/W7 - Socket Programming.md",
-    "COMP30023 - Computer Systems/Lectures/L12 - Socket Programming.md",
     "COMP30023 - Computer Systems/Workshops/W6 - Network Protocols.md",
     "COMP30023 - Computer Systems/Workshops/W5 - Memory Management.md",
     "COMP30027 - Machine Learning/Lectures/L14 - Feature Selection.md",
     "COMP30027 - Machine Learning/imgs/contingency-table.png",
-    "COMP30024 - Artificial Intelligence/Lectures/L7 - Adversarial Search (Perfect Play).md",
-    "COMP30024 - Artificial Intelligence/Lectures/L6 - Heuristics.md",
-    "COMP30024 - Artificial Intelligence/Lectures/L5 - Informed Search Strategies.md",
-    "SWEN30006 - Software Modelling and Design/Lectures/L5 - Design Models Continued.md",
-    "SWEN30006 - Software Modelling and Design/Lectures/L4 - Responsibility Driven Design.md",
-    "SWEN30006 - Software Modelling and Design/Lectures/L6 - State Machines.md",
-    "SWEN30006 - Software Modelling and Design/Lectures/L1 - SMD Overview.md",
     "COMP30023 - Computer Systems/imgs/dns-resolution-example.png",
     "COMP30024 - Artificial Intelligence/imgs/tree-csp-arc-consistency.png",
     "COMP30023 - Computer Systems/imgs/resource-record-example.png",
