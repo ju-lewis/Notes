@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP30023 - Computer Systems/Workshops/W8 - HTTP and UDP.md",
+                "file": "SWEN30006 - Software Modelling and Design/Lectures/L9 - Final GOF Design Patterns Lecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "W8 - HTTP and UDP"
+              "title": "L9 - Final GOF Design Patterns Lecture"
             }
           }
         ]
@@ -165,9 +165,17 @@
   },
   "active": "df7267691a6fe18e",
   "lastOpenFiles": [
+    "SWEN30006 - Software Modelling and Design/imgs/composite-pattern.png",
+    "SWEN30006 - Software Modelling and Design/Lectures/L9 - Final GOF Design Patterns Lecture.md",
+    "COMP30020 - Declarative Programming/Prolog/L6 - Tail Recursion.md",
+    "COMP30020 - Declarative Programming/Prolog/L8 - Constraint Logic Programming.md",
+    "COMP30020 - Declarative Programming/Prolog/L7 - Higher Order Programming.md",
+    "COMP30020 - Declarative Programming/Haskell/L9 - Exploiting the Type System.md",
+    "COMP30020 - Declarative Programming/Haskell/L10 - Monads.md",
+    "SWEN30006 - Software Modelling and Design/Lectures/L8 - GOF Patterns Continued.md",
+    "COMP30023 - Computer Systems/Workshops/W8 - HTTP and UDP.md",
     "COMP30023 - Computer Systems/Lectures/L13 - DNS, SMTP, IMAP.md",
     "COMP30023 - Computer Systems/Lectures/L14 - HTTP and HTML.md",
-    "COMP30023 - Computer Systems/Workshops/W8 - HTTP and UDP.md",
     "COMP30023 - Computer Systems/Workshops/W7 - Socket Programming.md",
     "COMP30023 - Computer Systems/Workshops/W6 - Network Protocols.md",
     "COMP30024 - Artificial Intelligence/Lectures/L7 - Adversarial Search (Perfect Play).md",
@@ -183,14 +191,6 @@
     "COMP30027 - Machine Learning/Lectures/L15 - Evaluation of Supervised ML.md",
     "COMP30024 - Artificial Intelligence/Lectures/L15 - Uncertainty.md",
     "COMP30027 - Machine Learning/Lectures/L13 - Classifier Combination.md",
-    "COMP30027 - Machine Learning/Lectures/L12 - Logistic Regression.md",
-    "COMP30024 - Artificial Intelligence/workshops/W7 - Constraint Satisfaction Problems.md",
-    "COMP30024 - Artificial Intelligence/Lectures/L13 - Constraint Satisfaction Problems.md",
-    "COMP30024 - Artificial Intelligence/Lectures/L14 - CSP Continued.md",
-    "COMP30024 - Artificial Intelligence/readings/W4 - Adversarial Search.md",
-    "COMP30024 - Artificial Intelligence/workshops/W4 - Adversarial Search.md",
-    "COMP30024 - Artificial Intelligence/workshops/W6 - Project Game Analysis.md",
-    "SWEN30006 - Software Modelling and Design/Lectures/L7 - GOF Design Patterns.md",
     "COMP30027 - Machine Learning/imgs/contingency-table.png",
     "COMP30023 - Computer Systems/imgs/dns-resolution-example.png",
     "COMP30024 - Artificial Intelligence/imgs/tree-csp-arc-consistency.png",
@@ -200,7 +200,6 @@
     "COMP30024 - Artificial Intelligence/imgs/CSP-problem-example.png",
     "SWEN30006 - Software Modelling and Design/imgs/w6-nested-states.png",
     "SWEN30006 - Software Modelling and Design/imgs/w6-state-machine.png",
-    "SWEN30006 - Software Modelling and Design/imgs/builder-juice-example.png",
     "COMP30024 - Artificial Intelligence/readings",
     "COMP30027 - Machine Learning/imgs",
     "COMP30024 - Artificial Intelligence/workshops",
