@@ -36,11 +36,17 @@ Our distinction between servers and clients is simply:
 
 
 ### Servers
-Servers have two sockets
+Servers have two (or more) sockets
 - Listening socket (half socket)
-- Connection socket
+	- Identified by: (protocol, local IP address, local port)
+- Connection socket(s)
+	- Identified by full 5-tuple (protocol, local addr, local port, remote addr, remote port)
 
-The listening socket waits for incoming calls and "outs them through" to the connection socket
+
+Remote machines, when they `connect()` to the server send a request that is received and queued by the listening socket
+
+When the server `accept()`s a connection a full 5-tuple socket is established relating the local and remote machine
+
 
 
 ### Blocking and Non-Blocking Reads

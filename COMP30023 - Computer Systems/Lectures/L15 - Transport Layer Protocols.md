@@ -77,6 +77,15 @@ Shortened to MUXING and DEMUXING
 The user datagram protocol (UDP) allows for applications to transmit datagrams over IP without a connection
 - Transmitting data in segments consisting of a header followed by the payload
 
+>[!Info]
+>A UDP socket is identified by:
+>- A protocol (UDP)
+>- A local address
+>- A local port
+>  
+>  This is because UDP doesn't maintain a single persistent connection with a client.
+
+
 UDP headers contain source and destination ports
 - UDP socket is really a 3-tuple, but each *network packet* has a 5-tuple (for identifying the remote machine)
 
