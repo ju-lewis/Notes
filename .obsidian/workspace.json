@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP30023 - Computer Systems/Lectures/L17 - TCP Continued.md",
+                "file": "COMP30024 - Artificial Intelligence/Lectures/L18 - Bayesian Networks Continued.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L17 - TCP Continued"
+              "title": "L18 - Bayesian Networks Continued"
             }
           }
         ]
@@ -163,11 +163,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df7267691a6fe18e",
+  "active": "6c97bbfdf07a7dc8",
   "lastOpenFiles": [
-    "COMP30023 - Computer Systems/Lectures/L16 - Transmission Control Protocol (TCP).md",
-    "COMP30023 - Computer Systems/Lectures/L17 - TCP Continued.md",
+    "COMP30024 - Artificial Intelligence/Lectures/L8 - Adversarial Search Continued.md",
+    "COMP30024 - Artificial Intelligence/Lectures/L18 - Bayesian Networks Continued.md",
+    "COMP30024 - Artificial Intelligence/imgs/inference-by-enumeration.png",
     "COMP30024 - Artificial Intelligence/Lectures/L17 - Bayesian Networks.md",
+    "COMP30023 - Computer Systems/Lectures/L17 - TCP Continued.md",
+    "COMP30023 - Computer Systems/Lectures/L16 - Transmission Control Protocol (TCP).md",
     "COMP30024 - Artificial Intelligence/imgs/bayesian-network-example.png",
     "COMP30024 - Artificial Intelligence/Lectures/L16 - Probability Continued.md",
     "MAST20004 - Probability/Week 10 Summary.md",
@@ -190,8 +193,6 @@
     "SWEN30006 - Software Modelling and Design/Lectures/L3 - Object Oriented Design Models.md",
     "SWEN30006 - Software Modelling and Design/Lectures/L4 - Responsibility Driven Design.md",
     "SWEN30006 - Software Modelling and Design/Lectures/L5 - Design Models Continued.md",
-    "SWEN30006 - Software Modelling and Design/Lectures/L8 - GOF Patterns Continued.md",
-    "COMP30023 - Computer Systems/Lectures/L12 - Socket Programming.md",
     "SWEN30006 - Software Modelling and Design/imgs/composite-pattern.png",
     "COMP30027 - Machine Learning/imgs/contingency-table.png",
     "COMP30023 - Computer Systems/imgs/dns-resolution-example.png",
@@ -200,7 +201,6 @@
     "COMP30027 - Machine Learning/imgs/adaboost-diagram.png",
     "COMP30024 - Artificial Intelligence/imgs/cryptarithmetic-csp.png",
     "COMP30024 - Artificial Intelligence/imgs/CSP-problem-example.png",
-    "SWEN30006 - Software Modelling and Design/imgs/w6-nested-states.png",
     "COMP30024 - Artificial Intelligence/readings",
     "COMP30027 - Machine Learning/imgs",
     "COMP30024 - Artificial Intelligence/workshops",
