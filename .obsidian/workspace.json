@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP30024 - Artificial Intelligence/Lectures/L18 - Bayesian Networks Continued.md",
+                "file": "COMP30024 - Artificial Intelligence/Lectures/L1 - What is AI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L18 - Bayesian Networks Continued"
+              "title": "L1 - What is AI"
             }
           }
         ]
@@ -163,9 +163,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c97bbfdf07a7dc8",
+  "active": "df7267691a6fe18e",
   "lastOpenFiles": [
     "COMP30024 - Artificial Intelligence/Lectures/L8 - Adversarial Search Continued.md",
+    "COMP30024 - Artificial Intelligence/Lectures/L7 - Adversarial Search (Perfect Play).md",
+    "COMP30023 - Computer Systems/Lectures/L15 - Transport Layer Protocols.md",
+    "COMP30023 - Computer Systems/Lectures/L14 - HTTP and HTML.md",
+    "COMP30023 - Computer Systems/Lectures/L13 - DNS, SMTP, IMAP.md",
+    "COMP30023 - Computer Systems/Lectures/L12 - Socket Programming.md",
     "COMP30024 - Artificial Intelligence/Lectures/L18 - Bayesian Networks Continued.md",
     "COMP30024 - Artificial Intelligence/imgs/inference-by-enumeration.png",
     "COMP30024 - Artificial Intelligence/Lectures/L17 - Bayesian Networks.md",
@@ -188,11 +193,6 @@
     "COMP20008 - Elements of Data Processing/Lectures/L12 - Mutual Information.md",
     "COMP20008 - Elements of Data Processing/Lectures/L11 - Correlations.md",
     "COMP20008 - Elements of Data Processing/Lectures/L16 - ML Continued.md",
-    "COMP30027 - Machine Learning/Lectures/L16 - Sequential Models.md",
-    "SWEN30006 - Software Modelling and Design/Lectures/L2 - Domain Models and System Sequence Diagrams.md",
-    "SWEN30006 - Software Modelling and Design/Lectures/L3 - Object Oriented Design Models.md",
-    "SWEN30006 - Software Modelling and Design/Lectures/L4 - Responsibility Driven Design.md",
-    "SWEN30006 - Software Modelling and Design/Lectures/L5 - Design Models Continued.md",
     "SWEN30006 - Software Modelling and Design/imgs/composite-pattern.png",
     "COMP30027 - Machine Learning/imgs/contingency-table.png",
     "COMP30023 - Computer Systems/imgs/dns-resolution-example.png",
