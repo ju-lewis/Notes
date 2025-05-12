@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP30027 - Machine Learning/Lectures/L18 - Deep Learning.md",
+                "file": "COMP30023 - Computer Systems/Lectures/L17 - TCP Continued.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L18 - Deep Learning"
+              "title": "L17 - TCP Continued"
             }
           }
         ]
@@ -163,10 +163,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c97bbfdf07a7dc8",
+  "active": "f7ba3b80c8475c4e",
   "lastOpenFiles": [
-    "COMP30024 - Artificial Intelligence/workshops/Untitled.md",
+    "COMP30023 - Computer Systems/Lectures/L16 - Transmission Control Protocol (TCP).md",
+    "COMP30023 - Computer Systems/Workshops/W9 - TCP.md",
+    "COMP30023 - Computer Systems/Lectures/L17 - TCP Continued.md",
+    "COMP30023 - Computer Systems/Readings/Week 4 - Memory Management.md",
+    "COMP30023 - Computer Systems/Workshops/W8 - HTTP and UDP.md",
+    "COMP30023 - Computer Systems/Lectures/L15 - Transport Layer Protocols.md",
+    "COMP30023 - Computer Systems/Workshops/W6 - Network Protocols.md",
     "COMP30027 - Machine Learning/Lectures/L18 - Deep Learning.md",
+    "COMP30024 - Artificial Intelligence/workshops/Untitled.md",
     "COMP30027 - Machine Learning/Lectures/L17 - Neural Networks Part 1.md",
     "COMP30024 - Artificial Intelligence/Lectures/L6 - Heuristics.md",
     "SWEN30006 - Software Modelling and Design/Workshops/W6 - State Machines.md",
@@ -197,16 +204,9 @@
     "SWEN30006 - Software Modelling and Design/Subject Overview.md",
     "SWEN30006 - Software Modelling and Design/Lectures",
     "SWEN30006 - Software Modelling and Design/imgs",
-    "SWEN30006 - Software Modelling and Design/Exam Revision.md",
     "SWEN30006 - Software Modelling and Design",
-    "SWEN20003 - Object Oriented Software Development/Subject Overview.md",
-    "SWEN20003 - Object Oriented Software Development/MST.md",
-    "SWEN20003 - Object Oriented Software Development/Lectures.md",
     "SWEN20003 - Object Oriented Software Development/imgs",
-    "SWEN20003 - Object Oriented Software Development/Final Exam.md",
-    "SWEN20003 - Object Oriented Software Development/Assignments.md",
     "SWEN20003 - Object Oriented Software Development",
-    "PHYC10008 - From the Solar System to the Cosmos/Week 9/L27 - Other Galaxies.md",
     "PHYC10008 - From the Solar System to the Cosmos/Week 9",
     "PHYC10008 - From the Solar System to the Cosmos/Week 8",
     "PHYC10008 - From the Solar System to the Cosmos/Week 7",
