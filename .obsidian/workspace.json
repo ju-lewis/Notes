@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP30023 - Computer Systems/Lectures/L17 - TCP Continued.md",
+                "file": "COMP30023 - Computer Systems/Lectures/L12 - Socket Programming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L17 - TCP Continued"
+              "title": "L12 - Socket Programming"
             }
           }
         ]
@@ -165,9 +165,10 @@
   },
   "active": "f7ba3b80c8475c4e",
   "lastOpenFiles": [
+    "SWEN30006 - Software Modelling and Design/Lectures/L10 - Software Architecture.md",
+    "COMP30023 - Computer Systems/Lectures/L17 - TCP Continued.md",
     "COMP30023 - Computer Systems/Lectures/L16 - Transmission Control Protocol (TCP).md",
     "COMP30023 - Computer Systems/Workshops/W9 - TCP.md",
-    "COMP30023 - Computer Systems/Lectures/L17 - TCP Continued.md",
     "COMP30023 - Computer Systems/Readings/Week 4 - Memory Management.md",
     "COMP30023 - Computer Systems/Workshops/W8 - HTTP and UDP.md",
     "COMP30023 - Computer Systems/Lectures/L15 - Transport Layer Protocols.md",
@@ -201,7 +202,6 @@
     "SWEN30006 - Software Modelling and Design/imgs/system-sequence-diagram.png",
     "SWEN30006 - Software Modelling and Design/imgs/state-machine-example.png",
     "SWEN30006 - Software Modelling and Design/Workshops",
-    "SWEN30006 - Software Modelling and Design/Subject Overview.md",
     "SWEN30006 - Software Modelling and Design/Lectures",
     "SWEN30006 - Software Modelling and Design/imgs",
     "SWEN30006 - Software Modelling and Design",
