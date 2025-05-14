@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP30024 - Artificial Intelligence/workshops/W9 - Bayesian Belief Networks.md",
+                "file": "COMP30024 - Artificial Intelligence/Lectures/L19 - Making Simple Decisions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "W9 - Bayesian Belief Networks"
+              "title": "L19 - Making Simple Decisions"
             }
           }
         ]
@@ -165,10 +165,12 @@
   },
   "active": "6c97bbfdf07a7dc8",
   "lastOpenFiles": [
-    "COMP30027 - Machine Learning/Lectures/L16 - Sequential Models.md",
+    "COMP30024 - Artificial Intelligence/imgs/preference-notation.png",
     "COMP30024 - Artificial Intelligence/workshops/W9 - Bayesian Belief Networks.md",
-    "COMP30023 - Computer Systems/Lectures/L12 - Socket Programming.md",
+    "COMP30024 - Artificial Intelligence/Lectures/L19 - Making Simple Decisions.md",
     "COMP30024 - Artificial Intelligence/Lectures/L18 - Bayesian Networks Continued.md",
+    "COMP30027 - Machine Learning/Lectures/L16 - Sequential Models.md",
+    "COMP30023 - Computer Systems/Lectures/L12 - Socket Programming.md",
     "COMP30024 - Artificial Intelligence/workshops/W8 - Probability.md",
     "COMP30020 - Declarative Programming/Prolog/L6 - Tail Recursion.md",
     "COMP30020 - Declarative Programming/Haskell/L15 - Parsing.md",
@@ -190,8 +192,6 @@
     "COMP30027 - Machine Learning/Lectures/L18 - Deep Learning.md",
     "COMP30027 - Machine Learning/Lectures/L17 - Neural Networks Part 1.md",
     "COMP30024 - Artificial Intelligence/Lectures/L6 - Heuristics.md",
-    "SWEN30006 - Software Modelling and Design/Workshops/W6 - State Machines.md",
-    "SWEN30006 - Software Modelling and Design/Workshops/W4 - GRASP Design Patterns.md",
     "SWEN30006 - Software Modelling and Design/imgs/w6-state-machine.png",
     "SWEN30006 - Software Modelling and Design/imgs/w6-nested-states.png",
     "SWEN30006 - Software Modelling and Design/imgs/w2-use-case-diagram.png",
