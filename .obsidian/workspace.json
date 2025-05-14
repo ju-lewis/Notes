@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP30023 - Computer Systems/Lectures/L18 - TCP Sliding Window.md",
+                "file": "COMP30020 - Declarative Programming/Prolog/L6 - Tail Recursion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L18 - TCP Sliding Window"
+              "title": "L6 - Tail Recursion"
             }
           }
         ]
@@ -165,8 +165,15 @@
   },
   "active": "f7ba3b80c8475c4e",
   "lastOpenFiles": [
-    "COMP30023 - Computer Systems/Lectures/L17 - TCP Continued.md",
+    "COMP30020 - Declarative Programming/Haskell/L15 - Parsing.md",
+    "COMP30020 - Declarative Programming/Haskell/L14 - FFI.md",
+    "COMP30020 - Declarative Programming/Haskell/L8 - Functional Design Patterns.md",
+    "COMP30020 - Declarative Programming/Haskell/L9 - Exploiting the Type System.md",
+    "SWEN30006 - Software Modelling and Design/Lectures/L8 - GOF Patterns Continued.md",
+    "SWEN30006 - Software Modelling and Design/Workshops/W9 - GOF Pt 2.md",
+    "SWEN30006 - Software Modelling and Design/imgs/w9-strategy.png",
     "COMP30023 - Computer Systems/Lectures/L18 - TCP Sliding Window.md",
+    "COMP30023 - Computer Systems/Lectures/L17 - TCP Continued.md",
     "COMP30023 - Computer Systems/Lectures/L12 - Socket Programming.md",
     "SWEN30006 - Software Modelling and Design/Lectures/L10 - Software Architecture.md",
     "COMP30023 - Computer Systems/Lectures/L16 - Transmission Control Protocol (TCP).md",
@@ -185,12 +192,6 @@
     "SWEN30006 - Software Modelling and Design/Workshops/W2 - Domain Models.md",
     "SWEN30006 - Software Modelling and Design/Workshops/W1 - Use Cases.md",
     "SWEN30006 - Software Modelling and Design/Lectures/L9 - Final GOF Design Patterns Lecture.md",
-    "SWEN30006 - Software Modelling and Design/Lectures/L8 - GOF Patterns Continued.md",
-    "SWEN30006 - Software Modelling and Design/Lectures/L7 - GOF Design Patterns.md",
-    "SWEN30006 - Software Modelling and Design/Lectures/L6 - State Machines.md",
-    "SWEN30006 - Software Modelling and Design/Lectures/L5 - Design Models Continued.md",
-    "SWEN30006 - Software Modelling and Design/Lectures/L4 - Responsibility Driven Design.md",
-    "SWEN30006 - Software Modelling and Design/Lectures/L3 - Object Oriented Design Models.md",
     "SWEN30006 - Software Modelling and Design/imgs/w6-state-machine.png",
     "SWEN30006 - Software Modelling and Design/imgs/w6-nested-states.png",
     "SWEN30006 - Software Modelling and Design/imgs/w2-use-case-diagram.png",
@@ -200,7 +201,6 @@
     "SWEN30006 - Software Modelling and Design/imgs/w1-use-case-diagram.png",
     "SWEN30006 - Software Modelling and Design/imgs/use-case-diagram.png",
     "SWEN30006 - Software Modelling and Design/imgs/system-sequence-diagram.png",
-    "SWEN30006 - Software Modelling and Design/imgs/state-machine-example.png",
     "SWEN30006 - Software Modelling and Design/Workshops",
     "SWEN30006 - Software Modelling and Design/Lectures",
     "SWEN30006 - Software Modelling and Design/imgs",
