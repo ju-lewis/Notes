@@ -38,7 +38,7 @@ Routers store forwarding tables (routing tables)
 ### Connection-oriented
 
 Small virtual circuits are established between routers
-- Defined by persistent conenctions
+- Defined by persistent connections
 - Identifiable by virtual circuit (VC) numbers
 
 The forwarding tables store:
@@ -112,4 +112,11 @@ the network size can also be written as a subnet mask, a binary mask of 1's
 - In the case of /24: the subnet mask is 255.255.255.0
 
 
-
+### IPv6 Header
+- Version: 6
+- Differentiated services: 6 bits for service class, 2 bits for congestion control
+- Flow label: Pseudo-virtual circuit identifier
+- Payload length: Bytes after the *40 byte* header
+- Next header: Used to specify additional headers or Protocol (TCP/UDP)
+- Hop Limit: Same as TTL
+- Source and Destination: 16 byte IPv6 addresses

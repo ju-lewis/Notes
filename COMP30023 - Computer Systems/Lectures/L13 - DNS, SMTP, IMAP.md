@@ -95,7 +95,8 @@ DNS record names come in two different forms:
 - Compose, report, display, dispose
 
 ## SMTP - Simple Message Transfer Protocol
-SMTP uses TCP to transfer email messages from client to server, default port 25.
+SMTP uses TCP to transfer email messages *from client to server*, default port 25.
+- Also used for transfer between mail servers
 - Typically direct transfer (sending server to receiving server)
 
 Three phases of transfer:
@@ -109,6 +110,6 @@ Command/response interactions
 SMTP performs all of the *transfer* (up to the mail sever), but not the *delivery*.
 - A different protocol is used to actually deliver the mail to the recipient's user agent
 
-## POP/IMAP
+## POP3/IMAP
 Pull protocols
 Used by the final receiver to pull the emails to their device
