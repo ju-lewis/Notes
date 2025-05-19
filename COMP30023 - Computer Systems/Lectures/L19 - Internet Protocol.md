@@ -26,7 +26,7 @@ Host H1 wants to send a packet to H2
 
 ## Packet Forwarding 
 
-### Connectionless
+### Connectionless (Datagram Networks)
 Routers store forwarding tables (routing tables)
 - Simple router inputs/outputs
 
@@ -35,17 +35,18 @@ Routers store forwarding tables (routing tables)
 - Very robust (in case of link failure)
 **Cons**
 - Slow
-### Connection-oriented
+### Connection-oriented (Virtual Circuit Networks)
 
 Small virtual circuits are established between routers
 - Defined by persistent connections
+	- Initial connection requires universal source and destination address, but once a path through the network has been established, the network only needs to track small VC numbers
 - Identifiable by virtual circuit (VC) numbers
 
-The forwarding tables store:
-- "In": Connection ID
-- "Out": Next hop and new connection number
+Each entry in the forwarding tables store:
+- "In": Port?, input VC number
+- "Out": Port, output VC number
 
-VC number is local to a hop
+VC number is *local* to a router
 - That means we can use *much* smaller numbers to identify hops
 
 **Pros**
