@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SWEN30006 - Software Modelling and Design/Lectures/L11 - Software Development Process (UP).md",
+                "file": "SWEN30006 - Software Modelling and Design/Workshops/W10 - Software Architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L11 - Software Development Process (UP)"
+              "title": "W10 - Software Architecture"
             }
           }
         ]
@@ -165,8 +165,12 @@
   },
   "active": "a189294b9faec612",
   "lastOpenFiles": [
-    "SWEN30006 - Software Modelling and Design/Lectures/L7 - GOF Design Patterns.md",
+    "SWEN30006 - Software Modelling and Design/Workshops/W1 - Use Cases.md",
+    "SWEN30006 - Software Modelling and Design/Workshops/W10 - Software Architecture.md",
+    "SWEN30006 - Software Modelling and Design/Workshops/W6 - State Machines.md",
+    "SWEN30006 - Software Modelling and Design/Workshops/W9 - GOF Pt 2.md",
     "SWEN30006 - Software Modelling and Design/Lectures/L11 - Software Development Process (UP).md",
+    "SWEN30006 - Software Modelling and Design/Lectures/L7 - GOF Design Patterns.md",
     "SWEN30006 - Software Modelling and Design/Lectures/L8 - GOF Patterns Continued.md",
     "SWEN30006 - Software Modelling and Design/Lectures/L9 - Final GOF Design Patterns Lecture.md",
     "SWEN30006 - Software Modelling and Design/Lectures/L10 - Software Architecture.md",
@@ -188,10 +192,6 @@
     "COMP30024 - Artificial Intelligence/Lectures/L19 - Making Simple Decisions.md",
     "COMP30024 - Artificial Intelligence/imgs/preference-notation.png",
     "COMP30024 - Artificial Intelligence/Lectures/L18 - Bayesian Networks Continued.md",
-    "COMP30027 - Machine Learning/Lectures/L16 - Sequential Models.md",
-    "COMP30023 - Computer Systems/Lectures/L12 - Socket Programming.md",
-    "COMP30024 - Artificial Intelligence/workshops/W8 - Probability.md",
-    "COMP30020 - Declarative Programming/Prolog/L6 - Tail Recursion.md",
     "SWEN30006 - Software Modelling and Design/imgs/w9-strategy.png",
     "SWEN30006 - Software Modelling and Design/imgs/w6-state-machine.png",
     "SWEN30006 - Software Modelling and Design/imgs/w6-nested-states.png",
