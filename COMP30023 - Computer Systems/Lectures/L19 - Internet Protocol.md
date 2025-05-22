@@ -121,3 +121,5 @@ the network size can also be written as a subnet mask, a binary mask of 1's
 - Next header: Used to specify additional headers or Protocol (TCP/UDP)
 - Hop Limit: Same as TTL
 - Source and Destination: 16 byte IPv6 addresses
+
+Backwards compatibility with IPv4 is achieved with IPv4 mapped IPv6 addresses
