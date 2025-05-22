@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP30023 - Computer Systems/Lectures/L20 - Routing in the Network Layer.md",
+                "file": "COMP30027 - Machine Learning/Lectures/L21 - Data.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L20 - Routing in the Network Layer"
+              "title": "L21 - Data"
             }
           }
         ]
@@ -165,9 +165,10 @@
   },
   "active": "bc73b7c5b47bb88a",
   "lastOpenFiles": [
-    "COMP30023 - Computer Systems/Lectures/L19 - Internet Protocol.md",
+    "COMP30027 - Machine Learning/Lectures/L20 - Unsupervised Learning.md",
+    "COMP30027 - Machine Learning/Lectures/L21 - Data.md",
     "COMP30023 - Computer Systems/Lectures/L20 - Routing in the Network Layer.md",
-    "COMP30027 - Machine Learning/Lectures/L20  - Unsupervised Learning.md",
+    "COMP30023 - Computer Systems/Lectures/L19 - Internet Protocol.md",
     "COMP30024 - Artificial Intelligence/Lectures/L21 - Robotics.md",
     "COMP30024 - Artificial Intelligence/workshops/W10 - Informed Decision Making.md",
     "COMP30024 - Artificial Intelligence/Lectures/L20 - Decision-making Continued.md",
@@ -190,7 +191,6 @@
     "COMP30024 - Artificial Intelligence/Lectures/L4 - Uninformed Search Strategies.md",
     "MAST20004 - Probability/Week 2 Summary.md",
     "MAST20004 - Probability/Week 3 Summary.md",
-    "MAST20004 - Probability/Week 1 Summary.md",
     "COMP30024 - Artificial Intelligence/imgs/preference-notation.png",
     "SWEN30006 - Software Modelling and Design/imgs/w9-strategy.png",
     "SWEN30006 - Software Modelling and Design/imgs/w6-state-machine.png",
