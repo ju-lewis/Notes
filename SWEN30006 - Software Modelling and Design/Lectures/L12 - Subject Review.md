@@ -86,10 +86,11 @@ The exam will have:
 - Diagramming
 In that order
 
->[!Note]
->There is likely to be sections interpreting Java code snippets
->There may be short code writing sections
->- They're not going to be looking for *perfect* syntax, so long as it's logical
+>[!Info] Final notes
+>- There may be code reading and writing (don't need perfect syntax, it's not the focus)
+>- Supplementary workshop readings will be in the exam
+>- Design sequence diagram should reflect how the code works in complexity
+>- Domain model should capture understanding about requirements
 
 
 
