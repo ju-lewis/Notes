@@ -4,6 +4,8 @@
 >[!Warning] Problem
 >How to design for varying, but related, algorithms or policies?
 >How to design for the ability to change these algorithms or policies?
+>
+>We would implement strategy pattern when there is a single class that needs to do something in potentially multiple different ways (through the same interface).
 
 **Solution**:
 - Use polymorphism to design a single interface (`Strategy`) that exposes a function that all algorithms/policies must implement
@@ -44,6 +46,8 @@ Composite is very effectively combined with strategy
 
 >[!Warning] Problem
 >How to build generic components that are easy to extend and use without replicating code?
+>
+>We would implement template pattern when we want to abstract an algorithm to a sequence of common steps
 
 **Solution**
 - Define a family of algorithms, encapsulate each one, and make them interchangeable
