@@ -45,3 +45,9 @@
 - [ ] Mixture models
 - [ ] Generative models
 - [ ] 
+
+
+Based on the 2017 practice exam the most important topics to focus on are:
+- Hidden Markov models
+- Model evaluation
+
