@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP30024 - Artificial Intelligence/Lectures/L23 - Exam Information.md",
+                "file": "COMP30027 - Machine Learning/Lectures/L21 - Data.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L23 - Exam Information"
+              "title": "L21 - Data"
             }
           }
         ]
@@ -165,12 +165,16 @@
   },
   "active": "e664c7a72a91a155",
   "lastOpenFiles": [
+    "COMP30027 - Machine Learning/Lectures/L20 - Unsupervised Learning.md",
+    "COMP30027 - Machine Learning/Lectures/L22 - Exam Information.md",
+    "COMP30027 - Machine Learning/Lectures/L15 - Evaluation of Supervised ML.md",
+    "COMP30027 - Machine Learning/Subject Overview.md",
+    "COMP30024 - Artificial Intelligence/Lectures/L23 - Exam Information.md",
     "COMP30024 - Artificial Intelligence/Lectures/L16 - Probability Continued.md",
     "COMP30024 - Artificial Intelligence/Lectures/L17 - Bayesian Networks.md",
     "COMP30024 - Artificial Intelligence/Lectures/L15 - Uncertainty.md",
     "COMP30024 - Artificial Intelligence/Lectures/L10 - Monte Carlo Tree Search.md",
     "COMP30024 - Artificial Intelligence/Lectures/L9 - Machine Learning in Game Search.md",
-    "COMP30024 - Artificial Intelligence/Lectures/L23 - Exam Information.md",
     "COMP30023 - Computer Systems/Lectures/L9 - End of MMU & Secure Communication.md",
     "COMP30023 - Computer Systems/Lectures/L23 - Subject Review.md",
     "COMP30023 - Computer Systems/Lectures/L8 - Virtual Paged Memory Continued.md",
@@ -187,10 +191,6 @@
     "COMP30027 - Machine Learning/Lectures/L3 - Probability & Entropy Review.md",
     "COMP30027 - Machine Learning/Lectures/L2 - Basics of Machine Learning.md",
     "COMP30027 - Machine Learning/Lectures/L1 - Machine Learning Overview.md",
-    "COMP30027 - Machine Learning/Lectures/L22 - Exam Information.md",
-    "COMP30024 - Artificial Intelligence/workshops/W11 - Robotics and Uncertainty.md",
-    "COMP30024 - Artificial Intelligence/workshops/W10 - Informed Decision Making.md",
-    "SWEN30006 - Software Modelling and Design/Lectures/L7 - GOF Design Patterns.md",
     "COMP30024 - Artificial Intelligence/imgs/preference-notation.png",
     "SWEN30006 - Software Modelling and Design/imgs/w9-strategy.png",
     "SWEN30006 - Software Modelling and Design/imgs/w6-state-machine.png",

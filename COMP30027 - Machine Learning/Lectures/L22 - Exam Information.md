@@ -31,3 +31,17 @@
 - Design and application questions
 - Demonstrate high level understanding of applying machine learning methods to real-world scenarios
 
+
+# Topics to Study:
+
+- [ ] Ensemble models
+- [ ] Feature selection
+- [ ] SVM ?
+- [ ] Model evaluation (bias, variance, stratification, etc.)
+- [ ] Computing values for Naive Bayes
+- [ ] Computing values for entropy and mutual information
+- [ ] Hidden Markov Models
+- [ ] Logistic regression
+- [ ] Mixture models
+- [ ] Generative models
+- [ ] 
