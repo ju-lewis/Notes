@@ -64,9 +64,16 @@ Define forward probability as the probability of the partial observation sequenc
 
 By caching forward probabilities we can avoid redundant calculations
 
-**Initialisation**: $\alpha_{1}(i) = \pi_ib_i(o_1)$ (Remember $b_i(o_j)$ is the probability of observing $o_j$)
-**Induction**: Computing and memoizing subsequent probabilities
+**Initialisation**: $\alpha_{1}(i) = \pi_ib_i(o_1)$ (Remember $b_i(o_j)$ is the probability of observing $o_j$ given state $i$)
+- Essentially computes the joint probabilities: "What is the probability of observing this outcome *with* this hidden state?"
+**Induction**: Computing and memoizing subsequent partial observation sequence probabilities
+- "Given all of the previous partial observation sequences, what is the probability of transitioning to state $i$ and observing this outcome?"
+	- Compute this for all states for the current observation
 **Termination**: Sum all of the values at the final time step; $P(\Omega|\mu)=\sum_{i=1}^{N}\alpha_T(i)$
+- This is essentially fulfilling the law of total probability:
+	- "The probability of observing the current outcome (and all previous observations) given we've transitioned to state $i$ is $\alpha_T(i)$"
+	- Summing across the conditionals yields the final probability
+
 
 
 ## Decoding
