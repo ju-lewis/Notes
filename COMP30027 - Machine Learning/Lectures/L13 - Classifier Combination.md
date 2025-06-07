@@ -49,7 +49,12 @@ Repeat to construct $k$ random datasets for $k$ base classifiers
 - Effective over noisy datasets
 - Performance is generally much better than the base classifiers
 
+- Reduces overfitting and variance by generating multiple different models
+	- If the base models are too complex, they may overfit on their respective subsets
+
 ## Random Forest
+
+Random forests are composed of multiple *random trees*, which are all considered when predicting the final class label.
 
 **Random trees:**
 A decision tree, but only some of the possible attributes are considered at each node
@@ -81,7 +86,6 @@ Logic behind predictions on individual instances can be followed through the var
 
 ### Method:
 
-**Summary**:
 Iteratively change the distribution and weights of training instances to reflect the performance of the classifier of the previous iteration
 - Start with sampling 
 - Over $T$ iterations, train a classifier and update the weight of each instance according to whether it was correctly classified
@@ -101,7 +105,7 @@ Iteratively change the distribution and weights of training instances to reflect
 - Uses weighted voting
 - Homogenous classifiers
 - Minimise instance bias
-- Prone to overfitting
+	- Prone to overfitting
 
 
 # Stacking
@@ -120,5 +124,7 @@ Iteratively change the distribution and weights of training instances to reflect
 - Mathematically simple but computationally expensive method
 - Generally, stacking results in as good or better results than the base of the best classifiers
 
-
+- Combines the strengths of bagging and boosting while mitigating their weaknesses
+	- Can reduce both bias and variance by stacking models trained with different algorithms
+	- Used when data is complex and we want to consider predictions from heterogeneous models
 

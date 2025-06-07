@@ -34,7 +34,7 @@
 
 # Topics to Study:
 
-- [ ] Ensemble models
+- [x] Ensemble models
 - [ ] Feature selection
 - [ ] SVM ?
 - [ ] Model evaluation (bias, variance, stratification, etc.)
