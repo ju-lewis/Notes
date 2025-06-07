@@ -40,11 +40,10 @@
 - [ ] Model evaluation (bias, variance, stratification, etc.)
 - [ ] Computing values for Naive Bayes
 - [ ] Computing values for entropy and mutual information
-- [ ] Hidden Markov Models
+- [x] Hidden Markov Models
 - [ ] Logistic regression
 - [ ] Mixture models
 - [ ] Generative models
-- [ ] 
 
 
 Based on the 2017 practice exam the most important topics to focus on are:

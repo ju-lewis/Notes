@@ -98,12 +98,16 @@ Preliminaries: define some variables
 - $\psi_1(i)=0$
 
 **Induction**: $t=1,...,T-1$, state $i=1,...,N$
-- $\delta_{t+1}(i) =$
-- $\psi_{t+1}(i) =$
+- $\delta_{t+1}(i) = \max_{1\leq j \leq N}(\delta_t(j)a_{ji})b_i(o_{t+1)}$
+- $\psi_{t+1}(i) = \arg\max_{1\leq j \leq N}(\delta_t(j)a_{ji})$
 
 For each state at each time step, we store the most probable previous state ($\psi_{t}(i)$)
 
-Once induction is complete (**termination**), we backtrack over the most probable path.
+**Termination**:
+- $P_{\text{best}}=\max_{1\leq i \leq N}\delta_T(i)$
+- $q^*_T = \arg\max_{1\leq i \leq N} \delta_T(i)$
+
+Once induction is complete (*termination*), we backtrack over the most probable path to determine the entire most likely path
 
 ## Learning HMMs
 **Estimate parameters of HMM**
@@ -111,6 +115,9 @@ Once induction is complete (**termination**), we backtrack over the most probabl
 
 ### Supervised Case:
 Assume we have labelled data, it is possible to use simple Maximum Likelihood Estimation (MLE) to learn the parameters of our model
+$$a_{ij}=P(s_j|s_i)=\frac{freq(s_i, s_j)}{freq(s_i)}$$
+$$b_{ik}=P(y_k|s_i)=\frac{freq(y_k, s_i)}{freq(s_i)}$$
+$$\pi_i = P(Q = s_i) = \frac{freq(q_1 = s_i)}{\sum_jfreq(q_1 = s_j)}$$
 
 No state labels?
 - Use forward-backward algorithm
