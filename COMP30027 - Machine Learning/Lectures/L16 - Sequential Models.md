@@ -77,7 +77,7 @@ By caching forward probabilities we can avoid redundant calculations
 
 
 ## Decoding
-**Find the most probable state sequence**
+**Find the most probable state sequence for an observation sequence**
 
 >[!Example]
 >Given the observation 3-solos, 3-solos, 1-solo (as in purchases of the drink from a store) given the states describe whether the day is hot, or cold. What is the most probable weather sequence?
