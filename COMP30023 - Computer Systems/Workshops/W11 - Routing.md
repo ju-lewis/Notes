@@ -24,3 +24,9 @@ Tracing Dijkstra's algorithm across network routers
 
 ## Q3. 
 
+S-M = 1
+B-S = 2
+B-C = 1
+C-M = 1
+
+## Q4.
