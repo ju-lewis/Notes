@@ -35,11 +35,11 @@
 # Topics to Study:
 
 - [x] Ensemble models
-- [ ] Feature selection
+- [x] Feature selection
 - [ ] SVM ?
 - [ ] Model evaluation (bias, variance, stratification, etc.)
-- [ ] Computing values for Naive Bayes
-- [ ] Computing values for entropy and mutual information
+- [x] Computing values for Naive Bayes
+- [x] Computing values for entropy and mutual information
 - [x] Hidden Markov Models
 - [ ] Logistic regression
 - [ ] Mixture models

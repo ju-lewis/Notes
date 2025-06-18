@@ -43,7 +43,7 @@ Randomly discard some neurons (set output = 0)
 
 *Loss function*: Cross-entropy loss
 
-$$E = -\frac{1}{N}\sum_{y_i}{log_2(y_i)}$$
+$$E = -\frac{1}{N}\sum^N_{i=1}y_i{log_2(\hat y_i)}$$
 
 We perform batched training to make it feasible to train on massive datasets
 
