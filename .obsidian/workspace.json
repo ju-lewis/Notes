@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP30023 - Computer Systems/Workshops/W11 - Routing.md",
+                "file": "COMP30026 - Models of Computation/Lectures/L1 - Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "W11 - Routing"
+              "title": "L1 - Introduction"
             }
           }
         ]
@@ -165,8 +165,20 @@
   },
   "active": "e664c7a72a91a155",
   "lastOpenFiles": [
-    "COMP30023 - Computer Systems/Workshops/W10 - Internet Protocol.md",
+    "COMP30020 - Declarative Programming/Prolog/L8 - Constraint Logic Programming.md",
+    "COMP30020 - Declarative Programming/Prolog/L7 - Higher Order Programming.md",
+    "COMP30020 - Declarative Programming/Prolog/L6 - Tail Recursion.md",
+    "COMP30020 - Declarative Programming/Prolog/L2 & L3 - Datatypes in Prolog.md",
+    "COMP30020 - Declarative Programming/Prolog/L5 - Debugging and Efficiency.md",
+    "COMP30020 - Declarative Programming/Prolog/L4 - Logic and Resolution.md",
+    "COMP30026 - Models of Computation/Lectures/L1 - Introduction.md",
+    "COMP30020 - Declarative Programming/Haskell/L15 - Parsing.md",
+    "COMP30026 - Models of Computation/Workshops",
+    "COMP30026 - Models of Computation/Lectures",
+    "COMP30026 - Models of Computation",
+    "COMP30020 - Declarative Programming/Haskell/L14 - FFI.md",
     "COMP30023 - Computer Systems/Workshops/W11 - Routing.md",
+    "COMP30023 - Computer Systems/Workshops/W10 - Internet Protocol.md",
     "COMP30023 - Computer Systems/Workshops/W3 - Processes and Threads.md",
     "COMP30023 - Computer Systems/Workshops/W2 - OS Overview.md",
     "COMP30023 - Computer Systems/Lectures/L15 - Transport Layer Protocols.md",
@@ -182,15 +194,6 @@
     "COMP30027 - Machine Learning/Lectures/L12 - Logistic Regression.md",
     "COMP30027 - Machine Learning/Lectures/L16 - Sequential Models.md",
     "COMP30023 - Computer Systems/Lectures/L22 - NAT and Network Fragmentation.md",
-    "COMP30023 - Computer Systems/Lectures/L21 - Internet Control Protocols.md",
-    "COMP30023 - Computer Systems/Workshops/W7 - Socket Programming.md",
-    "COMP30023 - Computer Systems/Lectures/L8 - Virtual Paged Memory Continued.md",
-    "COMP30027 - Machine Learning/Lectures/L2 - Basics of Machine Learning.md",
-    "COMP30027 - Machine Learning/Lectures/L3 - Probability & Entropy Review.md",
-    "COMP30027 - Machine Learning/Lectures/L10 - Interpreting Models.md",
-    "COMP30027 - Machine Learning/Lectures/L11 - Linear Regression.md",
-    "COMP30027 - Machine Learning/Lectures/L14 - Feature Selection.md",
-    "COMP30027 - Machine Learning/Lectures/L8 - Instance-based Learning.md",
     "COMP30024 - Artificial Intelligence/imgs/preference-notation.png",
     "SWEN30006 - Software Modelling and Design/imgs/w9-strategy.png",
     "SWEN30006 - Software Modelling and Design/imgs/w6-state-machine.png",
@@ -207,9 +210,6 @@
     "SWEN30006 - Software Modelling and Design",
     "SWEN20003 - Object Oriented Software Development/imgs",
     "SWEN20003 - Object Oriented Software Development",
-    "PHYC10008 - From the Solar System to the Cosmos/Week 9",
-    "PHYC10008 - From the Solar System to the Cosmos/Week 8",
-    "PHYC10008 - From the Solar System to the Cosmos/Week 7",
-    "PHYC10008 - From the Solar System to the Cosmos/Week 6"
+    "PHYC10008 - From the Solar System to the Cosmos/Week 9"
   ]
 }
