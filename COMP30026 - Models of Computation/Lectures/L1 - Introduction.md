@@ -2,7 +2,7 @@
 >[!Example] Fundamental Logic Notation
 >$\land$ - Conjunction
 >$\lor$ - Disjunction
->$\rightarrow$ - Implication
+>$\to$ - Implication
 >$\neg$ - Negation
 
 **Logical Sudoku Solver**
