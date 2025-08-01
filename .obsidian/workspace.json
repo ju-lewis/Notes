@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP30026 - Models of Computation/Lectures/L2 - Propositional Logic.md",
+                "file": "COMP30019 - Graphics and Interaction/Lectures/L2 - Graphics and Rendering Pipeline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L2 - Propositional Logic"
+              "title": "L2 - Graphics and Rendering Pipeline"
             }
           }
         ]
@@ -165,8 +165,12 @@
   },
   "active": "e664c7a72a91a155",
   "lastOpenFiles": [
-    "COMP30026 - Models of Computation/Lectures/L1 - Introduction.md",
+    "COMP30019 - Graphics and Interaction/Lectures/L1 - Introduction.md",
+    "COMP30019 - Graphics and Interaction/Lectures/L2 - Graphics and Rendering Pipeline.md",
     "COMP30026 - Models of Computation/Lectures/L2 - Propositional Logic.md",
+    "COMP30019 - Graphics and Interaction/Lectures",
+    "COMP30019 - Graphics and Interaction/Untitled.md",
+    "COMP30026 - Models of Computation/Lectures/L1 - Introduction.md",
     "MUR/Electronics Housing/Interview Notes.md",
     "MUSI20206 - The Business of Music",
     "COMP30019 - Graphics and Interaction",
@@ -195,9 +199,6 @@
     "COMP30023 - Computer Systems/Lectures/L12 - Socket Programming.md",
     "COMP30023 - Computer Systems/Lectures/L9 - End of MMU & Secure Communication.md",
     "COMP30023 - Computer Systems/Lectures/L10 - Secure Communication Continued.md",
-    "COMP30023 - Computer Systems/Lectures/L11 - Introduction to Networks and OSI Layers.md",
-    "COMP30027 - Machine Learning/Lectures/L22 - Exam Information.md",
-    "COMP30027 - Machine Learning/Lectures/L13 - Classifier Combination.md",
     "COMP30024 - Artificial Intelligence/imgs/preference-notation.png",
     "SWEN30006 - Software Modelling and Design/imgs/w9-strategy.png",
     "SWEN30006 - Software Modelling and Design/imgs/w6-state-machine.png",
@@ -209,7 +210,6 @@
     "SWEN30006 - Software Modelling and Design/imgs/w1-use-case-diagram.png",
     "SWEN30006 - Software Modelling and Design/imgs/use-case-diagram.png",
     "SWEN30006 - Software Modelling and Design/Workshops",
-    "SWEN30006 - Software Modelling and Design/Lectures",
-    "SWEN30006 - Software Modelling and Design/imgs"
+    "SWEN30006 - Software Modelling and Design/Lectures"
   ]
 }
