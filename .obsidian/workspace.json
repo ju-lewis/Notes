@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP30019 - Graphics and Interaction/Lectures/L2 - Graphics and Rendering Pipeline.md",
+                "file": "COMP30026 - Models of Computation/Lectures/L3 - Consequence and Satisfaction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L2 - Graphics and Rendering Pipeline"
+              "title": "L3 - Consequence and Satisfaction"
             }
           }
         ]
@@ -165,12 +165,16 @@
   },
   "active": "e664c7a72a91a155",
   "lastOpenFiles": [
-    "COMP30019 - Graphics and Interaction/Lectures/L1 - Introduction.md",
-    "COMP30019 - Graphics and Interaction/Lectures/L2 - Graphics and Rendering Pipeline.md",
+    "COMP30026 - Models of Computation/Lectures/L1 - Introduction.md",
     "COMP30026 - Models of Computation/Lectures/L2 - Propositional Logic.md",
+    "COMP30026 - Models of Computation/Lectures/L3 - Consequence and Satisfaction.md",
+    "COMP30022 - IT Project/Lectures/L2 -.md",
+    "COMP30019 - Graphics and Interaction/Lectures/L2 - Graphics and Rendering Pipeline.md",
+    "COMP30022 - IT Project/Lectures",
+    "COMP30022 - IT Project",
+    "COMP30019 - Graphics and Interaction/Lectures/L1 - Introduction.md",
     "COMP30019 - Graphics and Interaction/Lectures",
     "COMP30019 - Graphics and Interaction/Untitled.md",
-    "COMP30026 - Models of Computation/Lectures/L1 - Introduction.md",
     "MUR/Electronics Housing/Interview Notes.md",
     "MUSI20206 - The Business of Music",
     "COMP30019 - Graphics and Interaction",
@@ -197,8 +201,6 @@
     "COMP30023 - Computer Systems/Lectures/L14 - HTTP and HTML.md",
     "COMP30023 - Computer Systems/Lectures/L13 - DNS, SMTP, IMAP.md",
     "COMP30023 - Computer Systems/Lectures/L12 - Socket Programming.md",
-    "COMP30023 - Computer Systems/Lectures/L9 - End of MMU & Secure Communication.md",
-    "COMP30023 - Computer Systems/Lectures/L10 - Secure Communication Continued.md",
     "COMP30024 - Artificial Intelligence/imgs/preference-notation.png",
     "SWEN30006 - Software Modelling and Design/imgs/w9-strategy.png",
     "SWEN30006 - Software Modelling and Design/imgs/w6-state-machine.png",
@@ -208,8 +210,6 @@
     "SWEN30006 - Software Modelling and Design/imgs/w2-ssd-1.png",
     "SWEN30006 - Software Modelling and Design/imgs/w2-domain-class-diagram.png",
     "SWEN30006 - Software Modelling and Design/imgs/w1-use-case-diagram.png",
-    "SWEN30006 - Software Modelling and Design/imgs/use-case-diagram.png",
-    "SWEN30006 - Software Modelling and Design/Workshops",
-    "SWEN30006 - Software Modelling and Design/Lectures"
+    "SWEN30006 - Software Modelling and Design/imgs/use-case-diagram.png"
   ]
 }
