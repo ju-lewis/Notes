@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP30026 - Models of Computation/Lectures/L3 - Consequence and Satisfaction.md",
+                "file": "COMP30026 - Models of Computation/Lectures/L4 - Resolution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L3 - Consequence and Satisfaction"
+              "title": "L4 - Resolution"
             }
           }
         ]
@@ -165,9 +165,10 @@
   },
   "active": "e664c7a72a91a155",
   "lastOpenFiles": [
-    "COMP30026 - Models of Computation/Lectures/L1 - Introduction.md",
-    "COMP30026 - Models of Computation/Lectures/L2 - Propositional Logic.md",
     "COMP30026 - Models of Computation/Lectures/L3 - Consequence and Satisfaction.md",
+    "COMP30026 - Models of Computation/Lectures/L2 - Propositional Logic.md",
+    "COMP30026 - Models of Computation/Lectures/L4 - Resolution.md",
+    "COMP30026 - Models of Computation/Lectures/L1 - Introduction.md",
     "COMP30022 - IT Project/Lectures/L2 -.md",
     "COMP30019 - Graphics and Interaction/Lectures/L2 - Graphics and Rendering Pipeline.md",
     "COMP30022 - IT Project/Lectures",
@@ -200,7 +201,6 @@
     "COMP30023 - Computer Systems/Lectures/L15 - Transport Layer Protocols.md",
     "COMP30023 - Computer Systems/Lectures/L14 - HTTP and HTML.md",
     "COMP30023 - Computer Systems/Lectures/L13 - DNS, SMTP, IMAP.md",
-    "COMP30023 - Computer Systems/Lectures/L12 - Socket Programming.md",
     "COMP30024 - Artificial Intelligence/imgs/preference-notation.png",
     "SWEN30006 - Software Modelling and Design/imgs/w9-strategy.png",
     "SWEN30006 - Software Modelling and Design/imgs/w6-state-machine.png",
