@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP30019 - Graphics and Interaction/Lectures/L4 - Introduction to Ray Tracing.md",
+                "file": "MUSI20206 - The Business of Music/Lectures/L2 - Copyright and Royalties.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L4 - Introduction to Ray Tracing"
+              "title": "L2 - Copyright and Royalties"
             }
           }
         ]
@@ -165,8 +165,12 @@
   },
   "active": "e664c7a72a91a155",
   "lastOpenFiles": [
-    "COMP30019 - Graphics and Interaction/Lectures/L3 - 3D Geometry.md",
+    "MUSI20206 - The Business of Music/Lectures",
+    "Untitled.md",
+    "MUSI20206 - The Business of Music/Lectures/L2 - Copyright and Royalties.md",
+    "MUSI20206 - The Business of Music",
     "COMP30019 - Graphics and Interaction/Lectures/L4 - Introduction to Ray Tracing.md",
+    "COMP30019 - Graphics and Interaction/Lectures/L3 - 3D Geometry.md",
     "COMP30026 - Models of Computation/Lectures/L4 - Resolution.md",
     "COMP30026 - Models of Computation/Lectures/L3 - Consequence and Satisfaction.md",
     "COMP30026 - Models of Computation/Lectures/L2 - Propositional Logic.md",
@@ -194,13 +198,9 @@
     "COMP30020 - Declarative Programming/Haskell/L15 - Parsing.md",
     "COMP30026 - Models of Computation/Workshops",
     "COMP30026 - Models of Computation/Lectures",
-    "COMP30026 - Models of Computation",
     "COMP30020 - Declarative Programming/Haskell/L14 - FFI.md",
     "COMP30023 - Computer Systems/Workshops/W11 - Routing.md",
     "COMP30023 - Computer Systems/Workshops/W10 - Internet Protocol.md",
-    "COMP30023 - Computer Systems/Workshops/W3 - Processes and Threads.md",
-    "COMP30023 - Computer Systems/Workshops/W2 - OS Overview.md",
-    "COMP30023 - Computer Systems/Lectures/L15 - Transport Layer Protocols.md",
     "COMP30024 - Artificial Intelligence/imgs/preference-notation.png",
     "SWEN30006 - Software Modelling and Design/imgs/w9-strategy.png",
     "SWEN30006 - Software Modelling and Design/imgs/w6-state-machine.png",
