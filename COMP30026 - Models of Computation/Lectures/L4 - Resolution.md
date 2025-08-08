@@ -70,3 +70,4 @@ So the disjunctions and conjunctions are implicit
 - Conjunction is true iff all clauses are true, which is inherently true for an empty set
 
 
+
