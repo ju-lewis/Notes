@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP30019 - Graphics and Interaction/Lectures/L3 - 3D Geometry.md",
+                "file": "COMP30019 - Graphics and Interaction/Lectures/L4 - Introduction to Ray Tracing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L3 - 3D Geometry"
+              "title": "L4 - Introduction to Ray Tracing"
             }
           }
         ]
@@ -165,8 +165,8 @@
   },
   "active": "e664c7a72a91a155",
   "lastOpenFiles": [
-    "COMP30019 - Graphics and Interaction/Lectures/L4 - Introduction to Ray Tracing.md",
     "COMP30019 - Graphics and Interaction/Lectures/L3 - 3D Geometry.md",
+    "COMP30019 - Graphics and Interaction/Lectures/L4 - Introduction to Ray Tracing.md",
     "COMP30026 - Models of Computation/Lectures/L4 - Resolution.md",
     "COMP30026 - Models of Computation/Lectures/L3 - Consequence and Satisfaction.md",
     "COMP30026 - Models of Computation/Lectures/L2 - Propositional Logic.md",
