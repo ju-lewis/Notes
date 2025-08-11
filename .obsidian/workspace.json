@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MUSI20206 - The Business of Music/Lectures/L2 - Copyright and Royalties.md",
+                "file": "COMP30026 - Models of Computation/Lectures/L5 - Predicate Logic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L2 - Copyright and Royalties"
+              "title": "L5 - Predicate Logic"
             }
           }
         ]
@@ -165,13 +165,14 @@
   },
   "active": "e664c7a72a91a155",
   "lastOpenFiles": [
+    "COMP30026 - Models of Computation/Lectures/L4 - Resolution.md",
+    "COMP30026 - Models of Computation/Lectures/L5 - Predicate Logic.md",
+    "MUSI20206 - The Business of Music/Lectures/L2 - Copyright and Royalties.md",
     "MUSI20206 - The Business of Music/Lectures",
     "Untitled.md",
-    "MUSI20206 - The Business of Music/Lectures/L2 - Copyright and Royalties.md",
     "MUSI20206 - The Business of Music",
     "COMP30019 - Graphics and Interaction/Lectures/L4 - Introduction to Ray Tracing.md",
     "COMP30019 - Graphics and Interaction/Lectures/L3 - 3D Geometry.md",
-    "COMP30026 - Models of Computation/Lectures/L4 - Resolution.md",
     "COMP30026 - Models of Computation/Lectures/L3 - Consequence and Satisfaction.md",
     "COMP30026 - Models of Computation/Lectures/L2 - Propositional Logic.md",
     "COMP30026 - Models of Computation/Lectures/L1 - Introduction.md",
@@ -197,7 +198,6 @@
     "COMP30020 - Declarative Programming/Prolog/L4 - Logic and Resolution.md",
     "COMP30020 - Declarative Programming/Haskell/L15 - Parsing.md",
     "COMP30026 - Models of Computation/Workshops",
-    "COMP30026 - Models of Computation/Lectures",
     "COMP30020 - Declarative Programming/Haskell/L14 - FFI.md",
     "COMP30023 - Computer Systems/Workshops/W11 - Routing.md",
     "COMP30023 - Computer Systems/Workshops/W10 - Internet Protocol.md",
