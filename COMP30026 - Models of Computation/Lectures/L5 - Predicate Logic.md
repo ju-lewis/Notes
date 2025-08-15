@@ -15,11 +15,16 @@ The expressions $\text{Emu}$ and $\text{Flies}$ encode information beyond just '
 1. Constants
 	- e.g. $d$ represents *the* donkey
 	- A specific object/single instance we are referring to
+	- Use a lower case letter (near the start of the alphabet)
 2. Predicates
 	- e.g. $P$ for "\_ is pushing \_" or $H$ for "\_ is happy".
 3. Quantifiers
+	- $\forall, \exists$
 4. Variables
+	- Can be bound to values
+	- Use a lower case letter (near the end of the alphabet)
 5. Functions
+	- E.g. $f,g,+$
 
 
 >[!Example]
