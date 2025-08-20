@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP30019 - Graphics and Interaction/Lectures/L5 - Geometry Transformation.md",
+                "file": "COMP30019 - Graphics and Interaction/Lectures/L6 - Coordinates and Camera.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L5 - Geometry Transformation"
+              "title": "L6 - Coordinates and Camera"
             }
           }
         ]
@@ -163,8 +163,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c97bbfdf07a7dc8",
+  "active": "e664c7a72a91a155",
   "lastOpenFiles": [
+    "COMP30019 - Graphics and Interaction/Lectures/L6 - Coordinates and Camera.md",
+    "COMP30019 - Graphics and Interaction/Lectures/L5 - Geometry Transformation.md",
     "COMP30023 - Computer Systems/Lectures/L18 - TCP Sliding Window.md",
     "COMP30023 - Computer Systems/Lectures/L17 - TCP Continued.md",
     "COMP30023 - Computer Systems/Lectures/L14 - HTTP and HTML.md",
@@ -180,7 +182,6 @@
     "COMP30024 - Artificial Intelligence/workshops/W7 - Constraint Satisfaction Problems.md",
     "COMP30024 - Artificial Intelligence/workshops/W5 - Machine Learning in Game Play.md",
     "COMP30024 - Artificial Intelligence/workshops/W2 - Uninformed Search Strategies.md",
-    "COMP30019 - Graphics and Interaction/Lectures/L5 - Geometry Transformation.md",
     "COMP30026 - Models of Computation/Lectures/L6 - Predicate Logic Continued.md",
     "MUSI20206 - The Business of Music/Lectures/L3 - Economic Models.md",
     "MUSI20206 - The Business of Music/Lectures/L2 - Copyright and Royalties.md",
@@ -191,7 +192,6 @@
     "COMP30019 - Graphics and Interaction/Lectures/L3 - 3D Geometry.md",
     "COMP30026 - Models of Computation/Lectures/L4 - Resolution.md",
     "MUSI20206 - The Business of Music/Lectures",
-    "Untitled.md",
     "MUSI20206 - The Business of Music",
     "COMP30022 - IT Project/Lectures",
     "COMP30022 - IT Project",
