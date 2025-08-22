@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP30019 - Graphics and Interaction/Lectures/L6 - Coordinates and Camera.md",
+                "file": "MUSI20206 - The Business of Music/Lectures/L4 - Recorded Music Industry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L6 - Coordinates and Camera"
+              "title": "L4 - Recorded Music Industry"
             }
           }
         ]
@@ -155,6 +155,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -163,8 +164,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e664c7a72a91a155",
+  "active": "6c97bbfdf07a7dc8",
   "lastOpenFiles": [
+    "MUSI20206 - The Business of Music/img",
+    "MUSI20206 - The Business of Music/img/long-tail.png",
+    "MUSI20206 - The Business of Music/Lectures/L3 - Economic Models of Publishing.md",
+    "MUSI20206 - The Business of Music/Lectures/L4 - Recorded Music Industry.md",
     "COMP30019 - Graphics and Interaction/Lectures/L6 - Coordinates and Camera.md",
     "COMP30019 - Graphics and Interaction/Lectures/L5 - Geometry Transformation.md",
     "COMP30023 - Computer Systems/Lectures/L18 - TCP Sliding Window.md",
@@ -183,14 +188,11 @@
     "COMP30024 - Artificial Intelligence/workshops/W5 - Machine Learning in Game Play.md",
     "COMP30024 - Artificial Intelligence/workshops/W2 - Uninformed Search Strategies.md",
     "COMP30026 - Models of Computation/Lectures/L6 - Predicate Logic Continued.md",
-    "MUSI20206 - The Business of Music/Lectures/L3 - Economic Models.md",
     "MUSI20206 - The Business of Music/Lectures/L2 - Copyright and Royalties.md",
     "COMP30026 - Models of Computation/Lectures/L5 - Predicate Logic.md",
     "COMP30019 - Graphics and Interaction/Lectures/L4 - Introduction to Ray Tracing.md",
     "COMP30019 - Graphics and Interaction/Lectures/L2 - Graphics and Rendering Pipeline.md",
     "COMP30019 - Graphics and Interaction/Lectures/L1 - Introduction.md",
-    "COMP30019 - Graphics and Interaction/Lectures/L3 - 3D Geometry.md",
-    "COMP30026 - Models of Computation/Lectures/L4 - Resolution.md",
     "MUSI20206 - The Business of Music/Lectures",
     "MUSI20206 - The Business of Music",
     "COMP30022 - IT Project/Lectures",
@@ -209,7 +211,6 @@
     "SWEN30006 - Software Modelling and Design/imgs/w2-ssd-2.png",
     "SWEN30006 - Software Modelling and Design/imgs/w2-ssd-1.png",
     "SWEN30006 - Software Modelling and Design/imgs/w2-domain-class-diagram.png",
-    "SWEN30006 - Software Modelling and Design/imgs/w1-use-case-diagram.png",
-    "SWEN30006 - Software Modelling and Design/imgs/use-case-diagram.png"
+    "SWEN30006 - Software Modelling and Design/imgs/w1-use-case-diagram.png"
   ]
 }
