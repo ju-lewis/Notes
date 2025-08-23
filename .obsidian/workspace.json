@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MUSI20206 - The Business of Music/Lectures/L4 - Recorded Music Industry.md",
+                "file": "COMP30026 - Models of Computation/Lectures/L7 - Predicate Logic Semantics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L4 - Recorded Music Industry"
+              "title": "L7 - Predicate Logic Semantics"
             }
           }
         ]
@@ -155,7 +155,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -166,10 +165,20 @@
   },
   "active": "6c97bbfdf07a7dc8",
   "lastOpenFiles": [
+    "COMP30026 - Models of Computation/imgs/predicate-validity.png",
+    "COMP30026 - Models of Computation/Lectures/L6 - Predicate Logic Continued.md",
+    "COMP30026 - Models of Computation/Lectures/L7 - Predicate Logic Semantics.md",
+    "COMP30026 - Models of Computation/imgs",
+    "COMP30026 - Models of Computation/Untitled.md",
+    "COMP30026 - Models of Computation/imgs/compositional-truth.png",
+    "COMP30020 - Declarative Programming/Haskell/L12 - Laziness.md",
+    "COMP30020 - Declarative Programming/Haskell/L11 - Monads, continued.md",
+    "COMP30020 - Declarative Programming/Haskell/L10 - Monads.md",
+    "COMP30020 - Declarative Programming/Haskell/L8 - Functional Design Patterns.md",
+    "MUSI20206 - The Business of Music/Lectures/L4 - Recorded Music Industry.md",
     "MUSI20206 - The Business of Music/img",
     "MUSI20206 - The Business of Music/img/long-tail.png",
     "MUSI20206 - The Business of Music/Lectures/L3 - Economic Models of Publishing.md",
-    "MUSI20206 - The Business of Music/Lectures/L4 - Recorded Music Industry.md",
     "COMP30019 - Graphics and Interaction/Lectures/L6 - Coordinates and Camera.md",
     "COMP30019 - Graphics and Interaction/Lectures/L5 - Geometry Transformation.md",
     "COMP30023 - Computer Systems/Lectures/L18 - TCP Sliding Window.md",
@@ -186,13 +195,6 @@
     "COMP30024 - Artificial Intelligence/workshops/W4 - Adversarial Search.md",
     "COMP30024 - Artificial Intelligence/workshops/W7 - Constraint Satisfaction Problems.md",
     "COMP30024 - Artificial Intelligence/workshops/W5 - Machine Learning in Game Play.md",
-    "COMP30024 - Artificial Intelligence/workshops/W2 - Uninformed Search Strategies.md",
-    "COMP30026 - Models of Computation/Lectures/L6 - Predicate Logic Continued.md",
-    "MUSI20206 - The Business of Music/Lectures/L2 - Copyright and Royalties.md",
-    "COMP30026 - Models of Computation/Lectures/L5 - Predicate Logic.md",
-    "COMP30019 - Graphics and Interaction/Lectures/L4 - Introduction to Ray Tracing.md",
-    "COMP30019 - Graphics and Interaction/Lectures/L2 - Graphics and Rendering Pipeline.md",
-    "COMP30019 - Graphics and Interaction/Lectures/L1 - Introduction.md",
     "MUSI20206 - The Business of Music/Lectures",
     "MUSI20206 - The Business of Music",
     "COMP30022 - IT Project/Lectures",
@@ -201,8 +203,6 @@
     "MUSI20206 - The Business of Music",
     "COMP30019 - Graphics and Interaction",
     "COMP30022 - IT Project/Lectures",
-    "COMP30022 - IT Project",
-    "COMP30026 - Models of Computation/Workshops",
     "COMP30024 - Artificial Intelligence/imgs/preference-notation.png",
     "SWEN30006 - Software Modelling and Design/imgs/w9-strategy.png",
     "SWEN30006 - Software Modelling and Design/imgs/w6-state-machine.png",
@@ -210,7 +210,6 @@
     "SWEN30006 - Software Modelling and Design/imgs/w2-use-case-diagram.png",
     "SWEN30006 - Software Modelling and Design/imgs/w2-ssd-2.png",
     "SWEN30006 - Software Modelling and Design/imgs/w2-ssd-1.png",
-    "SWEN30006 - Software Modelling and Design/imgs/w2-domain-class-diagram.png",
-    "SWEN30006 - Software Modelling and Design/imgs/w1-use-case-diagram.png"
+    "SWEN30006 - Software Modelling and Design/imgs/w2-domain-class-diagram.png"
   ]
 }
