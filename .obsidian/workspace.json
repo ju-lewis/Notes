@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP30026 - Models of Computation/Lectures/L7 - Predicate Logic Semantics.md",
+                "file": "COMP30026 - Models of Computation/Lectures/L8  - Predicate Logic Resolution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L7 - Predicate Logic Semantics"
+              "title": "L8  - Predicate Logic Resolution"
             }
           }
         ]
@@ -155,6 +155,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -165,9 +166,11 @@
   },
   "active": "6c97bbfdf07a7dc8",
   "lastOpenFiles": [
+    "COMP30026 - Models of Computation/imgs/predicate-resolution.png",
+    "COMP30026 - Models of Computation/Lectures/L7 - Predicate Logic Semantics.md",
+    "COMP30026 - Models of Computation/Lectures/L8  - Predicate Logic Resolution.md",
     "COMP30026 - Models of Computation/imgs/predicate-validity.png",
     "COMP30026 - Models of Computation/Lectures/L6 - Predicate Logic Continued.md",
-    "COMP30026 - Models of Computation/Lectures/L7 - Predicate Logic Semantics.md",
     "COMP30026 - Models of Computation/imgs",
     "COMP30026 - Models of Computation/Untitled.md",
     "COMP30026 - Models of Computation/imgs/compositional-truth.png",
@@ -194,7 +197,6 @@
     "COMP30024 - Artificial Intelligence/Lectures/L3 - Problem Solving and Search.md",
     "COMP30024 - Artificial Intelligence/workshops/W4 - Adversarial Search.md",
     "COMP30024 - Artificial Intelligence/workshops/W7 - Constraint Satisfaction Problems.md",
-    "COMP30024 - Artificial Intelligence/workshops/W5 - Machine Learning in Game Play.md",
     "MUSI20206 - The Business of Music/Lectures",
     "MUSI20206 - The Business of Music",
     "COMP30022 - IT Project/Lectures",
@@ -209,7 +211,6 @@
     "SWEN30006 - Software Modelling and Design/imgs/w6-nested-states.png",
     "SWEN30006 - Software Modelling and Design/imgs/w2-use-case-diagram.png",
     "SWEN30006 - Software Modelling and Design/imgs/w2-ssd-2.png",
-    "SWEN30006 - Software Modelling and Design/imgs/w2-ssd-1.png",
-    "SWEN30006 - Software Modelling and Design/imgs/w2-domain-class-diagram.png"
+    "SWEN30006 - Software Modelling and Design/imgs/w2-ssd-1.png"
   ]
 }
