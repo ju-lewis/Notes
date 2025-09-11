@@ -54,3 +54,6 @@ Allen Bergfrede is a leading music industry academic
 ## Super Fans
 Anna Nicolaou:
 - Increasingly, the chatter among music executives is about "monteising superfans"
+
+Alan Bergfrede:
+- ![[copyright.png]]
