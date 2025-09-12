@@ -44,4 +44,5 @@ If the model (and rasterized image) is scaled up (*magnified*) from the original
 - Bilinear interpolation -> Take 4 nearest sample locations and interpolate texture colour
 
 If the model is scaled down (*minified*) from the original, there are less screen samples than texture samples
+- Supersampling can be used, but it's very expensive
 
