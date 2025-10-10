@@ -72,7 +72,7 @@ If applying configuration $\delta$ to config $C$ yields config $C'$, we write $C
 
 Let $M$ be a TM. Then $L(M) = \{w | M \text{accepts} w\}$
 
-Say that $M$ recognises A if A = L(MM)
+Say that $M$ recognises A if A = L(M)
 - A is Turing-recognisable if $A = L(M)$ for some TM $M$
 
 Say that $M$ decides $A$ if $A=L(M)$ and $M$ is a decider.
