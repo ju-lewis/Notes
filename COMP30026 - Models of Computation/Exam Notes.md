@@ -1,9 +1,11 @@
 
 # Remaining Questions to do:
 - P3.3
-- 
+- Tutorial Q on creating PDAs from CFGs
+- Tutorial Q on writing CFGs
 
 ## Propositional Logic
+- Identities (e.g. associativity, distribution, etc.)
 - Forming worded problems into propositional logic expressions
 - Simplifying to CNF / RCNF / DNF / RDNF
 - Proving $F \models G$ and $F \not \models G$
@@ -19,11 +21,13 @@
 - Definition of models (interpretation + universe)
 - Resolution proof example
 	- Especially an example of formatting resolution proof when typing
+		- `7. {F(p,q)} (2,3)`
 	- https://edstem.org/au/courses/23763/discussion/3060237
 
 
 ## DFAs and NFAs
 - NFA -> DFA subset construction example
+	- Machine languages
 - Graphs displaying closure property proofs
 - Non-regularity proofs
 	- Fooling set proof example
@@ -31,16 +35,21 @@
 - Mathematical definition (5-tuple) for NFAs and DFAs
 - Regular expression syntax
 	- Regular expression proofs (e.g. regular $\iff$ regex, etc..)
+	- Generative model
 
 ## CFGs and PDAs
 - Creating CFG for language description
+	- Generative models
 - CFG to PDA algorithm
 	- Also CFG to PDA examples (without algorithm)
 - Mathematical definition for PDAs
 
 
 ## Turing Machines
-- Formal definition
+- Church-Turing thesis
+	- Every physically realisable process can be accomplished by a Turing machine
+	- Universality of Turing machines
+- Formal (mathematical) definition
 - When diagramming, reject states aren't explicitly shown, they are implicitly reached from missing transitions
 - Known undecidable problems and their 'arguments' (and how to reduce to them)
 	- CFG problems
